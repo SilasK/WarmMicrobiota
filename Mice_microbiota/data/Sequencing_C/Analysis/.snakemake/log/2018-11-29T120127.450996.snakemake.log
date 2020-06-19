@@ -1,0 +1,35 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	dereplicate
+	1	removeChimeras
+	2
+
+[Thu Nov 29 12:01:27 2018]
+rule dereplicate:
+    input: filtered/C1_R1.fastq.gz, filtered/C14_R1.fastq.gz, filtered/C26_R1.fastq.gz, filtered/C38_R1.fastq.gz, filtered/C50_R1.fastq.gz, filtered/C62_R1.fastq.gz, filtered/C74_R1.fastq.gz, filtered/C86_R1.fastq.gz, filtered/C3_R1.fastq.gz, filtered/C15_R1.fastq.gz, filtered/C27_R1.fastq.gz, filtered/C39_R1.fastq.gz, filtered/C51_R1.fastq.gz, filtered/C63_R1.fastq.gz, filtered/C75_R1.fastq.gz, filtered/C87_R1.fastq.gz, filtered/C4_R1.fastq.gz, filtered/C16_R1.fastq.gz, filtered/C28_R1.fastq.gz, filtered/C40_R1.fastq.gz, filtered/C52_R1.fastq.gz, filtered/C64_R1.fastq.gz, filtered/C76_R1.fastq.gz, filtered/C88_R1.fastq.gz, filtered/C5_R1.fastq.gz, filtered/C17_R1.fastq.gz, filtered/C29_R1.fastq.gz, filtered/C41_R1.fastq.gz, filtered/C53_R1.fastq.gz, filtered/C65_R1.fastq.gz, filtered/C77_R1.fastq.gz, filtered/C89_R1.fastq.gz, filtered/C6_R1.fastq.gz, filtered/C18_R1.fastq.gz, filtered/C30_R1.fastq.gz, filtered/C42_R1.fastq.gz, filtered/C54_R1.fastq.gz, filtered/C66_R1.fastq.gz, filtered/C78_R1.fastq.gz, filtered/C90_R1.fastq.gz, filtered/C7_R1.fastq.gz, filtered/C19_R1.fastq.gz, filtered/C31_R1.fastq.gz, filtered/C43_R1.fastq.gz, filtered/C55_R1.fastq.gz, filtered/C67_R1.fastq.gz, filtered/C79_R1.fastq.gz, filtered/C91_R1.fastq.gz, filtered/C8_R1.fastq.gz, filtered/C20_R1.fastq.gz, filtered/C32_R1.fastq.gz, filtered/C1_R2.fastq.gz, filtered/C14_R2.fastq.gz, filtered/C26_R2.fastq.gz, filtered/C38_R2.fastq.gz, filtered/C50_R2.fastq.gz, filtered/C62_R2.fastq.gz, filtered/C74_R2.fastq.gz, filtered/C86_R2.fastq.gz, filtered/C3_R2.fastq.gz, filtered/C15_R2.fastq.gz, filtered/C27_R2.fastq.gz, filtered/C39_R2.fastq.gz, filtered/C51_R2.fastq.gz, filtered/C63_R2.fastq.gz, filtered/C75_R2.fastq.gz, filtered/C87_R2.fastq.gz, filtered/C4_R2.fastq.gz, filtered/C16_R2.fastq.gz, filtered/C28_R2.fastq.gz, filtered/C40_R2.fastq.gz, filtered/C52_R2.fastq.gz, filtered/C64_R2.fastq.gz, filtered/C76_R2.fastq.gz, filtered/C88_R2.fastq.gz, filtered/C5_R2.fastq.gz, filtered/C17_R2.fastq.gz, filtered/C29_R2.fastq.gz, filtered/C41_R2.fastq.gz, filtered/C53_R2.fastq.gz, filtered/C65_R2.fastq.gz, filtered/C77_R2.fastq.gz, filtered/C89_R2.fastq.gz, filtered/C6_R2.fastq.gz, filtered/C18_R2.fastq.gz, filtered/C30_R2.fastq.gz, filtered/C42_R2.fastq.gz, filtered/C54_R2.fastq.gz, filtered/C66_R2.fastq.gz, filtered/C78_R2.fastq.gz, filtered/C90_R2.fastq.gz, filtered/C7_R2.fastq.gz, filtered/C19_R2.fastq.gz, filtered/C31_R2.fastq.gz, filtered/C43_R2.fastq.gz, filtered/C55_R2.fastq.gz, filtered/C67_R2.fastq.gz, filtered/C79_R2.fastq.gz, filtered/C91_R2.fastq.gz, filtered/C8_R2.fastq.gz, filtered/C20_R2.fastq.gz, filtered/C32_R2.fastq.gz, model/ErrorRates_R1.rds, model/ErrorRates_R2.rds
+    output: output/seqtab_with_chimeras.rds, stats/Nreads_dereplicated.txt
+    log: logs/dada2/dereplicate.txt
+    jobid: 1
+
+Removing temporary output file stats/Nreads_dereplicated.txt.
+[Thu Nov 29 12:51:20 2018]
+Finished job 1.
+1 of 2 steps (50%) done
+
+[Thu Nov 29 12:51:20 2018]
+rule removeChimeras:
+    input: output/seqtab_with_chimeras.rds
+    output: output/seqtab_nochimeras.rds, stats/Nreads_chimera_removed.txt
+    log: logs/dada2/removeChimeras.txt
+    jobid: 0
+
+Removing temporary output file output/seqtab_with_chimeras.rds.
+Removing temporary output file stats/Nreads_chimera_removed.txt.
+[Thu Nov 29 13:05:52 2018]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/log/2018-11-29T120127.450996.snakemake.log

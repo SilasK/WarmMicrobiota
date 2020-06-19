@@ -1,0 +1,91 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	build_tree
+	1	combine_read_counts
+	1	dereplicate
+	1	filterLength
+	1	get_rep_seq
+	1	removeChimeras
+	7
+
+[Thu Nov 14 06:31:43 2019]
+rule dereplicate:
+    input: filtered/B121_R1.fastq.gz, filtered/B122_R1.fastq.gz, filtered/B123_R1.fastq.gz, filtered/B124_R1.fastq.gz, filtered/B125_R1.fastq.gz, filtered/B126_R1.fastq.gz, filtered/B127_R1.fastq.gz, filtered/B128_R1.fastq.gz, filtered/B129_R1.fastq.gz, filtered/B130_R1.fastq.gz, filtered/B131_R1.fastq.gz, filtered/B132_R1.fastq.gz, filtered/B133_R1.fastq.gz, filtered/B134_R1.fastq.gz, filtered/B135_R1.fastq.gz, filtered/B136_R1.fastq.gz, filtered/B137_R1.fastq.gz, filtered/B138_R1.fastq.gz, filtered/B139_R1.fastq.gz, filtered/B140_R1.fastq.gz, filtered/B141_R1.fastq.gz, filtered/B142_R1.fastq.gz, filtered/B143_R1.fastq.gz, filtered/B144_R1.fastq.gz, filtered/B145_R1.fastq.gz, filtered/B146_R1.fastq.gz, filtered/B147_R1.fastq.gz, filtered/B148_R1.fastq.gz, filtered/B149_R1.fastq.gz, filtered/B150_R1.fastq.gz, filtered/B151_R1.fastq.gz, filtered/B152_R1.fastq.gz, filtered/B153_R1.fastq.gz, filtered/B154_R1.fastq.gz, filtered/B155_R1.fastq.gz, filtered/B156_R1.fastq.gz, filtered/B157_R1.fastq.gz, filtered/B158_R1.fastq.gz, filtered/B159_R1.fastq.gz, filtered/B160_R1.fastq.gz, filtered/B161_R1.fastq.gz, filtered/B162_R1.fastq.gz, filtered/B163_R1.fastq.gz, filtered/B164_R1.fastq.gz, filtered/B165_R1.fastq.gz, filtered/B166_R1.fastq.gz, filtered/B167_R1.fastq.gz, filtered/B168_R1.fastq.gz, filtered/B169_R1.fastq.gz, filtered/B170_R1.fastq.gz, filtered/B171_R1.fastq.gz, filtered/B172_R1.fastq.gz, filtered/B173_R1.fastq.gz, filtered/B174_R1.fastq.gz, filtered/B175_R1.fastq.gz, filtered/B176_R1.fastq.gz, filtered/B177_R1.fastq.gz, filtered/B178_R1.fastq.gz, filtered/B179_R1.fastq.gz, filtered/B180_R1.fastq.gz, filtered/B181_R1.fastq.gz, filtered/B182_R1.fastq.gz, filtered/B183_R1.fastq.gz, filtered/B184_R1.fastq.gz, filtered/B185_R1.fastq.gz, filtered/B186_R1.fastq.gz, filtered/B187_R1.fastq.gz, filtered/B188_R1.fastq.gz, filtered/B189_R1.fastq.gz, filtered/B190_R1.fastq.gz, filtered/B191_R1.fastq.gz, filtered/B192_R1.fastq.gz, filtered/B121_R2.fastq.gz, filtered/B122_R2.fastq.gz, filtered/B123_R2.fastq.gz, filtered/B124_R2.fastq.gz, filtered/B125_R2.fastq.gz, filtered/B126_R2.fastq.gz, filtered/B127_R2.fastq.gz, filtered/B128_R2.fastq.gz, filtered/B129_R2.fastq.gz, filtered/B130_R2.fastq.gz, filtered/B131_R2.fastq.gz, filtered/B132_R2.fastq.gz, filtered/B133_R2.fastq.gz, filtered/B134_R2.fastq.gz, filtered/B135_R2.fastq.gz, filtered/B136_R2.fastq.gz, filtered/B137_R2.fastq.gz, filtered/B138_R2.fastq.gz, filtered/B139_R2.fastq.gz, filtered/B140_R2.fastq.gz, filtered/B141_R2.fastq.gz, filtered/B142_R2.fastq.gz, filtered/B143_R2.fastq.gz, filtered/B144_R2.fastq.gz, filtered/B145_R2.fastq.gz, filtered/B146_R2.fastq.gz, filtered/B147_R2.fastq.gz, filtered/B148_R2.fastq.gz, filtered/B149_R2.fastq.gz, filtered/B150_R2.fastq.gz, filtered/B151_R2.fastq.gz, filtered/B152_R2.fastq.gz, filtered/B153_R2.fastq.gz, filtered/B154_R2.fastq.gz, filtered/B155_R2.fastq.gz, filtered/B156_R2.fastq.gz, filtered/B157_R2.fastq.gz, filtered/B158_R2.fastq.gz, filtered/B159_R2.fastq.gz, filtered/B160_R2.fastq.gz, filtered/B161_R2.fastq.gz, filtered/B162_R2.fastq.gz, filtered/B163_R2.fastq.gz, filtered/B164_R2.fastq.gz, filtered/B165_R2.fastq.gz, filtered/B166_R2.fastq.gz, filtered/B167_R2.fastq.gz, filtered/B168_R2.fastq.gz, filtered/B169_R2.fastq.gz, filtered/B170_R2.fastq.gz, filtered/B171_R2.fastq.gz, filtered/B172_R2.fastq.gz, filtered/B173_R2.fastq.gz, filtered/B174_R2.fastq.gz, filtered/B175_R2.fastq.gz, filtered/B176_R2.fastq.gz, filtered/B177_R2.fastq.gz, filtered/B178_R2.fastq.gz, filtered/B179_R2.fastq.gz, filtered/B180_R2.fastq.gz, filtered/B181_R2.fastq.gz, filtered/B182_R2.fastq.gz, filtered/B183_R2.fastq.gz, filtered/B184_R2.fastq.gz, filtered/B185_R2.fastq.gz, filtered/B186_R2.fastq.gz, filtered/B187_R2.fastq.gz, filtered/B188_R2.fastq.gz, filtered/B189_R2.fastq.gz, filtered/B190_R2.fastq.gz, filtered/B191_R2.fastq.gz, filtered/B192_R2.fastq.gz, model/ErrorRates_R1.rds, model/ErrorRates_R2.rds
+    output: output/seqtab_with_chimeras.rds, stats/Nreads_dereplicated.txt
+    log: logs/dada2/dereplicate.txt
+    jobid: 7
+
+[Thu Nov 14 08:13:21 2019]
+Finished job 7.
+1 of 7 steps (14%) done
+
+[Thu Nov 14 08:13:21 2019]
+rule removeChimeras:
+    input: output/seqtab_with_chimeras.rds
+    output: output/seqtab_nochimeras.rds, stats/Nreads_chimera_removed.txt
+    log: logs/dada2/removeChimeras.txt
+    jobid: 6
+
+Removing temporary output file output/seqtab_with_chimeras.rds.
+[Thu Nov 14 08:16:42 2019]
+Finished job 6.
+2 of 7 steps (29%) done
+
+[Thu Nov 14 08:16:42 2019]
+rule combine_read_counts:
+    input: stats/Nreads_filtered.txt, stats/Nreads_dereplicated.txt, stats/Nreads_chimera_removed.txt
+    output: stats/Nreads.tsv, stats/Nreads.pdf
+    jobid: 5
+
+Removing temporary output file stats/Nreads_dereplicated.txt.
+Removing temporary output file stats/Nreads_chimera_removed.txt.
+[Thu Nov 14 08:16:43 2019]
+Finished job 5.
+3 of 7 steps (43%) done
+
+[Thu Nov 14 08:16:43 2019]
+rule filterLength:
+    input: output/seqtab_nochimeras.rds
+    output: figures/Lengths/Sequence_Length_distribution.pdf, figures/Lengths/Sequence_Length_distribution_abundance.pdf, output/seqtab.rds, output/seqtab.tsv
+    log: logs/dada2/filterLength.txt
+    jobid: 1
+
+[Thu Nov 14 08:16:51 2019]
+Finished job 1.
+4 of 7 steps (57%) done
+
+[Thu Nov 14 08:16:51 2019]
+rule get_rep_seq:
+    input: output/seqtab.tsv
+    output: taxonomy/rep_seq.fasta
+    jobid: 4
+
+[Thu Nov 14 08:16:51 2019]
+Finished job 4.
+5 of 7 steps (71%) done
+
+[Thu Nov 14 08:16:51 2019]
+rule build_tree:
+    input: output/seqtab.rds
+    output: taxonomy/alignment.fasta, taxonomy/otu_tree.nwk
+    log: logs/taxonomy/alignment.txt
+    jobid: 3
+
+[Thu Nov 14 18:07:01 2019]
+Finished job 3.
+6 of 7 steps (86%) done
+
+[Thu Nov 14 18:07:01 2019]
+localrule all:
+    input: stats/Nreads_filtered.txt, model/ErrorRates_R1.rds, output/seqtab.tsv, figures/Lengths/Sequence_Length_distribution_abundance.pdf, taxonomy/rep_seq.fasta, stats/Nreads.tsv, taxonomy/otu_tree.nwk
+    jobid: 0
+
+[Thu Nov 14 18:07:01 2019]
+Finished job 0.
+7 of 7 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_B/Analysis_warm/.snakemake/log/2019-11-14T063142.794247.snakemake.log

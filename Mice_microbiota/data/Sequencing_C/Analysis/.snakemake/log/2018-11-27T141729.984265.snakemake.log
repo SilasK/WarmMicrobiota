@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	get_rep_seq
+	2
+
+[Tue Nov 27 14:17:30 2018]
+rule get_rep_seq:
+    input: output/seqtab.tsv
+    output: taxonomy/rep_seq.fasta
+    jobid: 8
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Analysis/.snakemake/log/2018-11-27T141729.984265.snakemake.log

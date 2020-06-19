@@ -1,0 +1,32 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	aldex
+	4	aldex_plot
+	1	all
+	6
+
+[Thu Nov 29 16:22:01 2018]
+rule aldex:
+    input: data.tsv, metadata.tsv
+    output: Comparisons/TempOVA-t/stats_aldex.tsv, Comparisons/TempSH/stats_aldex.tsv, Comparisons/TempOVA/stats_aldex.tsv, Comparisons/Ova/stats_aldex.tsv
+    log: logs/aldex2.txt
+    jobid: 1
+
+[Thu Nov 29 16:23:01 2018]
+Error in rule aldex:
+    jobid: 1
+    output: Comparisons/TempOVA-t/stats_aldex.tsv, Comparisons/TempSH/stats_aldex.tsv, Comparisons/TempOVA/stats_aldex.tsv, Comparisons/Ova/stats_aldex.tsv
+    log: logs/aldex2.txt
+
+RuleException:
+CalledProcessError in line 58 of /Users/silas/Documents/GitHub/microbiome-analysis/Snakefile:
+Command ' set -euo pipefail;  Rscript /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/scripts/tmpvvtstrny.aldex.R ' returned non-zero exit status 1.
+  File "/Users/silas/Documents/GitHub/microbiome-analysis/Snakefile", line 58, in __rule_aldex
+  File "/Users/silas/anaconda3/lib/python3.6/concurrent/futures/thread.py", line 55, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/log/2018-11-29T162200.125325.snakemake.log

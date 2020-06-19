@@ -1,0 +1,20 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	aldex
+	1
+
+[Tue Nov 27 13:40:39 2018]
+rule aldex:
+    input: data.tsv, metadata.tsv
+    output: Comparisons/TempOVA-t/stats.tsv, Comparisons/TempSH/stats.tsv, Comparisons/TempOVA/stats.tsv, Comparisons/Ova/stats.tsv
+    log: logs/aldex2.txt
+    jobid: 0
+
+[Tue Nov 27 13:42:19 2018]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Analysis/.snakemake/log/2018-11-27T134038.562375.snakemake.log

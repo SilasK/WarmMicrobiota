@@ -1,0 +1,13 @@
+all
+all_profile
+all_filtered
+bbmap_qc
+combine_read_length
+plotQualityProfile
+filter
+learnErrorRates
+dereplicate
+removeChimeras
+filterLength
+IDtaxa
+get_rep_seq

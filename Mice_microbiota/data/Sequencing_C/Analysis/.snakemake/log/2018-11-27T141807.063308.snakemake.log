@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	get_rep_seq
+	2
+
+[Tue Nov 27 14:18:07 2018]
+rule get_rep_seq:
+    input: output/seqtab.tsv
+    output: taxonomy/rep_seq.fasta
+    jobid: 4
+
+[Tue Nov 27 14:18:08 2018]
+Finished job 4.
+1 of 2 steps (50%) done
+
+[Tue Nov 27 14:18:08 2018]
+localrule all:
+    input: stats/Nreads_filtered.txt, model/ErrorRates_R1.rds, output/seqtab_with_chimeras.rds, output/seqtab.tsv, figures/Lengths/Sequence_Length_distribution_abundance.pdf, taxonomy/Silva.tsv, taxonomy/GTDB.tsv, taxonomy/rep_seq.fasta
+    jobid: 0
+
+[Tue Nov 27 14:18:08 2018]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Analysis/.snakemake/log/2018-11-27T141807.063308.snakemake.log

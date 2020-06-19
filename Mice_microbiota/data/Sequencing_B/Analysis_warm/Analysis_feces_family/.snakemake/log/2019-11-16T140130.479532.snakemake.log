@@ -1,0 +1,75 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	aldex
+	2	aldex_plot
+	1	all
+	1	combine_stats
+	1	init
+	6
+
+[Sat Nov 16 14:01:31 2019]
+localrule init:
+    input: ../output/family.tsv, ../../metadata_feces.txt
+    output: data.tsv, metadata.tsv
+    jobid: 1
+
+[Sat Nov 16 14:01:33 2019]
+Finished job 1.
+1 of 6 steps (17%) done
+
+[Sat Nov 16 14:01:33 2019]
+rule aldex:
+    input: data.tsv, metadata.tsv
+    output: Comparisons/Temp/stats_aldex.tsv, Comparisons/TempTransplanted/stats_aldex.tsv
+    log: logs/aldex2.txt
+    jobid: 3
+
+[Sat Nov 16 14:01:44 2019]
+Finished job 3.
+2 of 6 steps (33%) done
+
+[Sat Nov 16 14:01:44 2019]
+rule combine_stats:
+    input: Comparisons/Temp/stats_aldex.tsv, Comparisons/TempTransplanted/stats_aldex.tsv
+    output: Comparisons/cobined_stats_aldex.tsv
+    jobid: 4
+
+[Sat Nov 16 14:01:45 2019]
+Finished job 4.
+3 of 6 steps (50%) done
+
+[Sat Nov 16 14:01:45 2019]
+rule aldex_plot:
+    input: Comparisons/Temp/stats_aldex.tsv
+    output: Comparisons/Temp/aldex_plot.pdf
+    jobid: 5
+    wildcards: comparison=Temp
+
+[Sat Nov 16 14:01:48 2019]
+Finished job 5.
+4 of 6 steps (67%) done
+
+[Sat Nov 16 14:01:48 2019]
+rule aldex_plot:
+    input: Comparisons/TempTransplanted/stats_aldex.tsv
+    output: Comparisons/TempTransplanted/aldex_plot.pdf
+    jobid: 2
+    wildcards: comparison=TempTransplanted
+
+[Sat Nov 16 14:01:50 2019]
+Finished job 2.
+5 of 6 steps (83%) done
+
+[Sat Nov 16 14:01:50 2019]
+localrule all:
+    input: data.tsv, metadata.tsv, Comparisons/Temp/stats_aldex.tsv, Comparisons/Temp/aldex_plot.pdf, Comparisons/TempTransplanted/stats_aldex.tsv, Comparisons/TempTransplanted/aldex_plot.pdf, Comparisons/cobined_stats_aldex.tsv
+    jobid: 0
+
+[Sat Nov 16 14:01:50 2019]
+Finished job 0.
+6 of 6 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_B/Analysis_warm/Analysis_feces_family/.snakemake/log/2019-11-16T140130.479532.snakemake.log

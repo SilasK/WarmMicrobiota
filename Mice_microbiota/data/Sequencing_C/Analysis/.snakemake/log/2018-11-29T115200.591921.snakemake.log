@@ -1,0 +1,35 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	2	IDtaxa
+	1	all
+	1	build_tree
+	1	combine_read_counts
+	1	filterLength
+	1	get_rep_seq
+	7
+
+[Thu Nov 29 11:52:01 2018]
+rule filterLength:
+    input: output/seqtab_nochimeras.rds
+    output: figures/Lengths/Sequence_Length_distribution.pdf, figures/Lengths/Sequence_Length_distribution_abundance.pdf, output/seqtab.rds, output/seqtab.tsv
+    log: logs/dada2/filterLength.txt
+    jobid: 6
+
+Removing temporary output file output/seqtab_nochimeras.rds.
+[Thu Nov 29 11:52:08 2018]
+Finished job 6.
+1 of 7 steps (14%) done
+
+[Thu Nov 29 11:52:08 2018]
+rule combine_read_counts:
+    input: stats/Nreads_filtered.txt, stats/Nreads_dereplicated.txt, stats/Nreads_chimera_removed.txt
+    output: stats/Nreads.tsv, stats/Nreads.pdf
+    jobid: 8
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/log/2018-11-29T115200.591921.snakemake.log

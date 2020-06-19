@@ -1,0 +1,3 @@
+KeyError in line 52 of /Users/silas/Documents/GitHub/amplicon-seq-dada2/Snakefile:
+'java_mem'
+  File "/Users/silas/Documents/GitHub/amplicon-seq-dada2/Snakefile", line 52, in <module>

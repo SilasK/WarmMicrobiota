@@ -1,0 +1,20 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	propr_rho
+	1
+
+[Tue Nov 27 14:41:25 2018]
+rule propr_rho:
+    input: data.tsv, metadata.tsv
+    output: Correlations/rho.tsv
+    log: logs/propr_rho.txt
+    jobid: 0
+
+[Tue Nov 27 14:42:47 2018]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Analysis/.snakemake/log/2018-11-27T144125.455364.snakemake.log

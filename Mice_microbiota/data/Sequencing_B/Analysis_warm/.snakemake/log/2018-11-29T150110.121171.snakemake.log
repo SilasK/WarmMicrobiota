@@ -1,0 +1,22 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	build_tree
+	2
+
+[Thu Nov 29 15:01:10 2018]
+rule build_tree:
+    input: output/seqtab.rds
+    output: taxonomy/alignment.fasta, taxonomy/otu_tree.nwk
+    log: logs/taxonomy/alignment.txt
+    jobid: 5
+
+Terminating processes on user request, this might take some time.
+[Thu Nov 29 17:56:49 2018]
+Finished job 5.
+1 of 2 steps (50%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_B/Analysis_warm/.snakemake/log/2018-11-29T150110.121171.snakemake.log

@@ -1,0 +1,33 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	2	IDtaxa
+	1	all
+	1	filterLength
+	1	get_rep_seq
+	1	removeChimeras
+	6
+
+[Thu Nov 29 09:09:54 2018]
+rule removeChimeras:
+    input: output/seqtab_with_chimeras.rds
+    output: output/seqtab.rds, output/seqtab.tsv, stats/Nreads_chimera_removed.txt
+    log: logs/dada2/removeChimeras.txt
+    jobid: 1
+
+Terminating processes on user request, this might take some time.
+[Thu Nov 29 09:23:08 2018]
+Error in rule removeChimeras:
+    jobid: 1
+    output: output/seqtab.rds, output/seqtab.tsv, stats/Nreads_chimera_removed.txt
+    log: logs/dada2/removeChimeras.txt
+
+RuleException:
+CalledProcessError in line 80 of /Users/silas/Documents/GitHub/amplicon-seq-dada2/rules/dada2.smk:
+Command ' set -euo pipefail;  Rscript /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/scripts/tmpzjjfwb77.removeChimeras.R ' returned non-zero exit status 1.
+  File "/Users/silas/Documents/GitHub/amplicon-seq-dada2/rules/dada2.smk", line 80, in __rule_removeChimeras
+  File "/Users/silas/anaconda3/lib/python3.6/concurrent/futures/thread.py", line 55, in run
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/log/2018-11-29T090953.408906.snakemake.log

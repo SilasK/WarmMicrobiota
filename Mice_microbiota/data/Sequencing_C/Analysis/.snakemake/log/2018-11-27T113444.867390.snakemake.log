@@ -1,0 +1,41 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	aldex
+	1	init
+	2
+
+[Tue Nov 27 11:34:45 2018]
+localrule init:
+    input: /Users/silas/Desktop/WarmMicrobiota/Analysis/output/seqtab.tsv, /Users/silas/PhD/06_Projects/Warm_claire_microbiota/01_mapping_files/mapping_file_WT.tsv
+    output: data.tsv, metadata.tsv
+    jobid: 1
+
+[Tue Nov 27 11:34:46 2018]
+Finished job 1.
+1 of 2 steps (50%) done
+
+[Tue Nov 27 11:34:46 2018]
+rule aldex:
+    input: data.tsv, metadata.tsv
+    output: aldex2.txt
+    log: logs/aldex2.txt
+    jobid: 0
+
+[Tue Nov 27 11:34:46 2018]
+Error in rule aldex:
+    jobid: 0
+    output: aldex2.txt
+    log: logs/aldex2.txt
+
+RuleException:
+WorkflowError in line 48 of /Users/silas/Documents/GitHub/microbiome-analysis/Snakefile:
+URLError: <urlopen error [Errno 2] No such file or directory: '/Users/silas/Documents/GitHub/microbiome-analysis/scripts/Rscript/aldex.R'>
+  File "/Users/silas/Documents/GitHub/microbiome-analysis/Snakefile", line 48, in __rule_aldex
+  File "/Users/silas/anaconda3/lib/python3.6/concurrent/futures/thread.py", line 55, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Analysis/.snakemake/log/2018-11-27T113444.867390.snakemake.log

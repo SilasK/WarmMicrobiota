@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	combine_relb_stats
+	2
+
+[Fri Nov 30 08:05:04 2018]
+rule combine_relb_stats:
+    input: Comparisons/TempOVA-t/stats_relab.tsv, Comparisons/TempSH/stats_relab.tsv, Comparisons/TempOVA/stats_relab.tsv, Comparisons/Ova/stats_relab.tsv
+    output: Comparisons/cobined_stats_relab.tsv
+    jobid: 4
+
+[Fri Nov 30 08:05:07 2018]
+Finished job 4.
+1 of 2 steps (50%) done
+
+[Fri Nov 30 08:05:07 2018]
+localrule all:
+    input: data.tsv, metadata.tsv, Comparisons/TempOVA-t/stats_aldex.tsv, Comparisons/TempOVA-t/aldex_plot.pdf, Comparisons/TempOVA-t/stats_relab.tsv, Comparisons/TempSH/stats_aldex.tsv, Comparisons/TempSH/aldex_plot.pdf, Comparisons/TempSH/stats_relab.tsv, Comparisons/TempOVA/stats_aldex.tsv, Comparisons/TempOVA/aldex_plot.pdf, Comparisons/TempOVA/stats_relab.tsv, Comparisons/Ova/stats_aldex.tsv, Comparisons/Ova/aldex_plot.pdf, Comparisons/Ova/stats_relab.tsv, Comparisons/cobined_stats_aldex.tsv, Comparisons/cobined_stats_relab.tsv
+    jobid: 0
+
+[Fri Nov 30 08:05:07 2018]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/Analysis/.snakemake/log/2018-11-30T080502.953527.snakemake.log

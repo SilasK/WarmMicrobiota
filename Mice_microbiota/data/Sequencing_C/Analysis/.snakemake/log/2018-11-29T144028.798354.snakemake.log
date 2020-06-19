@@ -1,0 +1,20 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	filterLength
+	1
+
+[Thu Nov 29 14:40:29 2018]
+rule filterLength:
+    input: output/seqtab_nochimeras.rds
+    output: figures/Lengths/Sequence_Length_distribution.pdf, figures/Lengths/Sequence_Length_distribution_abundance.pdf, output/seqtab.rds, output/seqtab.tsv
+    log: logs/dada2/filterLength.txt
+    jobid: 0
+
+[Thu Nov 29 14:40:38 2018]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /Users/silas/Desktop/WarmMicrobiota/Sequencing_C/Analysis/.snakemake/log/2018-11-29T144028.798354.snakemake.log

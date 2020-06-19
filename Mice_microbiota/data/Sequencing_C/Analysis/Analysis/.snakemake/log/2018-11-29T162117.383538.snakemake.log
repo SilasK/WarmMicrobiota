@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 25 of /Users/silas/Documents/GitHub/microbiome-analysis/Snakefile:
+Missing input files for rule init:
+/Users/silas/Desktop/WarmMicrobiota/Analysis/output/seqtab.tsv
