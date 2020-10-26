@@ -83,7 +83,7 @@ def load_aldex(aldex_file,get_sample_data=True):
 
 
 #Tax= pd.read_table('../taxonomy/Silva.tsv',index_col=0)
-Tax= pd.read_csv('/Users/silas/Desktop/WarmMicrobiota/Taxonomy_silva_13_2.tsv',index_col=0,sep='\t')
+Tax= pd.read_csv('../data/Taxonomy_silva_13_2.tsv',index_col=0,sep='\t')
 Tax.columns= Tax.columns.str.lower()
 
 OTUnames= pd.Series(data=hs.microbiota.gen_names_for_range(Tax.shape[0],'otu'),
