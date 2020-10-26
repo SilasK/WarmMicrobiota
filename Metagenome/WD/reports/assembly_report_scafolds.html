@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.14: http://docutils.sourceforge.net/" />
+<title>ATLAS - Assembly Summary</title>
+<style type="text/css">
+
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  /*padding-top: 10px;*/
+  padding-bottom: 10px;
+  background-color: white;
+  /*padding: 30px;*/
+  color: #333;
+  margin: 0px;
+}
+
+/*body > *:first-child {
+  margin-top: 0 !important;
+}
+
+body > *:last-child {
+  margin-bottom: 0 !important;
+}*/
+
+body>div .section::before {
+  content:"";
+  display:block;
+  height:80px; /* fixed header height*/
+  margin:-80px 0 0; /* negative fixed header height */
+}
+
+#summary::before {
+  margin: 0;
+}
+
+#contents {
+  margin-top: 100px;
+}
+
+.topic-title {
+  font-size: 18pt;
+}
+
+body > div > .section{
+  margin-left: 22%;
+  margin-bottom: 3em;
+}
+
+div.section {
+  margin-right: 20px;
+}
+
+#contents > p {
+  display: none;
+}
+
+#contents {
+  margin-top: 80px;
+  padding-left: 0px;
+  width: 20%;
+  background-color: #f1f1f1;
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+#contents ul {
+  list-style-type: none;
+}
+
+#contents ul > li {
+  font-size: 14pt;
+}
+
+#contents ul > li a:hover {
+  color: #151d26;
+}
+
+#contents ul > li > ul > li {
+  font-size: 12pt;
+}
+
+h1.title {
+  margin-top: 0;
+  position: fixed;
+  z-index: 10;
+  padding: 20px;
+  color: #fff;
+  background-color: #151d26;
+  width: 100%;
+}
+
+.one-col {
+  min-width: 310px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.two-col-left {
+  height: 300px;
+  width: 49%;
+  float: left;
+}
+
+.two-col-right {
+  height: 300px;
+  width: 49%;
+  float: right;
+}
+
+button {
+  display: inline-block;
+  margin: 0 5px 0 0;
+  padding: 5px 25px;
+  font-size: 18px;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #151d26;
+  border: none;
+}
+
+button:focus {
+  outline: none
+}
+
+button:hover {
+  background-color: #4183C4;
+}
+
+button:active {
+  background-color: #27496d;
+}
+
+.legend-rect {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    margin-left: 20px;
+    float: left;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a.absent {
+  color: #cc0000;
+}
+
+a.anchor {
+  /*display: block;*/
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative;
+}
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  text-decoration: none;
+}
+
+h1 tt, h1 code {
+  font-size: inherit;
+}
+
+h2 tt, h2 code {
+  font-size: inherit;
+}
+
+h3 tt, h3 code {
+  font-size: inherit;
+}
+
+h4 tt, h4 code {
+  font-size: inherit;
+}
+
+h5 tt, h5 code {
+  font-size: inherit;
+}
+
+h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #151d26;
+  border-bottom: 1px solid #cccccc;
+}
+
+h2 {
+  font-size: 24px;
+  color: black;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777777;
+  font-size: 14px;
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0;
+}
+
+hr {
+  background: transparent url("http://tinyurl.com/bq5kskr") repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+/*body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+body > h1:first-child + h2 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}*/
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0;
+}
+
+li p.first {
+  display: inline-block;
+}
+
+/*ul, ol {
+  padding-left: 30px;
+}*/
+
+/*ul :first-child, ol :first-child {
+  margin-top: 0;
+}
+
+ul :last-child, ol :last-child {
+  margin-bottom: 0;
+}*/
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt > :first-child {
+  margin-top: 0;
+}
+
+dl dt > :last-child {
+  margin-bottom: 0;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd > :first-child {
+  margin-top: 0;
+}
+
+dl dd > :last-child {
+  margin-bottom: 0;
+}
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777;
+}
+
+blockquote > :first-child {
+  margin-top: 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+table {
+  padding: 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+table tr {
+  border-top: 1px solid #cccccc;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+table tr th {
+  font-weight: bold;
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr td {
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr th :first-child, table tr td :first-child {
+  margin-top: 0;
+}
+
+table tr th :last-child, table tr td :last-child {
+  margin-bottom: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+span.frame {
+  display: block;
+  overflow: hidden;
+}
+
+span.frame > span {
+  border: 1px solid #dddddd;
+  display: block;
+  float: left;
+  overflow: hidden;
+  margin: 13px 0 0;
+  padding: 7px;
+  width: auto;
+}
+
+span.frame span img {
+  display: block;
+  float: left;
+}
+
+span.frame span span {
+  clear: both;
+  color: #333333;
+  display: block;
+  padding: 5px 0 0;
+}
+
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+
+span.align-center > span {
+  display: block;
+  overflow: hidden;
+  margin: 13px auto 0;
+  text-align: center;
+}
+
+span.align-center span img {
+  margin: 0 auto;
+  text-align: center;
+}
+
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+
+span.align-right > span {
+  display: block;
+  overflow: hidden;
+  margin: 13px 0 0;
+  text-align: right;
+}
+
+span.align-right span img {
+  margin: 0;
+  text-align: right;
+}
+
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left;
+}
+
+span.float-left span {
+  margin: 13px 0 0;
+}
+
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right;
+}
+
+span.float-right > span {
+  display: block;
+  overflow: hidden;
+  margin: 13px auto 0;
+  text-align: right;
+}
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+div#metadata {
+    text-align: right;
+}
+
+</style>
+</head>
+<body>
+<div class="document" id="atlas-assembly-summary">
+<h1 class="title"><a class="reference external" href="https://github.com/metagenome-atlas/atlas">ATLAS</a> - Assembly Summary</h1>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script><div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#summary" id="id1">Summary</a><ul>
+<li><a class="reference internal" href="#n50" id="id2">N50</a></li>
+<li><a class="reference internal" href="#assembly-length" id="id3">Assembly Length</a></li>
+<li><a class="reference internal" href="#number-of-contigs" id="id4">Number of Contigs</a></li>
+<li><a class="reference internal" href="#number-of-predicted-genes" id="id5">Number of Predicted Genes</a></li>
+<li><a class="reference internal" href="#percent-of-assembled-reads" id="id6">Percent of Assembled Reads</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#downloads" id="id7">Downloads</a></li>
+</ul>
+</div>
+<div class="section" id="summary">
+<h1>Summary</h1>
+<div class="section" id="n50">
+<h2>N50</h2>
+<div id="c546ed42-8fba-4730-a6df-494cbd5d6a2e" style="height: 100%; width: 100%;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("c546ed42-8fba-4730-a6df-494cbd5d6a2e", [{"type": "bar", "x": ["shRTF8", "shRTF2", "shHF7", "shRTC3", "shHF5", "shRTF7", "shHF3", "shHC7", "shHF1", "shRTC2", "shHF6", "shRTC7", "shRTF6", "shHC6", "shRTC4", "shHC8", "shRTF5", "shHF4", "shHF8", "shHC2", "shRTF1", "shHC5", "shHC3", "shRTC6", "shRTC5", "shRTC8", "shHC4", "shHF2", "shRTF3", "shRTF4", "shHC1", "shRTC1"], "y": [2370.0, 2958.0, 1582.0, 4206.0, 1185.0, 950.0, 1279.0, 1884.0, 2304.0, 3184.0, 2731.0, 2525.0, 1279.0, 2114.0, 2614.0, 2697.0, 2914.0, 2135.0, 1270.0, 1604.0, 3790.0, 2351.0, 2037.0, 2298.0, 2184.0, 4028.0, 2007.0, 1901.0, 3974.0, 2294.0, 3249.0, 2173.0], "name": "N50", "text": "", "marker": {"color": "rgba(255, 153, 51, 0.6)", "line": {"color": "rgba(255, 153, 51, 1.0)", "width": 1}}, "orientation": "v"}, {"type": "bar", "x": ["shRTF8", "shRTF2", "shHF7", "shRTC3", "shHF5", "shRTF7", "shHF3", "shHC7", "shHF1", "shRTC2", "shHF6", "shRTC7", "shRTF6", "shHC6", "shRTC4", "shHC8", "shRTF5", "shHF4", "shHF8", "shHC2", "shRTF1", "shHC5", "shHC3", "shRTC6", "shRTC5", "shRTC8", "shHC4", "shHF2", "shRTF3", "shRTF4", "shHC1", "shRTC1"], "y": [26923.0, 31229.0, 17493.0, 38543.0, 11664.0, 10475.0, 13402.0, 24142.0, 31428.0, 39912.0, 35504.0, 29934.0, 17400.0, 26553.0, 24116.0, 23341.0, 36007.0, 23929.0, 16545.0, 18914.0, 40940.0, 23870.0, 24074.0, 20080.0, 24962.0, 45312.0, 25013.0, 25093.0, 43461.0, 30860.0, 33118.0, 25413.0], "name": "N90", "text": "", "marker": {"color": "rgba(55, 128, 191, 0.6)", "line": {"color": "rgba(55, 128, 191, 1.0)", "width": 1}}, "orientation": "v"}], {"xaxis": {"tickangle": 45}, "yaxis": {"title": "Bases"}}, {"showLink": false, "linkText": "Export to plot.ly"})</script></div>
+<div class="section" id="assembly-length">
+<h2>Assembly Length</h2>
+<div id="ab9f4ca2-62eb-41e1-9c64-d65c0c50b647" style="height: 100%; width: 100%;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("ab9f4ca2-62eb-41e1-9c64-d65c0c50b647", [{"type": "bar", "x": ["shRTF8", "shRTF2", "shHF7", "shRTC3", "shHF5", "shRTF7", "shHF3", "shHC7", "shHF1", "shRTC2", "shHF6", "shRTC7", "shRTF6", "shHC6", "shRTC4", "shHC8", "shRTF5", "shHF4", "shHF8", "shHC2", "shRTF1", "shHC5", "shHC3", "shRTC6", "shRTC5", "shRTC8", "shHC4", "shHF2", "shRTF3", "shRTF4", "shHC1", "shRTC1"], "y": [185778683.0, 198461008.0, 134703080.0, 227715665.0, 176861223.0, 96413367.0, 170634789.0, 122860802.0, 214210989.0, 204977707.0, 271475194.0, 147885758.0, 141070020.0, 148031654.0, 108261865.0, 101855974.0, 237925765.0, 249811375.0, 171811353.0, 148665226.0, 221510466.0, 109476940.0, 125753997.0, 91622126.0, 165817457.0, 243271643.0, 237130731.0, 189577147.0, 255439476.0, 186861808.0, 196181301.0, 123025838.0], "name": "contig_bp", "text": "", "marker": {"color": "rgba(255, 153, 51, 0.6)", "line": {"color": "rgba(255, 153, 51, 1.0)", "width": 1}}, "orientation": "v"}], {"xaxis": {"tickangle": 45}, "yaxis": {"title": "Total BP"}}, {"showLink": false, "linkText": "Export to plot.ly"})</script></div>
+<div class="section" id="number-of-contigs">
+<h2>Number of Contigs</h2>
+<div id="9cc8077f-19be-4afe-bd12-3a714af30ee5" style="height: 100%; width: 100%;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("9cc8077f-19be-4afe-bd12-3a714af30ee5", [{"type": "bar", "x": ["shRTF8", "shRTF2", "shHF7", "shRTC3", "shHF5", "shRTF7", "shHF3", "shHC7", "shHF1", "shRTC2", "shHF6", "shRTC7", "shRTF6", "shHC6", "shRTC4", "shHC8", "shRTF5", "shHF4", "shHF8", "shHC2", "shRTF1", "shHC5", "shHC3", "shRTC6", "shRTC5", "shRTC8", "shHC4", "shHF2", "shRTF3", "shRTF4", "shHC1", "shRTC1"], "y": [50279.0, 57094.0, 33263.0, 67942.0, 29514.0, 21500.0, 31872.0, 40067.0, 59363.0, 67421.0, 68820.0, 49627.0, 34258.0, 45591.0, 38357.0, 36932.0, 66854.0, 52828.0, 36424.0, 36438.0, 70528.0, 38162.0, 40199.0, 32413.0, 45736.0, 77816.0, 52726.0, 48071.0, 77156.0, 55110.0, 58574.0, 41829.0], "name": "n_contigs", "text": "", "marker": {"color": "rgba(255, 153, 51, 0.6)", "line": {"color": "rgba(255, 153, 51, 1.0)", "width": 1}}, "orientation": "v"}], {"xaxis": {"tickangle": 45}, "yaxis": {"title": "Contigs (count)"}}, {"showLink": false, "linkText": "Export to plot.ly"})</script></div>
+<div class="section" id="number-of-predicted-genes">
+<h2>Number of Predicted Genes</h2>
+<div id="f35cc50a-bb3b-4479-b2bb-ddb8b79f4509" style="height: 100%; width: 100%;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("f35cc50a-bb3b-4479-b2bb-ddb8b79f4509", [{"type": "bar", "x": ["shRTF8", "shRTF2", "shHF7", "shRTC3", "shHF5", "shRTF7", "shHF3", "shHC7", "shHF1", "shRTC2", "shHF6", "shRTC7", "shRTF6", "shHC6", "shRTC4", "shHC8", "shRTF5", "shHF4", "shHF8", "shHC2", "shRTF1", "shHC5", "shHC3", "shRTC6", "shRTC5", "shRTC8", "shHC4", "shHF2", "shRTF3", "shRTF4", "shHC1", "shRTC1"], "y": [199297.0, 218230.0, 139696.0, 254324.0, 173284.0, 96171.0, 169513.0, 138655.0, 232397.0, 233203.0, 292386.0, 168494.0, 146310.0, 164215.0, 122499.0, 118132.0, 263618.0, 260027.0, 175926.0, 157990.0, 248821.0, 122725.0, 139442.0, 105281.0, 181808.0, 275839.0, 249622.0, 201717.0, 286143.0, 205547.0, 217084.0, 140114.0], "name": "N_Predicted_Genes", "text": "", "marker": {"color": "rgba(255, 153, 51, 0.6)", "line": {"color": "rgba(255, 153, 51, 1.0)", "width": 1}}, "orientation": "v"}], {"xaxis": {"tickangle": 45}, "yaxis": {"title": "Predicted Genes (count)"}}, {"showLink": false, "linkText": "Export to plot.ly"})</script></div>
+<div class="section" id="percent-of-assembled-reads">
+<h2>Percent of Assembled Reads</h2>
+<div id="84569d39-8101-4fb6-90b5-fd736b2f8f64" style="height: 100%; width: 100%;" class="plotly-graph-div"></div><script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {};window.PLOTLYENV.BASE_URL="https://plot.ly";Plotly.newPlot("84569d39-8101-4fb6-90b5-fd736b2f8f64", [{"type": "bar", "x": ["shRTF8", "shRTF2", "shHF7", "shRTC3", "shHF5", "shRTF7", "shHF3", "shHC7", "shHF1", "shRTC2", "shHF6", "shRTC7", "shRTF6", "shHC6", "shRTC4", "shHC8", "shRTF5", "shHF4", "shHF8", "shHC2", "shRTF1", "shHC5", "shHC3", "shRTC6", "shRTC5", "shRTC8", "shHC4", "shHF2", "shRTF3", "shRTF4", "shHC1", "shRTC1"], "y": ["98.970", "98.654", "99.143", "98.797", "99.029", "99.130", "99.122", "99.269", "98.904", "98.860", "98.612", "98.849", "99.178", "99.173", "99.081", "99.212", "98.444", "99.042", "99.150", "99.259", "98.968", "99.286", "99.028", "99.250", "98.882", "98.679", "98.872", "99.221", "98.747", "98.809", "98.830", "98.771"], "name": "Percent_Assembled_Reads", "text": "", "marker": {"color": "rgba(255, 153, 51, 0.6)", "line": {"color": "rgba(255, 153, 51, 1.0)", "width": 1}}, "orientation": "v"}], {"xaxis": {"tickangle": 45}, "yaxis": {"title": "Percent of Assembled Reads"}}, {"showLink": false, "linkText": "Export to plot.ly"})</script><p>For more information see <a class="reference internal" href="#table-1">Table_1</a></p>
+</div>
+</div>
+<div class="section" id="downloads">
+<h1>Downloads</h1>
+<div class="docutils container" id="attachments">
+<blockquote>
+<div class="docutils container" id="table-1">
+<dl class="docutils">
+<dt>Table_1:</dt>
+<dd><span class="raw-html"><a href="data:text/tab-separated-values;charset=utf8;filename=combined_contig_stats.tsv;base64,CUFzc2VtYmxlZF9SZWFkcwlOX1ByZWRpY3RlZF9HZW5lcwlQZXJjZW50X0Fzc2VtYmxlZF9SZWFkcwljb250aWdfYnAJTDUwCUw5MAlONTAJTjkwCW1heAlnYXBfcGN0CWdjX2F2ZwlnY19zdGQJbl9jb250aWdzCW5fc2NhZmZvbGRzCnNoUlRGOAk0MjkyMDQ0OAkxOTkyOTcuMAk5OC45NzAJMTg1Nzc4NjgzLjAJMTM0NTMuMAkxMTA0LjAJMjM3MC4wCTI2OTIzLjAJNjcyNTcxLjAJMC4wODUJMC40OTI1NAkwLjA4NzAyCTUwMjc5LjAJNDU2MTAuMApzaFJURjIJNDE5OTgyODgJMjE4MjMwLjAJOTguNjU0CTE5ODQ2MTAwOC4wCTExMzMxLjAJMTA1NC4wCTI5NTguMAkzMTIyOS4wCTQ0MzA0NS4wCTAuMDgzCTAuNDkzNjMJMC4wODk2OAk1NzA5NC4wCTUyMTE3LjAKc2hIRjcJMjI5NDI0MTgJMTM5Njk2LjAJOTkuMTQzCTEzNDcwMzA4MC4wCTEzOTIwLjAJMTIzNy4wCTE1ODIuMAkxNzQ5My4wCTQyNDY5OS4wCTAuMDg5MDAwMDAwMDAwMDAwMDEJMC40ODg1CTAuMDg4MzI5OTk5OTk5OTk5OTkJMzMyNjMuMAkyOTM4NC4wCnNoUlRDMwkzOTI2NTk0MgkyNTQzMjQuMAk5OC43OTcJMjI3NzE1NjY1LjAJOTU3MC4wCTEwNTYuMAk0MjA2LjAJMzg1NDMuMAk0MTM4MTYuMAkwLjExCTAuNDc2NzYJMC4wOTUxOAk2Nzk0Mi4wCTYxNTYwLjAKc2hIRjUJNTU2MDg3OTgJMTczMjg0LjAJOTkuMDI5CTE3Njg2MTIyMy4wCTMzNDA2LjAJMTgwNi4wCTExODUuMAkxMTY2NC4wCTUyMTAwMC4wCTAuMDU3CTAuNDc5NDQJMC4wOTc0NQkyOTUxNC4wCTI2NjUzLjAKc2hSVEY3CTIzNzM4MTY2CTk2MTcxLjAJOTkuMTMwCTk2NDEzMzY3LjAJMTk0ODguMAkxMzI5LjAJOTUwLjAJMTA0NzUuMAkzMzExMDEuMAkwLjA3NwkwLjUwNwkwLjA4MzIyCTIxNTAwLjAJMTkxNDAuMApzaEhGMwk0NTU3NjQyMgkxNjk1MTMuMAk5OS4xMjIJMTcwNjM0Nzg5LjAJMjgzNTIuMAkxNTYxLjAJMTI3OS4wCTEzNDAyLjAJNDg2ODY4LjAJMC4wNTUJMC40ODQ2NwkwLjA5MzcxCTMxODcyLjAJMjg5NjEuMApzaEhDNwkxNTczNTU0NgkxMzg2NTUuMAk5OS4yNjkJMTIyODYwODAyLjAJODM4NC4wCTk4MS4wCTE4ODQuMAkyNDE0Mi4wCTQ4NjkxNS4wCTAuMDk0CTAuNDgyMzMwMDAwMDAwMDAwMDQJMC4xMDI1NAk0MDA2Ny4wCTM1OTgyLjAKc2hIRjEJMzgwNTI0NDgJMjMyMzk3LjAJOTguOTA0CTIxNDIxMDk4OS4wCTE3MDY5LjAJMTAyNi4wCTIzMDQuMAkzMTQyOC4wCTQyMDgyOS4wCTAuMDU3OTk5OTk5OTk5OTk5OTk2CTAuNDc1ODgJMC4wOTY0OAk1OTM2My4wCTU1MjY0LjAKc2hSVEMyCTM1Mjk5ODk4CTIzMzIwMy4wCTk4Ljg2MAkyMDQ5Nzc3MDcuMAk5Njg4LjAJOTUyLjAJMzE4NC4wCTM5OTEyLjAJNDQzMDYwLjAJMC4wOTIJMC40ODI1NjAwMDAwMDAwMDAwNAkwLjA4NjI2CTY3NDIxLjAJNjE3ODMuMApzaEhGNgk0NzkzNzIxNgkyOTIzODYuMAk5OC42MTIJMjcxNDc1MTk0LjAJMTYwNDAuMAkxMTc3LjAJMjczMS4wCTM1NTA0LjAJNjE1OTQ1LjAJMC4wODE5OTk5OTk5OTk5OTk5OQkwLjQ3NjMzMDAwMDAwMDAwMDAzCTAuMTA4NjUJNjg4MjAuMAk2MjE4Ni4wCnNoUlRDNwkyNDM1Njc4NgkxNjg0OTQuMAk5OC44NDkJMTQ3ODg1NzU4LjAJODAzMy4wCTk0OC4wCTI1MjUuMAkyOTkzNC4wCTQyNDY5My4wCTAuMDkzMDAwMDAwMDAwMDAwMDEJMC40OTQ4MwkwLjA4NjAyCTQ5NjI3LjAJNDU0MDkuMApzaFJURjYJNDMyNDA5NDAJMTQ2MzEwLjAJOTkuMTc4CTE0MTA3MDAyMC4wCTE5NTQ3LjAJMTIwMy4wCTEyNzkuMAkxNzQwMC4wCTQ1MjQ2NC4wCTAuMDgxCTAuNDg0OTkJMC4wOTk5Mjk5OTk5OTk5OTk5OQkzNDI1OC4wCTMxMDA5LjAKc2hIQzYJMTc1NjA3MDIJMTY0MjE1LjAJOTkuMTczCTE0ODAzMTY1NC4wCTk4NTAuMAkxMDEzLjAJMjExNC4wCTI2NTUzLjAJNTEzMjk1LjAJMC4wOTIJMC40NzkxMTAwMDAwMDAwMDAwNAkwLjA4OTQJNDU1OTEuMAk0MTE3Ny4wCnNoUlRDNAkyMDIyOTY1NAkxMjI0OTkuMAk5OS4wODEJMTA4MjYxODY1LjAJNjA1MS4wCTk0MC4wCTI2MTQuMAkyNDExNi4wCTU3NjExOC4wCTAuMTA3CTAuNDgxMzgwMDAwMDAwMDAwMDMJMC4wODQ0Mjk5OTk5OTk5OTk5OQkzODM1Ny4wCTM0MzY2LjAKc2hIQzgJMTQ4NzAxNzgJMTE4MTMyLjAJOTkuMjEyCTEwMTg1NTk3NC4wCTU1NzEuMAk5MzkuMAkyNjk3LjAJMjMzNDEuMAk0MzAzMTIuMAkwLjExCTAuNDg0ODgwMDAwMDAwMDAwMDMJMC4wOTkyMwkzNjkzMi4wCTMzMTM2LjAKc2hSVEY1CTQ2MzIwMjk4CTI2MzYxOC4wCTk4LjQ0NAkyMzc5MjU3NjUuMAkxMzQxOC4wCTEwNjAuMAkyOTE0LjAJMzYwMDcuMAk2NTY5OTguMAkwLjA3NQkwLjQ4NTY3CTAuMTAwMjEwMDAwMDAwMDAwMDEJNjY4NTQuMAk2MTU3NS4wCnNoSEY0CTU5MTE0NjQ2CTI2MDAyNy4wCTk5LjA0MgkyNDk4MTEzNzUuMAkyMjU4Mi4wCTEzODMuMAkyMTM1LjAJMjM5MjkuMAk4NjA1MDEuMAkwLjA2NwkwLjQ3MTcJMC4xMDM3Mgk1MjgyOC4wCTQ3ODA1LjAKc2hIRjgJNDkwNzg0NjgJMTc1OTI2LjAJOTkuMTUwCTE3MTgxMTM1My4wCTI1ODEzLjAJMTI5NC4wCTEyNzAuMAkxNjU0NS4wCTEwMDcwNjMuMAkwLjA3NDAwMDAwMDAwMDAwMDAxCTAuNDY5NTUJMC4xMDQ1NzAwMDAwMDAwMDAwMQkzNjQyNC4wCTMyNTk5LjAKc2hIQzIJMjAyODAzMzYJMTU3OTkwLjAJOTkuMjU5CTE0ODY2NTIyNi4wCTE0Njk2LjAJMTIzNC4wCTE2MDQuMAkxODkxNC4wCTEwMDY3MzIuMAkwLjEwMzAwMDAwMDAwMDAwMDAxCTAuNDgyNTYwMDAwMDAwMDAwMDQJMC4wOTYyNzAwMDAwMDAwMDAwMQkzNjQzOC4wCTMyMjk2LjAKc2hSVEYxCTQzODIwNjU0CTI0ODgyMS4wCTk4Ljk2OAkyMjE1MTA0NjYuMAk5MTE2LjAJOTg3LjAJMzc5MC4wCTQwOTQwLjAJNzU5NDQ2LjAJMC4wODE5OTk5OTk5OTk5OTk5OQkwLjQ4MTg2CTAuMDg5NTYJNzA1MjguMAk2NDY5Ny4wCnNoSEM1CTE1OTY3MDY4CTEyMjcyNS4wCTk5LjI4NgkxMDk0NzY5NDAuMAk2MzAwLjAJOTUyLjAJMjM1MS4wCTIzODcwLjAJNDgyMDE5LjAJMC4xMgkwLjQ4NjQ2OTk5OTk5OTk5OTk2CTAuMDgzMTMJMzgxNjIuMAkzNDA2Ni4wCnNoSEMzCTE3NTg4NzE4CTEzOTQ0Mi4wCTk5LjAyOAkxMjU3NTM5OTcuMAk4NTI1LjAJOTg1LjAJMjAzNy4wCTI0MDc0LjAJNDg2ODY4LjAJMC4xMTE5OTk5OTk5OTk5OTk5OQkwLjQ4NzU4CTAuMDkxOTcwMDAwMDAwMDAwMDEJNDAxOTkuMAkzNTk2Mi4wCnNoUlRDNgkxMTM1MjUwMgkxMDUyODEuMAk5OS4yNTAJOTE2MjIxMjYuMAk2NTI5LjAJOTMwLjAJMjI5OC4wCTIwMDgwLjAJNDI0Njk3LjAJMC4wOTkJMC40ODY0NQkwLjA5MTE0CTMyNDEzLjAJMjk0NTcuMApzaFJUQzUJMjY0NTYzMDIJMTgxODA4LjAJOTguODgyCTE2NTgxNzQ1Ny4wCTEyNTk3LjAJMTA5OC4wCTIxODQuMAkyNDk2Mi4wCTM5NjE1MC4wCTAuMDkJMC40ODg5OQkwLjA5NTQ0CTQ1NzM2LjAJNDEzNTguMApzaFJUQzgJNDU2NTMwODQJMjc1ODM5LjAJOTguNjc5CTI0MzI3MTY0My4wCTkzMzYuMAk5NzMuMAk0MDI4LjAJNDUzMTIuMAk0NDA3ODIuMAkwLjA5MQkwLjQ4NjYzCTAuMDk0Mjc5OTk5OTk5OTk5OTkJNzc4MTYuMAk3MTQxMS4wCnNoSEM0CTQ0NzA2NzIwCTI0OTYyMi4wCTk4Ljg3MgkyMzcxMzA3MzEuMAkyMjk3My4wCTEzMjYuMAkyMDA3LjAJMjUwMTMuMAkxMDA3MTcwLjAJMC4wODgwMDAwMDAwMDAwMDAwMQkwLjQ3Nzk2MDAwMDAwMDAwMDA1CTAuMTAxMjYJNTI3MjYuMAk0NzUxMC4wCnNoSEYyCTQxOTMzNzQ4CTIwMTcxNy4wCTk5LjIyMQkxODk1NzcxNDcuMAkxNTgzMC4wCTExNjIuMAkxOTAxLjAJMjUwOTMuMAkxMDA3MDMyLjAJMC4wNzUJMC40NzUxMgkwLjEwMTgJNDgwNzEuMAk0MzU0OS4wCnNoUlRGMwk1MTYxODg2NAkyODYxNDMuMAk5OC43NDcJMjU1NDM5NDc2LjAJMTAyNTcuMAkxMDI2LjAJMzk3NC4wCTQzNDYxLjAJNTc2NTg5LjAJMC4wODEJMC40ODA0CTAuMDk1NzEJNzcxNTYuMAk3MDc5OC4wCnNoUlRGNAk0MDEwMzQ2NgkyMDU1NDcuMAk5OC44MDkJMTg2ODYxODA4LjAJMTM2NzQuMAkxMDI2LjAJMjI5NC4wCTMwODYwLjAJMzU2ODU4LjAJMC4wNzUJMC40ODE4MQkwLjA4NDY3OTk5OTk5OTk5OTk5CTU1MTEwLjAJNTA0OTUuMApzaEhDMQkyMzQ5OTM5NAkyMTcwODQuMAk5OC44MzAJMTk2MTgxMzAxLjAJMTAxNDMuMAkxMDMzLjAJMzI0OS4wCTMzMTE4LjAJNTc2MTI5LjAJMC4wOTMwMDAwMDAwMDAwMDAwMQkwLjQ4NDEyCTAuMDk1MjkJNTg1NzQuMAk1MzExNy4wCnNoUlRDMQkxOTc1MzM1NgkxNDAxMTQuMAk5OC43NzEJMTIzMDI1ODM4LjAJODQyNC4wCTk0MS4wCTIxNzMuMAkyNTQxMy4wCTQyNDY5Mi4wCTAuMDk5CTAuNDg5MTM5OTk5OTk5OTk5OTYJMC4wODMxOQk0MTgyOS4wCTM4MzE5LjAK" download="combined_contig_stats.tsv" draggable="true">combined_contig_stats.tsv</a></span></dd>
+</dl>
+</div>
+</blockquote>
+</div>
+<div class="docutils container" id="metadata">
+2019-01-16</div>
+</div>
+</div>
+</body>
+</html>

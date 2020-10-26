@@ -1,0 +1,1047 @@
+MAG061_3_123	065a26e8db583d3d44de66d666ed98bc	692	Pfam	PF04545	Sigma-70, region 4	627	679	1.8E-15	T	21-03-2019	IPR007630	RNA polymerase sigma-70 region 4
+MAG061_3_123	065a26e8db583d3d44de66d666ed98bc	692	Pfam	PF04539	Sigma-70 region 3	538	611	2.1E-17	T	21-03-2019	IPR007624	RNA polymerase sigma-70 region 3
+MAG061_3_123	065a26e8db583d3d44de66d666ed98bc	692	Pfam	PF00140	Sigma-70 factor, region 1.2	131	160	9.0E-10	T	21-03-2019	IPR009042	RNA polymerase sigma-70 region 1.2
+MAG061_3_123	065a26e8db583d3d44de66d666ed98bc	692	Pfam	PF04542	Sigma-70 region 2	456	527	4.3E-15	T	21-03-2019	IPR007627	RNA polymerase sigma-70 region 2
+MAG061_3_123	065a26e8db583d3d44de66d666ed98bc	692	TIGRFAM	TIGR02937	sigma70-ECF: RNA polymerase sigma factor, sigma-70 family	452	679	1.6E-34	T	21-03-2019	IPR014284	RNA polymerase sigma-70 like domain
+MAG061_3_123	065a26e8db583d3d44de66d666ed98bc	692	Pfam	PF04546	Sigma-70, non-essential region	173	424	6.1E-32	T	21-03-2019	IPR007631	RNA polymerase sigma factor 70, non-essential domain
+MAG061_5_31	ece5f57aeeb769df609896bed0058346	478	Pfam	PF01551	Peptidase family M23	378	472	6.4E-29	T	21-03-2019	IPR016047	Peptidase M23
+MAG061_5_31	ece5f57aeeb769df609896bed0058346	478	Pfam	PF01476	LysM domain	151	193	7.4E-16	T	21-03-2019	IPR018392	LysM domain
+MAG061_5_31	ece5f57aeeb769df609896bed0058346	478	Pfam	PF01476	LysM domain	234	276	5.9E-11	T	21-03-2019	IPR018392	LysM domain
+MAG061_3_98	70686c655c984e9bbfaaca95502f5d55	148	Pfam	PF14437	MafB19-like deaminase	2	144	1.0E-30	T	21-03-2019	IPR028883	tRNA-specific adenosine deaminase
+MAG061_4_106	17503299b523a27f55fddf358887fa5f	199	TIGRFAM	TIGR00615	recR: recombination protein RecR	2	197	2.4E-55	T	21-03-2019	IPR000093	DNA recombination protein RecR
+MAG061_4_106	17503299b523a27f55fddf358887fa5f	199	Pfam	PF02132	RecR protein	38	77	3.9E-9	T	21-03-2019	IPR023628	Recombination protein RecR, C4-type zinc finger
+MAG061_4_106	17503299b523a27f55fddf358887fa5f	199	Pfam	PF13662	Toprim domain	81	160	1.3E-15	T	21-03-2019	IPR006171	TOPRIM  domain
+MAG061_5_44	101a5ab9ce76422b6eaefeaf7aa83849	360	Pfam	PF01594	AI-2E family transporter	17	331	5.0E-37	T	21-03-2019	IPR002549	Transmembrane protein TqsA-like
+MAG061_3_100	b65a103428782c3b93c306ffce015811	205	Pfam	PF01386	Ribosomal L25p family	5	92	5.5E-24	T	21-03-2019	IPR029751	Ribosomal protein L25
+MAG061_3_100	b65a103428782c3b93c306ffce015811	205	TIGRFAM	TIGR00731	bL25_bact_ctc: ribosomal protein bL25, Ctc-form	5	178	8.5E-40	T	21-03-2019	IPR001021	Ribosomal protein L25, long-form
+MAG061_3_100	b65a103428782c3b93c306ffce015811	205	Pfam	PF14693	Ribosomal protein TL5, C-terminal domain	100	182	6.3E-22	T	21-03-2019	IPR020057	Ribosomal protein L25, beta domain
+MAG061_3_106	96b67d292796bb0a09c13c70817e636c	155	Pfam	PF01782	RimM N-terminal domain	9	89	4.3E-17	T	21-03-2019	IPR002676	RimM, N-terminal
+MAG061_3_106	96b67d292796bb0a09c13c70817e636c	155	TIGRFAM	TIGR02273	16S_RimM: 16S rRNA processing protein RimM	7	134	1.4E-28	T	21-03-2019	IPR011961	16S rRNA processing protein RimM
+MAG061_2_26	826661c9b13523cf0cba215613d5887a	452	Pfam	PF02785	Biotin carboxylase C-terminal domain	337	442	3.5E-36	T	21-03-2019	IPR005482	Biotin carboxylase, C-terminal
+MAG061_2_26	826661c9b13523cf0cba215613d5887a	452	Pfam	PF00289	Biotin carboxylase, N-terminal domain	4	112	1.4E-45	T	21-03-2019	IPR005481	Biotin carboxylase-like, N-terminal domain
+MAG061_2_26	826661c9b13523cf0cba215613d5887a	452	Pfam	PF02786	Carbamoyl-phosphate synthase L chain, ATP binding domain	117	323	5.5E-74	T	21-03-2019	IPR005479	Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain
+MAG061_2_26	826661c9b13523cf0cba215613d5887a	452	TIGRFAM	TIGR00514	accC: acetyl-CoA carboxylase, biotin carboxylase subunit	4	446	1.2E-202	T	21-03-2019	IPR004549	Acetyl-CoA carboxylase, biotin carboxylase
+MAG061_3_134	fe574ee81c4e4b2282a06e5a7bbc02cd	306	TIGRFAM	TIGR00020	prfB: peptide chain release factor 2	2	301	8.5E-130	T	21-03-2019	IPR004374	Peptide chain release factor 2
+MAG061_3_134	fe574ee81c4e4b2282a06e5a7bbc02cd	306	Pfam	PF03462	PCRF domain	3	158	1.0E-44	T	21-03-2019	IPR005139	Peptide chain release factor
+MAG061_3_134	fe574ee81c4e4b2282a06e5a7bbc02cd	306	Pfam	PF00472	RF-1 domain	167	276	2.3E-42	T	21-03-2019	IPR000352	Peptide chain release factor class I/class II
+MAG061_3_116	c126cf2bf15d1c02f23b00d4506ad9d9	413	Pfam	PF13742	OB-fold nucleic acid binding domain	14	105	5.4E-22	T	21-03-2019	IPR025824	OB-fold nucleic acid binding domain
+MAG061_3_116	c126cf2bf15d1c02f23b00d4506ad9d9	413	Pfam	PF02601	Exonuclease VII, large subunit	128	409	2.3E-81	T	21-03-2019	IPR020579	Exonuclease VII, large subunit, C-terminal
+MAG061_3_116	c126cf2bf15d1c02f23b00d4506ad9d9	413	TIGRFAM	TIGR00237	xseA: exodeoxyribonuclease VII, large subunit	15	409	8.9E-121	T	21-03-2019	IPR003753	Exonuclease VII, large subunit
+MAG061_8_32	d6a48e37f9b2bda549f87af79b490df2	437	Pfam	PF07676	WD40-like Beta Propeller Repeat	279	313	6.4E-10	T	21-03-2019	IPR011659	WD40-like Beta Propeller
+MAG061_8_32	d6a48e37f9b2bda549f87af79b490df2	437	Pfam	PF07676	WD40-like Beta Propeller Repeat	236	258	6.6E-4	T	21-03-2019	IPR011659	WD40-like Beta Propeller
+MAG061_8_32	d6a48e37f9b2bda549f87af79b490df2	437	Pfam	PF07676	WD40-like Beta Propeller Repeat	324	348	4.3E-6	T	21-03-2019	IPR011659	WD40-like Beta Propeller
+MAG061_8_32	d6a48e37f9b2bda549f87af79b490df2	437	Pfam	PF04052	TolB amino-terminal domain	22	126	2.6E-21	T	21-03-2019	IPR007195	TolB, N-terminal
+MAG061_8_32	d6a48e37f9b2bda549f87af79b490df2	437	TIGRFAM	TIGR02800	propeller_TolB: Tol-Pal system beta propeller repeat protein TolB	14	433	1.2E-114	T	21-03-2019	IPR014167	Tol-Pal system protein TolB
+MAG061_1_40	d95d056cde00a3ec32ce520ec11316d2	286	TIGRFAM	TIGR00436	era: GTP-binding protein Era	1	265	4.3E-65	T	21-03-2019	IPR005662	GTP-binding protein Era
+MAG061_1_40	d95d056cde00a3ec32ce520ec11316d2	286	Pfam	PF01926	50S ribosome-binding GTPase	1	111	1.5E-19	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_1_40	d95d056cde00a3ec32ce520ec11316d2	286	Pfam	PF07650	KH domain	194	270	1.0E-9	T	21-03-2019	IPR004044	K Homology domain, type 2
+MAG061_1_40	d95d056cde00a3ec32ce520ec11316d2	286	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	1	152	2.0E-22	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_2_59	84b15111113c09c5016a6a006504e94f	395	Pfam	PF00589	Phage integrase family	212	372	2.3E-20	T	21-03-2019	IPR002104	Integrase, catalytic domain
+MAG061_2_59	84b15111113c09c5016a6a006504e94f	395	Pfam	PF13356	Arm DNA-binding domain	8	99	2.4E-7	T	21-03-2019	IPR025166	Integrase, DNA-binding domain
+MAG061_6_18	3d6c34c80914b9ab1c1a12496c57afd9	321	Pfam	PF00849	RNA pseudouridylate synthase	90	246	1.7E-28	T	21-03-2019	IPR006145	Pseudouridine synthase, RsuA/RluB/C/D/E/F
+MAG061_6_18	3d6c34c80914b9ab1c1a12496c57afd9	321	TIGRFAM	TIGR00005	rluA_subfam: pseudouridine synthase, RluA family	13	313	2.0E-72	T	21-03-2019	IPR006225	Pseudouridine synthase, RluC/RluD
+MAG061_1_126	91f96fd7362f6513079ba283a20910cc	255	TIGRFAM	TIGR00055	uppS: di-trans,poly-cis-decaprenylcistransferase	19	241	1.3E-62	T	21-03-2019	IPR001441	Decaprenyl diphosphate synthase-like
+MAG061_1_126	91f96fd7362f6513079ba283a20910cc	255	Pfam	PF01255	Putative undecaprenyl diphosphate synthase	26	241	1.4E-62	T	21-03-2019	IPR001441	Decaprenyl diphosphate synthase-like
+MAG061_4_53	1d1c83bf5d3e84c4c0fbc81b5faf44f7	300	Pfam	PF01541	GIY-YIG catalytic domain	197	298	2.8E-7	T	21-03-2019	IPR000305	GIY-YIG endonuclease
+MAG061_2_88	e626f99ed328f280ee5cc682292e65ae	430	Pfam	PF01926	50S ribosome-binding GTPase	217	317	7.6E-24	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_2_88	e626f99ed328f280ee5cc682292e65ae	430	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	215	319	9.8E-20	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_2_88	e626f99ed328f280ee5cc682292e65ae	430	Pfam	PF10396	GTP-binding protein TrmE N-terminus	6	119	2.1E-35	T	21-03-2019	IPR018948	GTP-binding protein TrmE, N-terminal
+MAG061_2_88	e626f99ed328f280ee5cc682292e65ae	430	Pfam	PF12631	MnmE helical domain	122	427	9.1E-35	T	21-03-2019	IPR025867	MnmE, helical domain
+MAG061_2_88	e626f99ed328f280ee5cc682292e65ae	430	TIGRFAM	TIGR00450	mnmE_trmE_thdF: tRNA modification GTPase TrmE	16	430	3.4E-88	T	21-03-2019	IPR004520	tRNA modification GTPase MnmE
+MAG061_3_66	5af515b5d93f2c1cc4062e5288584911	622	Pfam	PF00575	S1 RNA binding domain	516	583	8.4E-9	T	21-03-2019	IPR003029	S1 domain
+MAG061_3_66	5af515b5d93f2c1cc4062e5288584911	622	Pfam	PF00575	S1 RNA binding domain	260	327	3.2E-19	T	21-03-2019	IPR003029	S1 domain
+MAG061_3_66	5af515b5d93f2c1cc4062e5288584911	622	Pfam	PF00575	S1 RNA binding domain	429	502	5.6E-15	T	21-03-2019	IPR003029	S1 domain
+MAG061_3_66	5af515b5d93f2c1cc4062e5288584911	622	Pfam	PF00575	S1 RNA binding domain	177	239	1.5E-7	T	21-03-2019	IPR003029	S1 domain
+MAG061_3_66	5af515b5d93f2c1cc4062e5288584911	622	Pfam	PF00575	S1 RNA binding domain	342	415	6.2E-21	T	21-03-2019	IPR003029	S1 domain
+MAG061_3_66	5af515b5d93f2c1cc4062e5288584911	622	TIGRFAM	TIGR00717	rpsA: ribosomal protein bS1	75	585	1.0E-175	T	21-03-2019	IPR000110	Ribosomal protein S1
+MAG061_1_153	606aefebe259f1b6dbac9af6b58a6db5	225	TIGRFAM	TIGR00121	birA_ligase: biotin--[acetyl-CoA-carboxylase] ligase	8	210	3.4E-41	T	21-03-2019	IPR004408	Biotin--acetyl-CoA-carboxylase ligase
+MAG061_1_153	606aefebe259f1b6dbac9af6b58a6db5	225	Pfam	PF03099	Biotin/lipoate A/B protein ligase family	12	125	1.4E-16	T	21-03-2019	IPR004143	Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL), catalytic domain
+MAG061_1_41	330e8ebb8281afd979c108774926c49b	246	TIGRFAM	TIGR03302	OM_YfiO: outer membrane assembly lipoprotein YfiO	1	235	7.5E-68	T	21-03-2019	IPR017689	Outer membrane protein assembly factor BamD
+MAG061_1_41	330e8ebb8281afd979c108774926c49b	246	Pfam	PF13525	Outer membrane lipoprotein	28	219	5.0E-46	T	21-03-2019	IPR039565	Outer membrane lipoprotein BamD-like
+MAG061_3_90	f4481bbc6f00f04f1f69b7752d5aadef	1203	Pfam	PF07733	Bacterial DNA polymerase III alpha subunit	363	789	3.6E-152	T	21-03-2019	IPR011708	Bacterial DNA polymerase III, alpha subunit
+MAG061_3_90	f4481bbc6f00f04f1f69b7752d5aadef	1203	Pfam	PF01336	OB-fold nucleic acid binding domain	1059	1126	8.5E-7	T	21-03-2019	IPR004365	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type
+MAG061_3_90	f4481bbc6f00f04f1f69b7752d5aadef	1203	Pfam	PF14579	Helix-hairpin-helix motif	866	952	1.1E-24	T	21-03-2019	IPR029460	DNA polymerase, helix-hairpin-helix motif
+MAG061_3_90	f4481bbc6f00f04f1f69b7752d5aadef	1203	TIGRFAM	TIGR00594	polc: DNA polymerase III, alpha subunit	72	1086	0.0	T	21-03-2019	IPR004805	DNA polymerase III, alpha subunit
+MAG061_3_90	f4481bbc6f00f04f1f69b7752d5aadef	1203	Pfam	PF02811	PHP domain	74	246	4.5E-31	T	21-03-2019	IPR004013	PHP domain
+MAG061_4_83	b803f8608cc24f37c8451ff2d92d60d5	662	Pfam	PF05649	Peptidase family M13	45	407	8.8E-81	T	21-03-2019	IPR008753	Peptidase M13, N-terminal domain
+MAG061_4_83	b803f8608cc24f37c8451ff2d92d60d5	662	Pfam	PF01431	Peptidase family M13	460	659	1.0E-64	T	21-03-2019	IPR018497	Peptidase M13, C-terminal domain
+MAG061_1_106	03c89fd687c4df3e66e9430ecc935ec7	195	Pfam	PF13384	Homeodomain-like domain	168	195	1.0E-5	T	21-03-2019
+MAG061_1_106	03c89fd687c4df3e66e9430ecc935ec7	195	Pfam	PF00239	Resolvase, N terminal domain	2	143	7.3E-30	T	21-03-2019	IPR006119	Resolvase, N-terminal catalytic domain
+MAG061_1_51	fb97a769262fed929ffd1627ece279d2	380	Pfam	PF03797	Autotransporter beta-domain	122	347	2.1E-17	T	21-03-2019	IPR005546	Autotransporter beta-domain
+MAG061_1_51	fb97a769262fed929ffd1627ece279d2	380	TIGRFAM	TIGR01414	autotrans_barl: outer membrane autotransporter barrel domain	58	380	3.0E-6	T	21-03-2019	IPR006315	Outer membrane autotransporter barrel
+MAG061_3_15	f873ea38eb359e4b53a73b2e252c19ae	427	TIGRFAM	TIGR01844	type_I_sec_TolC: type I secretion outer membrane protein, TolC family	22	420	1.3E-72	T	21-03-2019	IPR010130	Type I secretion outer membrane protein, TolC
+MAG061_3_15	f873ea38eb359e4b53a73b2e252c19ae	427	Pfam	PF02321	Outer membrane efflux protein	230	412	2.8E-24	T	21-03-2019	IPR003423	Outer membrane efflux protein
+MAG061_3_15	f873ea38eb359e4b53a73b2e252c19ae	427	Pfam	PF02321	Outer membrane efflux protein	30	205	1.1E-22	T	21-03-2019	IPR003423	Outer membrane efflux protein
+MAG061_2_87	e9312c1925fa07ea835a6e1f4d2bbaba	91	Pfam	PF13560	Helix-turn-helix domain	11	53	3.1E-7	T	21-03-2019
+MAG061_2_82	18878a126bc114baac8fa3e5afd42443	186	Pfam	PF09411	Lipid A 3-O-deacylase (PagL)	112	185	1.6E-9	T	21-03-2019	IPR018550	Lipid A 3-O-deacylase-related
+MAG061_9_11	91b26469c222ede10f019d992bccb2ae	424	TIGRFAM	TIGR00382	clpX: ATP-dependent Clp protease, ATP-binding subunit ClpX	14	413	6.3E-180	T	21-03-2019	IPR004487	Clp protease, ATP-binding subunit ClpX
+MAG061_9_11	91b26469c222ede10f019d992bccb2ae	424	Pfam	PF07724	AAA domain (Cdc48 subfamily)	115	315	6.7E-43	T	21-03-2019	IPR003959	ATPase, AAA-type, core
+MAG061_9_11	91b26469c222ede10f019d992bccb2ae	424	Pfam	PF10431	C-terminal, D2-small domain, of ClpB protein	321	411	2.4E-13	T	21-03-2019	IPR019489	Clp ATPase, C-terminal
+MAG061_9_11	91b26469c222ede10f019d992bccb2ae	424	Pfam	PF06689	ClpX C4-type zinc finger	18	54	2.3E-14	T	21-03-2019	IPR010603	Zinc finger, ClpX C4-type
+MAG061_5_27	2dab0958c19f9edf171669cf61d4d312	316	Pfam	PF01368	DHH family	18	161	7.3E-14	T	21-03-2019	IPR001667	DDH domain
+MAG061_5_27	2dab0958c19f9edf171669cf61d4d312	316	Pfam	PF02272	DHHA1 domain	201	312	1.7E-7	T	21-03-2019	IPR003156	DHHA1 domain
+MAG061_1_162	a5560fa56334ffe395130a1f8fea0ae6	590	Pfam	PF06100	MCRA family	22	520	3.1E-215	T	21-03-2019	IPR010354	Oleate hydratase
+MAG061_1_102	27104f2110c4ea96e0142dc1de2faa00	413	TIGRFAM	TIGR00016	ackA: acetate kinase	2	395	2.0E-140	T	21-03-2019	IPR004372	Acetate/propionate kinase
+MAG061_1_102	27104f2110c4ea96e0142dc1de2faa00	413	Pfam	PF00871	Acetokinase family	3	389	3.9E-133	T	21-03-2019	IPR000890	Aliphatic acid kinase, short-chain
+MAG061_2_89	3da19cff705c2dc9285250d2c652dbc9	191	Pfam	PF14520	Helix-hairpin-helix domain	67	124	9.2E-16	T	21-03-2019
+MAG061_2_89	3da19cff705c2dc9285250d2c652dbc9	191	Pfam	PF07499	RuvA, C-terminal domain	142	188	2.0E-6	T	21-03-2019	IPR011114	Holliday junction DNA helicase RuvA, C-terminal
+MAG061_2_89	3da19cff705c2dc9285250d2c652dbc9	191	Pfam	PF01330	RuvA N terminal domain	1	57	7.2E-13	T	21-03-2019	IPR013849	DNA helicase, Holliday junction RuvA type, domain I, bacterial
+MAG061_2_89	3da19cff705c2dc9285250d2c652dbc9	191	TIGRFAM	TIGR00084	ruvA: Holliday junction DNA helicase RuvA	1	185	2.0E-38	T	21-03-2019	IPR000085	Bacterial DNA recombination protein RuvA
+MAG061_4_11	79ba4be9295442cf0d97e5b94005fb8a	341	Pfam	PF00078	Reverse transcriptase (RNA-dependent DNA polymerase)	83	248	3.0E-18	T	21-03-2019	IPR000477	Reverse transcriptase domain
+MAG061_5_62	aa57db648520d218f0e5ad8940e952f6	199	Pfam	PF01066	CDP-alcohol phosphatidyltransferase	6	67	1.5E-12	T	21-03-2019	IPR000462	CDP-alcohol phosphatidyltransferase
+MAG061_1_139	aa88949ae09bd0b439812745896097b5	528	Pfam	PF00772	DnaB-like helicase N terminal domain	18	119	3.2E-30	T	21-03-2019	IPR007693	DNA helicase, DnaB-like, N-terminal
+MAG061_1_139	aa88949ae09bd0b439812745896097b5	528	TIGRFAM	TIGR00665	DnaB: replicative DNA helicase	18	487	2.6E-153	T	21-03-2019	IPR007692	DNA helicase, DnaB type
+MAG061_1_139	aa88949ae09bd0b439812745896097b5	528	Pfam	PF03796	DnaB-like helicase C terminal domain	196	485	2.0E-100	T	21-03-2019	IPR007694	DNA helicase, DnaB-like, C-terminal
+MAG061_1_34	c40b29693075ab47b3d601939ce1e701	488	TIGRFAM	TIGR00499	lysS_bact: lysine--tRNA ligase	47	488	7.1E-153	T	21-03-2019	IPR002313	Lysine-tRNA ligase, class II
+MAG061_1_34	c40b29693075ab47b3d601939ce1e701	488	Pfam	PF00152	tRNA synthetases class II (D, K and N)	146	487	5.2E-65	T	21-03-2019	IPR004364	Aminoacyl-tRNA synthetase, class II (D/K/N)
+MAG061_1_34	c40b29693075ab47b3d601939ce1e701	488	Pfam	PF01336	OB-fold nucleic acid binding domain	52	129	4.9E-9	T	21-03-2019	IPR004365	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type
+MAG061_13_8	3db23b049e6fabe8a9420ff5cd7a86cc	125	Pfam	PF00416	Ribosomal protein S13/S18	3	109	8.5E-29	T	21-03-2019	IPR001892	Ribosomal protein S13
+MAG061_13_8	3db23b049e6fabe8a9420ff5cd7a86cc	125	TIGRFAM	TIGR03631	uS13_bact: ribosomal protein uS13	3	114	9.9E-50	T	21-03-2019	IPR019980	Ribosomal protein S13, bacterial-type
+MAG061_1_95	35f4cc2304a31f1d3693c9b35aa6b428	669	Pfam	PF12826	Helix-hairpin-helix motif	506	569	9.6E-21	T	21-03-2019
+MAG061_1_95	35f4cc2304a31f1d3693c9b35aa6b428	669	Pfam	PF00533	BRCA1 C Terminus (BRCT) domain	591	657	8.3E-11	T	21-03-2019	IPR001357	BRCT domain
+MAG061_1_95	35f4cc2304a31f1d3693c9b35aa6b428	669	Pfam	PF03119	NAD-dependent DNA ligase C4 zinc finger domain	400	427	1.8E-8	T	21-03-2019	IPR004149	Zinc-finger, NAD-dependent DNA ligase C4-type
+MAG061_1_95	35f4cc2304a31f1d3693c9b35aa6b428	669	Pfam	PF01653	NAD-dependent DNA ligase adenylation domain	10	313	3.1E-100	T	21-03-2019	IPR013839	NAD-dependent DNA ligase, adenylation
+MAG061_1_95	35f4cc2304a31f1d3693c9b35aa6b428	669	TIGRFAM	TIGR00575	dnlj: DNA ligase, NAD-dependent	17	659	1.5E-213	T	21-03-2019	IPR001679	NAD-dependent DNA ligase
+MAG061_1_95	35f4cc2304a31f1d3693c9b35aa6b428	669	Pfam	PF03120	NAD-dependent DNA ligase OB-fold domain	318	389	7.2E-32	T	21-03-2019	IPR004150	NAD-dependent DNA ligase, OB-fold
+MAG061_1_8	5722f85f44eb8e2adbd9afb3b0929aae	261	Pfam	PF00069	Protein kinase domain	98	170	7.6E-8	T	21-03-2019	IPR000719	Protein kinase domain
+MAG061_1_14	a065b7d59bc0c9adf639379dce923dd5	168	TIGRFAM	TIGR00086	smpB: SsrA-binding protein	23	166	2.2E-46	T	21-03-2019	IPR000037	SsrA-binding protein
+MAG061_1_14	a065b7d59bc0c9adf639379dce923dd5	168	Pfam	PF01668	SmpB protein	24	167	2.2E-49	T	21-03-2019	IPR000037	SsrA-binding protein
+MAG061_2_126	9ccd91482d17988835b56946b45c24c2	610	Pfam	PF00679	Elongation factor G C-terminus	401	483	2.8E-20	T	21-03-2019	IPR000640	Elongation factor EFG, domain V-like
+MAG061_2_126	9ccd91482d17988835b56946b45c24c2	610	Pfam	PF00009	Elongation factor Tu GTP binding domain	2	193	1.0E-54	T	21-03-2019	IPR000795	Transcription factor, GTP-binding domain
+MAG061_2_126	9ccd91482d17988835b56946b45c24c2	610	Pfam	PF03144	Elongation factor Tu domain 2	222	293	2.3E-8	T	21-03-2019	IPR004161	Translation elongation factor EFTu-like, domain 2
+MAG061_2_126	9ccd91482d17988835b56946b45c24c2	610	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	1	153	1.0E-23	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_2_126	9ccd91482d17988835b56946b45c24c2	610	TIGRFAM	TIGR01394	TypA_BipA: GTP-binding protein TypA/BipA	3	603	7.7E-275	T	21-03-2019	IPR006298	GTP-binding protein TypA
+MAG061_1_90	2b7aeee2c320c2b3f6c1adde900ac7fc	216	Pfam	PF13505	Outer membrane protein beta-barrel domain	64	214	2.8E-14	T	21-03-2019	IPR027385	Outer membrane protein beta-barrel
+MAG061_2_102	940f140a76a8e95fa3824800779ea4ff	663	Pfam	PF04851	Type III restriction enzyme, res subunit	17	93	2.6E-8	T	21-03-2019	IPR006935	Helicase/UvrB, N-terminal
+MAG061_2_102	940f140a76a8e95fa3824800779ea4ff	663	Pfam	PF00271	Helicase conserved C-terminal domain	435	543	7.1E-19	T	21-03-2019	IPR001650	Helicase, C-terminal
+MAG061_2_102	940f140a76a8e95fa3824800779ea4ff	663	TIGRFAM	TIGR00631	uvrb: excinuclease ABC subunit B	6	655	5.5E-298	T	21-03-2019	IPR004807	UvrABC system, subunit B
+MAG061_2_102	940f140a76a8e95fa3824800779ea4ff	663	Pfam	PF12344	Ultra-violet resistance protein B	550	591	2.5E-21	T	21-03-2019	IPR024759	UvrB, YAD/RRR-motif-containing domain
+MAG061_2_102	940f140a76a8e95fa3824800779ea4ff	663	Pfam	PF02151	UvrB/uvrC motif	624	657	4.6E-8	T	21-03-2019	IPR001943	UVR domain
+MAG061_5_33	ca3289560cac203aac055be7c2423c0b	200	Pfam	PF13505	Outer membrane protein beta-barrel domain	9	189	5.3E-11	T	21-03-2019	IPR027385	Outer membrane protein beta-barrel
+MAG061_5_68	fa2935cccde90b0213ff6dccdb4e5bec	226	Pfam	PF02767	DNA polymerase III beta subunit, central domain	129	213	6.2E-18	T	21-03-2019	IPR022637	DNA polymerase III, beta sliding clamp, central
+MAG061_5_68	fa2935cccde90b0213ff6dccdb4e5bec	226	TIGRFAM	TIGR00663	dnan: DNA polymerase III, beta subunit	1	220	2.2E-47	T	21-03-2019	IPR001001	DNA polymerase III, beta sliding clamp
+MAG061_5_68	fa2935cccde90b0213ff6dccdb4e5bec	226	Pfam	PF00712	DNA polymerase III beta subunit, N-terminal domain	1	117	8.5E-28	T	21-03-2019	IPR022634	DNA polymerase III, beta sliding clamp, N-terminal
+MAG061_14_2	1ad64df8f104b1cd8ac22879250b42aa	171	TIGRFAM	TIGR00059	L17: ribosomal protein bL17	8	119	5.5E-40	T	21-03-2019	IPR000456	Ribosomal protein L17
+MAG061_14_2	1ad64df8f104b1cd8ac22879250b42aa	171	Pfam	PF01196	Ribosomal protein L17	23	118	5.2E-33	T	21-03-2019	IPR000456	Ribosomal protein L17
+MAG061_13_3	a06ebdc4253c16de12dad8a2789e2dd5	184	Pfam	PF00333	Ribosomal protein S5, N-terminal domain	14	78	1.7E-25	T	21-03-2019	IPR013810	Ribosomal protein S5, N-terminal
+MAG061_13_3	a06ebdc4253c16de12dad8a2789e2dd5	184	TIGRFAM	TIGR01021	rpsE_bact: ribosomal protein uS5	12	166	9.3E-60	T	21-03-2019	IPR005712	Ribosomal protein S5, bacterial-type
+MAG061_13_3	a06ebdc4253c16de12dad8a2789e2dd5	184	Pfam	PF03719	Ribosomal protein S5, C-terminal domain	91	161	2.3E-24	T	21-03-2019	IPR005324	Ribosomal protein S5, C-terminal
+MAG061_1_38	fc46b08150d02817236bdb237dcba04f	371	TIGRFAM	TIGR00449	tgt_general: tRNA-guanine family transglycosylase	5	369	5.7E-139	T	21-03-2019	IPR002616	tRNA-guanine(15) transglycosylase-like
+MAG061_1_38	fc46b08150d02817236bdb237dcba04f	371	Pfam	PF01702	Queuine tRNA-ribosyltransferase	130	362	1.0E-84	T	21-03-2019	IPR002616	tRNA-guanine(15) transglycosylase-like
+MAG061_1_38	fc46b08150d02817236bdb237dcba04f	371	TIGRFAM	TIGR00430	Q_tRNA_tgt: tRNA-guanine transglycosylase	5	369	3.9E-144	T	21-03-2019	IPR004803	tRNA-guanine transglycosylase
+MAG061_4_77	9a50141117642410002f1ddc763d2ca9	478	TIGRFAM	TIGR00408	proS_fam_I: proline--tRNA ligase	9	434	5.4E-133	T	21-03-2019	IPR004499	Proline-tRNA ligase, class IIa, archaeal-type
+MAG061_4_77	9a50141117642410002f1ddc763d2ca9	478	Pfam	PF03129	Anticodon binding domain	300	393	8.0E-17	T	21-03-2019	IPR004154	Anticodon-binding
+MAG061_4_77	9a50141117642410002f1ddc763d2ca9	478	Pfam	PF00587	tRNA synthetase class II core domain (G, H, P, S and T)	114	277	2.1E-13	T	21-03-2019	IPR002314	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+MAG061_6_26	613fcadecb10f50e1c3d01de6dcb46e6	512	TIGRFAM	TIGR01954	nusA_Cterm_rpt: transcription termination factor NusA, C-terminal duplication	377	426	7.5E-16	T	21-03-2019	IPR010214	Transcription termination factor NusA, C-terminal duplication
+MAG061_6_26	613fcadecb10f50e1c3d01de6dcb46e6	512	Pfam	PF00575	S1 RNA binding domain	143	204	1.2E-7	T	21-03-2019	IPR003029	S1 domain
+MAG061_6_26	613fcadecb10f50e1c3d01de6dcb46e6	512	Pfam	PF08529	NusA N-terminal domain	11	135	4.3E-26	T	21-03-2019	IPR013735	Transcription factor NusA, N-terminal
+MAG061_6_26	613fcadecb10f50e1c3d01de6dcb46e6	512	Pfam	PF14520	Helix-hairpin-helix domain	445	502	2.0E-4	T	21-03-2019
+MAG061_6_26	613fcadecb10f50e1c3d01de6dcb46e6	512	Pfam	PF13184	NusA-like KH domain	242	309	1.4E-23	T	21-03-2019	IPR025249	KH domain, NusA-like
+MAG061_6_26	613fcadecb10f50e1c3d01de6dcb46e6	512	TIGRFAM	TIGR01953	NusA: transcription termination factor NusA	11	354	6.6E-113	T	21-03-2019	IPR010213	Transcription termination factor NusA
+MAG061_1_81	8a0b4dd0534f62c98ace71cd03f36e53	291	TIGRFAM	TIGR02227	sigpep_I_bact: signal peptidase I	13	265	8.8E-45	T	21-03-2019	IPR000223	Peptidase S26A, signal peptidase I
+MAG061_1_81	8a0b4dd0534f62c98ace71cd03f36e53	291	Pfam	PF00717	Peptidase S24-like	35	123	1.1E-19	T	21-03-2019	IPR015927	Peptidase S24/S26A/S26B/S26C
+MAG061_1_114	c591e4be22c4c50faaaf312eb19c638d	377	Pfam	PF01501	Glycosyl transferase family 8	9	260	1.4E-43	T	21-03-2019	IPR002495	Glycosyl transferase, family 8
+MAG061_5_61	dbfc46f8c8bb1553ce794b5bb14d050e	377	Pfam	PF01556	DnaJ C terminal domain	142	352	4.4E-37	T	21-03-2019	IPR002939	Chaperone DnaJ, C-terminal
+MAG061_5_61	dbfc46f8c8bb1553ce794b5bb14d050e	377	Pfam	PF00226	DnaJ domain	4	66	3.0E-27	T	21-03-2019	IPR001623	DnaJ domain
+MAG061_5_61	dbfc46f8c8bb1553ce794b5bb14d050e	377	Pfam	PF00684	DnaJ central domain	165	225	1.8E-11	T	21-03-2019	IPR001305	Heat shock protein DnaJ, cysteine-rich domain
+MAG061_5_61	dbfc46f8c8bb1553ce794b5bb14d050e	377	TIGRFAM	TIGR02349	DnaJ_bact: chaperone protein DnaJ	6	369	9.3E-118	T	21-03-2019	IPR012724	Chaperone DnaJ
+MAG061_1_43	c7faae6de8e6246372b2ace5209ee4a0	291	Pfam	PF05036	Sporulation related domain	212	276	1.5E-9	T	21-03-2019	IPR007730	Sporulation-like domain
+MAG061_1_43	c7faae6de8e6246372b2ace5209ee4a0	291	TIGRFAM	TIGR00413	rlpA: rare lipoprotein A	84	273	3.5E-32	T	21-03-2019	IPR012997	Rare lipoprotein A
+MAG061_1_43	c7faae6de8e6246372b2ace5209ee4a0	291	Pfam	PF03330	Lytic transglycolase	97	171	2.8E-20	T	21-03-2019	IPR009009	RlpA-like protein, double-psi beta-barrel domain
+MAG061_3_34	4b7281c72e70e2e743ac7cf108e5ed87	185	Pfam	PF01741	Large-conductance mechanosensitive channel, MscL	6	122	4.5E-33	T	21-03-2019	IPR037673	Large-conductance mechanosensitive channel/anditomin synthesis protein L
+MAG061_3_34	4b7281c72e70e2e743ac7cf108e5ed87	185	TIGRFAM	TIGR00220	mscL: large conductance mechanosensitive channel protein	6	120	2.5E-28	T	21-03-2019	IPR001185	Large-conductance mechanosensitive channel
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	TIGRFAM	TIGR02386	rpoC_TIGR: DNA-directed RNA polymerase, beta' subunit	21	1339	0.0	T	21-03-2019	IPR012754	DNA-directed RNA polymerase, subunit beta-prime
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	Pfam	PF00623	RNA polymerase Rpb1, domain 2	345	386	5.8E-9	T	21-03-2019	IPR000722	RNA polymerase, alpha subunit
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	Pfam	PF00623	RNA polymerase Rpb1, domain 2	407	486	1.1E-26	T	21-03-2019	IPR000722	RNA polymerase, alpha subunit
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	Pfam	PF05000	RNA polymerase Rpb1, domain 4	667	731	9.8E-12	T	21-03-2019	IPR007083	RNA polymerase Rpb1, domain 4
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	Pfam	PF04998	RNA polymerase Rpb1, domain 5	746	1249	7.1E-61	T	21-03-2019	IPR007081	RNA polymerase Rpb1, domain 5
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	Pfam	PF04997	RNA polymerase Rpb1, domain 1	16	343	2.1E-77	T	21-03-2019	IPR007080	RNA polymerase Rpb1, domain 1
+MAG061_4_89	b675fa62540940e1d88cc5968061a22c	1369	Pfam	PF04983	RNA polymerase Rpb1, domain 3	490	634	2.5E-24	T	21-03-2019	IPR007066	RNA polymerase Rpb1, domain 3
+MAG061_4_72	3bdb481c9c42b1b4d35a05d9b1eb3dd4	174	Pfam	PF05838	Glycosyl hydrolase 108	15	99	4.5E-13	T	21-03-2019	IPR008565	Protein of unknown function DUF847
+MAG061_6_32	d621190f5ee0326b740a3b3502e382db	349	Pfam	PF04613	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, LpxD	36	105	3.3E-9	T	21-03-2019	IPR020573	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, non-repeat region
+MAG061_6_32	d621190f5ee0326b740a3b3502e382db	349	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	150	184	1.6E-7	T	21-03-2019	IPR001451	Hexapeptide repeat
+MAG061_6_32	d621190f5ee0326b740a3b3502e382db	349	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	280	313	1.4E-6	T	21-03-2019	IPR001451	Hexapeptide repeat
+MAG061_6_32	d621190f5ee0326b740a3b3502e382db	349	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	244	279	4.7E-8	T	21-03-2019	IPR001451	Hexapeptide repeat
+MAG061_6_32	d621190f5ee0326b740a3b3502e382db	349	TIGRFAM	TIGR01853	lipid_A_lpxD: UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD	20	348	6.5E-86	T	21-03-2019	IPR007691	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD
+MAG061_12_5	7a95e77b91f6b8321859c0fce2ab2902	179	Pfam	PF13505	Outer membrane protein beta-barrel domain	9	153	7.2E-9	T	21-03-2019	IPR027385	Outer membrane protein beta-barrel
+MAG061_3_33	f70fcf703f3c0d9aea07e2f817d95d46	190	Pfam	PF01202	Shikimate kinase	20	177	3.5E-41	T	21-03-2019	IPR031322	Shikimate kinase/gluconokinase
+MAG061_8_1	114aed3b42355f8c030c4bc6862ee196	609	Pfam	PF14492	Elongation Factor G, domain II	404	477	2.8E-31	T	21-03-2019
+MAG061_8_1	114aed3b42355f8c030c4bc6862ee196	609	Pfam	PF00009	Elongation factor Tu GTP binding domain	12	282	7.6E-70	T	21-03-2019	IPR000795	Transcription factor, GTP-binding domain
+MAG061_8_1	114aed3b42355f8c030c4bc6862ee196	609	Pfam	PF03144	Elongation factor Tu domain 2	324	391	3.6E-15	T	21-03-2019	IPR004161	Translation elongation factor EFTu-like, domain 2
+MAG061_8_1	114aed3b42355f8c030c4bc6862ee196	609	TIGRFAM	TIGR00484	EF-G: translation elongation factor G	5	608	2.6E-293	T	21-03-2019	IPR004540	Translation elongation factor EFG/EF2
+MAG061_8_1	114aed3b42355f8c030c4bc6862ee196	609	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	12	182	9.1E-32	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_8_1	114aed3b42355f8c030c4bc6862ee196	609	Pfam	PF03764	Elongation factor G, domain IV	479	598	2.8E-41	T	21-03-2019	IPR005517	Translation elongation factor EFG/EF2, domain IV
+MAG061_13_2	733f0cbf5cd37becf1ffadd420ebd2b2	118	Pfam	PF00861	Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast	7	117	4.4E-29	T	21-03-2019	IPR005484	Ribosomal protein L18
+MAG061_13_2	733f0cbf5cd37becf1ffadd420ebd2b2	118	TIGRFAM	TIGR00060	L18_bact: ribosomal protein uL18	9	117	1.1E-28	T	21-03-2019	IPR004389	Ribosomal protein L18, bacterial-type
+MAG061_9_14	ea30811265b8a38487a07d613a478cdc	389	Pfam	PF00162	Phosphoglycerate kinase	6	377	1.1E-123	T	21-03-2019	IPR001576	Phosphoglycerate kinase
+MAG061_1_2	dceab992bc2552f1b15e1153b470793b	384	Pfam	PF03486	HI0933-like protein	4	382	7.4E-103	T	21-03-2019
+MAG061_1_2	dceab992bc2552f1b15e1153b470793b	384	TIGRFAM	TIGR00275	TIGR00275: flavoprotein, HI0933 family	6	381	2.1E-98	T	21-03-2019	IPR004792	Conserved hypothetical protein CHP00275, flavoprotein HI0933-like
+MAG061_4_102	542627058c3ab4745e07ed9f8be6edad	524	Pfam	PF02096	60Kd inner membrane protein	336	520	4.7E-57	T	21-03-2019	IPR001708	Membrane  insertase YidC/ALB3/OXA1/COX18
+MAG061_4_102	542627058c3ab4745e07ed9f8be6edad	524	TIGRFAM	TIGR03592	yidC_oxa1_cterm: membrane protein insertase, YidC/Oxa1 family	335	519	1.7E-64	T	21-03-2019	IPR028055	Membrane insertase YidC/Oxa1, C-terminal
+MAG061_4_102	542627058c3ab4745e07ed9f8be6edad	524	Pfam	PF14849	YidC periplasmic domain	85	325	1.3E-42	T	21-03-2019	IPR038210	Membrane insertase YidC, periplasmic domain
+MAG061_4_102	542627058c3ab4745e07ed9f8be6edad	524	TIGRFAM	TIGR03593	yidC_nterm: membrane protein insertase, YidC/Oxa1 family, N-terminal domain	74	333	5.7E-47	T	21-03-2019	IPR028053	Membrane insertase YidC, N-terminal
+MAG061_3_23	195cefde2bbccc65343baafc33505a86	290	Pfam	PF13464	Domain of unknown function (DUF4115)	200	263	2.4E-12	T	21-03-2019	IPR025194	Domain of unknown function DUF4115
+MAG061_3_23	195cefde2bbccc65343baafc33505a86	290	Pfam	PF13413	Helix-turn-helix domain	21	84	5.3E-16	T	21-03-2019
+MAG061_5_26	4b0366f441b68103eef8f5a31d9efdb9	584	Pfam	PF02272	DHHA1 domain	330	451	6.0E-18	T	21-03-2019	IPR003156	DHHA1 domain
+MAG061_5_26	4b0366f441b68103eef8f5a31d9efdb9	584	Pfam	PF01368	DHH family	84	211	9.8E-11	T	21-03-2019	IPR001667	DDH domain
+MAG061_5_26	4b0366f441b68103eef8f5a31d9efdb9	584	TIGRFAM	TIGR00644	recJ: single-stranded-DNA-specific exonuclease RecJ	30	582	8.7E-147	T	21-03-2019	IPR004610	Bacterial RecJ exonuclease
+MAG061_2_14	6abf7622df1d972b709b73f08542c89d	239	Pfam	PF00005	ABC transporter	30	176	6.1E-31	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_1_101	3559db19bca84e143171d81838a6d6d1	121	Pfam	PF03788	LrgA family	15	106	1.0E-25	T	21-03-2019	IPR005538	LrgA/CidA family
+MAG061_2_121	5f3c61ff392f2f23e8803df35c8a5236	343	Pfam	PF00535	Glycosyl transferase family 2	5	125	5.0E-34	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_1_137	5dc7c74d81c9e92b6abd96430b66d324	413	Pfam	PF12236	Bacteriophage head to tail connecting protein	16	401	1.4E-89	T	21-03-2019	IPR020991	Head-to-tail connector protein, podovirus-type
+MAG061_5_38	e97b7f7919f433081b0389916b553f9d	432	Pfam	PF00919	Uncharacterized protein family UPF0004	3	100	8.6E-27	T	21-03-2019	IPR013848	Methylthiotransferase, N-terminal
+MAG061_5_38	e97b7f7919f433081b0389916b553f9d	432	Pfam	PF04055	Radical SAM superfamily	144	316	6.2E-23	T	21-03-2019	IPR007197	Radical SAM
+MAG061_5_38	e97b7f7919f433081b0389916b553f9d	432	TIGRFAM	TIGR00089	TIGR00089: radical SAM methylthiotransferase, MiaB/RimO family	3	428	5.7E-129	T	21-03-2019	IPR005839	Methylthiotransferase
+MAG061_5_38	e97b7f7919f433081b0389916b553f9d	432	TIGRFAM	TIGR01574	miaB-methiolase: tRNA-i(6)A37 thiotransferase enzyme MiaB	3	429	4.7E-132	T	21-03-2019
+MAG061_2_143	01c1f078b3f10ad95505be64453ceab3	751	Pfam	PF09397	Ftsk gamma domain	693	751	1.1E-20	T	21-03-2019	IPR018541	FtsK gamma domain
+MAG061_2_143	01c1f078b3f10ad95505be64453ceab3	751	Pfam	PF01580	FtsK/SpoIIIE family	367	580	5.0E-53	T	21-03-2019	IPR002543	FtsK domain
+MAG061_2_4	e62132d92ea7d6972f097b6da4b75d42	285	Pfam	PF07479	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus	161	281	1.7E-25	T	21-03-2019	IPR006109	Glycerol-3-phosphate dehydrogenase, NAD-dependent, C-terminal
+MAG061_2_4	e62132d92ea7d6972f097b6da4b75d42	285	Pfam	PF01210	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus	2	140	3.8E-25	T	21-03-2019	IPR011128	Glycerol-3-phosphate dehydrogenase, NAD-dependent, N-terminal
+MAG061_2_73	79e0c8b54c8cb69e1c92e44753029cb9	542	Pfam	PF00437	Type II/IV secretion system protein	139	420	5.1E-43	T	21-03-2019	IPR001482	Type II/IV secretion system protein
+MAG061_4_93	7425fc427a3b2abe456ae4342debe8b9	224	TIGRFAM	TIGR01169	rplA_bact: ribosomal protein uL1	4	223	2.0E-90	T	21-03-2019	IPR005878	Ribosomal protein L1, bacterial-type
+MAG061_4_93	7425fc427a3b2abe456ae4342debe8b9	224	Pfam	PF00687	Ribosomal protein L1p/L10e family	28	217	5.4E-49	T	21-03-2019	IPR028364	Ribosomal protein L1/ribosomal biogenesis protein
+MAG061_3_12	e1bdc664363526b0ae87a96db18c1411	303	Pfam	PF00005	ABC transporter	22	166	1.0E-27	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_3_52	7789903f5cdb54923f7f607fdd4b275b	273	Pfam	PF04321	RmlD substrate binding domain	3	272	5.1E-101	T	21-03-2019	IPR029903	RmlD-like substrate binding domain
+MAG061_3_52	7789903f5cdb54923f7f607fdd4b275b	273	TIGRFAM	TIGR01214	rmlD: dTDP-4-dehydrorhamnose reductase	3	272	1.5E-93	T	21-03-2019	IPR005913	dTDP-4-dehydrorhamnose reductase family
+MAG061_4_141	7af74342abc0ac9275fb0c7b01ac8ca3	362	Pfam	PF10555	Phospho-N-acetylmuramoyl-pentapeptide-transferase signature 1	64	74	2.4E-4	T	21-03-2019	IPR018480	Phospho-N-acetylmuramoyl-pentapeptide transferase, conserved site
+MAG061_4_141	7af74342abc0ac9275fb0c7b01ac8ca3	362	Pfam	PF00953	Glycosyl transferase family 4	95	280	4.6E-28	T	21-03-2019	IPR000715	Glycosyl transferase, family 4
+MAG061_4_141	7af74342abc0ac9275fb0c7b01ac8ca3	362	TIGRFAM	TIGR00445	mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase	39	360	2.9E-77	T	21-03-2019	IPR003524	Phospho-N-acetylmuramoyl-pentapeptide transferase
+MAG061_2_34	b5477afd2408a6012016ea1b0f0f4a85	1008	TIGRFAM	TIGR00392	ileS: isoleucine--tRNA ligase	8	816	1.3E-227	T	21-03-2019	IPR002301	Isoleucine-tRNA ligase
+MAG061_2_34	b5477afd2408a6012016ea1b0f0f4a85	1008	Pfam	PF08264	Anticodon-binding domain of tRNA	671	808	9.8E-25	T	21-03-2019	IPR013155	Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding
+MAG061_2_34	b5477afd2408a6012016ea1b0f0f4a85	1008	Pfam	PF00133	tRNA synthetases class I (I, L, M and V)	19	620	8.5E-163	T	21-03-2019	IPR002300	Aminoacyl-tRNA synthetase, class Ia
+MAG061_7_14	8920bf5fdbaf08c08994169f49c14ab7	621	Pfam	PF00082	Subtilase family	142	376	1.0E-25	T	21-03-2019	IPR000209	Peptidase S8/S53 domain
+MAG061_4_145	f506bf48bee837c0d82a7bf4a293670c	99	TIGRFAM	TIGR00061	L21: ribosomal protein bL21	4	97	1.3E-29	T	21-03-2019	IPR001787	Ribosomal protein L21
+MAG061_4_145	f506bf48bee837c0d82a7bf4a293670c	99	Pfam	PF00829	Ribosomal prokaryotic L21 protein	4	97	2.2E-36	T	21-03-2019	IPR028909	Ribosomal protein L21-like
+MAG061_2_138	f49818f34bc2c1acf6c89c44837dfd8c	102	Pfam	PF02699	Preprotein translocase subunit	25	98	1.5E-22	T	21-03-2019	IPR003849	Preprotein translocase YajC
+MAG061_2_138	f49818f34bc2c1acf6c89c44837dfd8c	102	TIGRFAM	TIGR00739	yajC: preprotein translocase, YajC subunit	23	100	1.4E-23	T	21-03-2019	IPR003849	Preprotein translocase YajC
+MAG061_5_40	166e9e86171bd8d9780bb4c5a6e0d86b	507	Pfam	PF02637	GatB domain	350	506	1.5E-43	T	21-03-2019	IPR018027	Asn/Gln amidotransferase
+MAG061_5_40	166e9e86171bd8d9780bb4c5a6e0d86b	507	TIGRFAM	TIGR00133	gatB: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	10	506	1.5E-143	T	21-03-2019	IPR004413	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit
+MAG061_5_40	166e9e86171bd8d9780bb4c5a6e0d86b	507	Pfam	PF02934	GatB/GatE catalytic domain	13	310	1.5E-95	T	21-03-2019	IPR006075	Aspartyl/Glutamyl-tRNA(Gln) amidotransferase, subunit B/E, catalytic
+MAG061_3_101	1f44610edfb37eab26687da60099a5bf	633	Pfam	PF00012	Hsp70 protein	4	600	5.4E-265	T	21-03-2019	IPR013126	Heat shock protein 70 family
+MAG061_3_101	1f44610edfb37eab26687da60099a5bf	633	TIGRFAM	TIGR02350	prok_dnaK: chaperone protein DnaK	3	601	9.4E-288	T	21-03-2019	IPR012725	Chaperone DnaK
+MAG061_1_60	cea1428c1f5d9754e18b064a1b819a10	126	Pfam	PF01230	HIT domain	13	112	2.6E-15	T	21-03-2019	IPR001310	Histidine triad (HIT) protein
+MAG061_4_99	9baa12c782b0709e7babd89f77a431ed	513	Pfam	PF05036	Sporulation related domain	475	511	2.3E-4	T	21-03-2019	IPR007730	Sporulation-like domain
+MAG061_4_99	9baa12c782b0709e7babd89f77a431ed	513	Pfam	PF03524	Conjugal transfer protein	50	292	9.6E-29	T	21-03-2019	IPR010258	Conjugal transfer, TrbG/VirB9/CagX
+MAG061_3_54	efa0ef152fa0c3c9a868733dbf60c09d	296	TIGRFAM	TIGR01207	rmlA: glucose-1-phosphate thymidylyltransferase	2	288	5.7E-127	T	21-03-2019	IPR005907	Glucose-1-phosphate thymidylyltransferase, short form
+MAG061_3_54	efa0ef152fa0c3c9a868733dbf60c09d	296	Pfam	PF00483	Nucleotidyl transferase	2	238	1.0E-64	T	21-03-2019	IPR005835	Nucleotidyl transferase domain
+MAG061_1_82	0b076848ea9d6d2f65b14d6cb4a82c19	507	Pfam	PF13335	Magnesium chelatase, subunit ChlI C-terminal	406	498	8.7E-28	T	21-03-2019	IPR025158	Mg chelatase-related protein, C-terminal domain
+MAG061_1_82	0b076848ea9d6d2f65b14d6cb4a82c19	507	TIGRFAM	TIGR00368	TIGR00368: Mg chelatase-like protein	11	498	3.5E-157	T	21-03-2019	IPR004482	Mg chelatase-related protein
+MAG061_1_82	0b076848ea9d6d2f65b14d6cb4a82c19	507	Pfam	PF13541	Subunit ChlI of Mg-chelatase	19	139	1.9E-30	T	21-03-2019
+MAG061_1_82	0b076848ea9d6d2f65b14d6cb4a82c19	507	Pfam	PF01078	Magnesium chelatase, subunit ChlI	191	393	2.7E-93	T	21-03-2019	IPR000523	Magnesium chelatase ChlI domain
+MAG061_2_140	b0674f1ea7d3e12e214062915bdb0f89	287	Pfam	PF02355	Protein export membrane protein	104	280	3.4E-54	T	21-03-2019	IPR022813	Protein-export membrane protein SecD/SecF, archaeal and bacterial
+MAG061_2_140	b0674f1ea7d3e12e214062915bdb0f89	287	Pfam	PF07549	SecD/SecF GG Motif	25	46	2.0E-8	T	21-03-2019	IPR022646	Protein-export membrane protein SecD/SecF/SecDF, conserved site
+MAG061_2_140	b0674f1ea7d3e12e214062915bdb0f89	287	TIGRFAM	TIGR00966	3a0501s07: protein-export membrane protein SecF	31	273	1.4E-61	T	21-03-2019	IPR005665	Protein-export membrane protein SecF, bacterial
+MAG061_2_140	b0674f1ea7d3e12e214062915bdb0f89	287	TIGRFAM	TIGR00916	2A0604s01: protein-export membrane protein, SecD/SecF family	103	270	4.0E-47	T	21-03-2019	IPR022645	Protein-export membrane protein SecD/SecF, bacterial
+MAG061_7_16	64cc217945c42ecb5e364a88186609cc	1916	Pfam	PF07678	A-macroglobulin complement component	1497	1599	1.1E-5	T	21-03-2019	IPR011626	Alpha-macroglobulin complement component
+MAG061_7_16	64cc217945c42ecb5e364a88186609cc	1916	Pfam	PF07703	Alpha-2-macroglobulin family N-terminal region	1051	1188	1.2E-6	T	21-03-2019	IPR011625	Alpha-2-macroglobulin, N-terminal 2
+MAG061_7_16	64cc217945c42ecb5e364a88186609cc	1916	Pfam	PF11974	Alpha-2-macroglobulin MG1 domain	562	665	9.4E-17	T	21-03-2019
+MAG061_7_16	64cc217945c42ecb5e364a88186609cc	1916	Pfam	PF01835	MG2 domain	676	762	4.3E-17	T	21-03-2019	IPR002890	Alpha-2-macroglobulin, N-terminal
+MAG061_7_16	64cc217945c42ecb5e364a88186609cc	1916	Pfam	PF00207	Alpha-2-macroglobulin family	1260	1342	5.2E-11	T	21-03-2019	IPR001599	Alpha-2-macroglobulin
+MAG061_7_6	b77ff9fd2d1d65aea8f694822c2afebf	485	TIGRFAM	TIGR00225	prc: C-terminal processing peptidase	54	384	1.6E-108	T	21-03-2019	IPR004447	C-terminal-processing peptidase S41A
+MAG061_7_6	b77ff9fd2d1d65aea8f694822c2afebf	485	Pfam	PF03572	Peptidase family S41	208	371	9.8E-61	T	21-03-2019	IPR005151	Tail specific protease
+MAG061_7_6	b77ff9fd2d1d65aea8f694822c2afebf	485	Pfam	PF13180	PDZ domain	102	175	5.7E-12	T	21-03-2019	IPR001478	PDZ domain
+MAG061_2_142	f5b53729c9442463cef7c9aca3affca2	227	Pfam	PF01569	PAP2 superfamily	110	222	5.3E-22	T	21-03-2019	IPR000326	Phosphatidic acid phosphatase type 2/haloperoxidase
+MAG061_2_45	d921dda2252d87eaec1236a8f665efd0	751	TIGRFAM	TIGR01051	topA_bact: DNA topoisomerase I	3	618	3.7E-215	T	21-03-2019	IPR005733	DNA topoisomerase I, bacterial-type
+MAG061_2_45	d921dda2252d87eaec1236a8f665efd0	751	Pfam	PF01131	DNA topoisomerase	129	542	5.1E-126	T	21-03-2019	IPR013497	DNA topoisomerase, type IA, central
+MAG061_2_45	d921dda2252d87eaec1236a8f665efd0	751	Pfam	PF01396	Topoisomerase DNA binding C4 zinc finger	584	618	2.3E-14	T	21-03-2019	IPR013498	DNA topoisomerase, type IA, zn finger
+MAG061_2_45	d921dda2252d87eaec1236a8f665efd0	751	Pfam	PF01751	Toprim domain	3	115	1.3E-26	T	21-03-2019	IPR006171	TOPRIM  domain
+MAG061_2_45	d921dda2252d87eaec1236a8f665efd0	751	Pfam	PF13368	Topoisomerase C-terminal repeat	639	685	2.5E-12	T	21-03-2019	IPR025589	Topoisomerase C-terminal repeat
+MAG061_2_45	d921dda2252d87eaec1236a8f665efd0	751	Pfam	PF13368	Topoisomerase C-terminal repeat	694	742	1.3E-5	T	21-03-2019	IPR025589	Topoisomerase C-terminal repeat
+MAG061_1_100	567c22999a59211e60b44fb07283fd85	233	Pfam	PF04172	LrgB-like family	16	227	3.9E-69	T	21-03-2019	IPR007300	CidB/LrgB family
+MAG061_1_26	e0129e7cb92dc4cf9a1746c578ecfe4f	90	Pfam	PF00216	Bacterial DNA-binding protein	1	90	3.6E-33	T	21-03-2019	IPR000119	Histone-like DNA-binding protein
+MAG061_5_42	2b43d062e945cda3db3a1fbda2bbf649	97	Pfam	PF02686	Glu-tRNAGln amidotransferase C subunit	28	83	7.1E-12	T	21-03-2019	IPR003837	Glu-tRNAGln amidotransferase C subunit
+MAG061_5_42	2b43d062e945cda3db3a1fbda2bbf649	97	TIGRFAM	TIGR00135	gatC: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit	4	96	2.7E-18	T	21-03-2019	IPR003837	Glu-tRNAGln amidotransferase C subunit
+MAG061_2_147	cad2bff12d63d0b20b6c81a053afb3a5	225	Pfam	PF00929	Exonuclease	5	168	1.3E-26	T	21-03-2019	IPR013520	Exonuclease, RNase T/DNA polymerase III
+MAG061_2_147	cad2bff12d63d0b20b6c81a053afb3a5	225	TIGRFAM	TIGR00573	dnaq: exonuclease, DNA polymerase III, epsilon subunit family	5	171	2.3E-32	T	21-03-2019	IPR006054	DNA polymerase III epsilon subunit, exonuclease domain
+MAG061_3_79	14accfd691f444f5a64d9e905c725353	219	Pfam	PF02129	X-Pro dipeptidyl-peptidase (S15 family)	40	162	1.0E-9	T	21-03-2019	IPR000383	Xaa-Pro dipeptidyl-peptidase-like domain
+MAG061_2_38	58186af62a87dd4f6133dd34e45c314f	315	TIGRFAM	TIGR00468	pheS: phenylalanine--tRNA ligase, alpha subunit	40	312	5.5E-90	T	21-03-2019	IPR004529	Phenylalanyl-tRNA synthetase, class IIc, alpha subunit
+MAG061_2_38	58186af62a87dd4f6133dd34e45c314f	315	Pfam	PF02912	Aminoacyl tRNA synthetase class II, N-terminal domain	10	73	4.1E-7	T	21-03-2019	IPR004188	Phenylalanine-tRNA ligase, class II, N-terminal
+MAG061_2_38	58186af62a87dd4f6133dd34e45c314f	315	Pfam	PF01409	tRNA synthetases class II core domain (F)	78	312	1.8E-89	T	21-03-2019	IPR002319	Phenylalanyl-tRNA synthetase
+MAG061_2_141	6af2273448ebd8b4506da92c618a8c7e	501	Pfam	PF03572	Peptidase family S41	285	424	7.5E-18	T	21-03-2019	IPR005151	Tail specific protease
+MAG061_2_141	6af2273448ebd8b4506da92c618a8c7e	501	Pfam	PF00595	PDZ domain (Also known as DHR or GLGF)	171	235	2.8E-8	T	21-03-2019	IPR001478	PDZ domain
+MAG061_1_63	3b44a9738ef2a4977b4fb6ce6ceacc70	247	Pfam	PF13673	Acetyltransferase (GNAT) domain	58	153	1.4E-11	T	21-03-2019	IPR000182	GNAT domain
+MAG061_13_1	ff37ff6b98d29aedb01a8e9665c03cf9	185	Pfam	PF00347	Ribosomal protein L6	98	172	1.2E-12	T	21-03-2019	IPR020040	Ribosomal protein L6, alpha-beta domain
+MAG061_13_1	ff37ff6b98d29aedb01a8e9665c03cf9	185	Pfam	PF00347	Ribosomal protein L6	15	89	2.5E-7	T	21-03-2019	IPR020040	Ribosomal protein L6, alpha-beta domain
+MAG061_13_1	ff37ff6b98d29aedb01a8e9665c03cf9	185	TIGRFAM	TIGR03654	L6_bact: ribosomal protein uL6	4	184	1.7E-57	T	21-03-2019	IPR019906	Ribosomal protein L6, bacterial-type
+MAG061_5_15	1ac54bbd4524659ccd2008a4a4f751b3	577	Pfam	PF00587	tRNA synthetase class II core domain (G, H, P, S and T)	259	469	1.8E-38	T	21-03-2019	IPR002314	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+MAG061_5_15	1ac54bbd4524659ccd2008a4a4f751b3	577	TIGRFAM	TIGR00418	thrS: threonine--tRNA ligase	9	571	3.0E-202	T	21-03-2019	IPR002320	Threonine-tRNA ligase, class IIa
+MAG061_5_15	1ac54bbd4524659ccd2008a4a4f751b3	577	Pfam	PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	106	156	3.8E-11	T	21-03-2019	IPR012947	Threonyl/alanyl tRNA synthetase, SAD
+MAG061_5_15	1ac54bbd4524659ccd2008a4a4f751b3	577	Pfam	PF03129	Anticodon binding domain	483	567	3.2E-18	T	21-03-2019	IPR004154	Anticodon-binding
+MAG061_2_37	ae7f3d09cce91c49a79864474b04946e	768	Pfam	PF03147	Ferredoxin-fold anticodon binding domain	678	766	1.4E-13	T	21-03-2019	IPR005121	Ferrodoxin-fold anticodon-binding domain
+MAG061_2_37	ae7f3d09cce91c49a79864474b04946e	768	Pfam	PF03484	tRNA synthetase B5 domain	394	457	4.0E-10	T	21-03-2019	IPR005147	tRNA synthetase, B5-domain
+MAG061_2_37	ae7f3d09cce91c49a79864474b04946e	768	Pfam	PF01588	Putative tRNA binding domain	44	140	6.9E-21	T	21-03-2019	IPR002547	tRNA-binding domain
+MAG061_2_37	ae7f3d09cce91c49a79864474b04946e	768	Pfam	PF03483	B3/4 domain	202	373	5.7E-56	T	21-03-2019	IPR005146	B3/B4 tRNA-binding domain
+MAG061_2_37	ae7f3d09cce91c49a79864474b04946e	768	TIGRFAM	TIGR00472	pheT_bact: phenylalanine--tRNA ligase, beta subunit	1	766	2.2E-181	T	21-03-2019	IPR004532	Phenylalanine-tRNA ligase, class IIc, beta subunit
+MAG061_13_9	e4874649c3f82c6ac21b57833b24fefc	127	TIGRFAM	TIGR03632	uS11_bact: ribosomal protein uS11	8	123	3.5E-47	T	21-03-2019	IPR019981	Ribosomal protein S11, bacterial-type
+MAG061_13_9	e4874649c3f82c6ac21b57833b24fefc	127	Pfam	PF00411	Ribosomal protein S11	17	126	9.9E-38	T	21-03-2019	IPR001971	Ribosomal protein S11
+MAG061_1_129	79358f63294cee79f0c19a9680f90fca	598	Pfam	PF10150	Ribonuclease E/G family	168	442	2.1E-80	T	21-03-2019	IPR019307	RNA-binding protein AU-1/Ribonuclease E/G
+MAG061_1_129	79358f63294cee79f0c19a9680f90fca	598	Pfam	PF00575	S1 RNA binding domain	41	89	4.6E-6	T	21-03-2019	IPR003029	S1 domain
+MAG061_1_129	79358f63294cee79f0c19a9680f90fca	598	TIGRFAM	TIGR00757	RNaseEG: ribonuclease, Rne/Rng family	14	472	6.2E-136	T	21-03-2019	IPR004659	Ribonuclease E/G
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	Pfam	PF17147	Pyruvate:ferredoxin oxidoreductase core domain II	267	366	1.6E-12	T	21-03-2019	IPR033412	Pyruvate:ferredoxin oxidoreductase, core domain II
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	TIGRFAM	TIGR02176	pyruv_ox_red: pyruvate:ferredoxin (flavodoxin) oxidoreductase	5	1151	0.0	T	21-03-2019	IPR011895	Pyruvate-flavodoxin oxidoreductase
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	Pfam	PF10371	Domain of unknown function	621	674	5.8E-12	T	21-03-2019	IPR019456	Pyruvate-flavodoxin oxidoreductase, EKR domain
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	Pfam	PF02775	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain	943	1053	2.1E-10	T	21-03-2019	IPR011766	Thiamine pyrophosphate enzyme, C-terminal TPP-binding
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	Pfam	PF12838	4Fe-4S dicluster domain	685	758	1.5E-7	T	21-03-2019	IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	Pfam	PF01558	Pyruvate ferredoxin/flavodoxin oxidoreductase	417	600	9.4E-25	T	21-03-2019	IPR019752	Pyruvate/ketoisovalerate oxidoreductase, catalytic domain
+MAG061_7_4	f405a1aec59ab91f29e0b12c43895d30	1169	Pfam	PF01855	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg	16	245	8.3E-77	T	21-03-2019	IPR002880	Pyruvate flavodoxin/ferredoxin oxidoreductase, N-terminal
+MAG061_4_5	30728c07d12cc18d70ffdf6cbc212891	307	Pfam	PF05958	tRNA (Uracil-5-)-methyltransferase	230	300	4.8E-9	T	21-03-2019	IPR010280	(Uracil-5)-methyltransferase family
+MAG061_4_103	2c04ade82b335583edefc26e883f8d2f	165	TIGRFAM	TIGR00077	lspA: signal peptidase II	38	158	1.3E-28	T	21-03-2019	IPR001872	Peptidase A8, signal peptidase II
+MAG061_4_103	2c04ade82b335583edefc26e883f8d2f	165	Pfam	PF01252	Signal peptidase (SPase) II	2	153	7.0E-35	T	21-03-2019	IPR001872	Peptidase A8, signal peptidase II
+MAG061_6_21	5934fdedcbaaf8a1e3d4c70dea5cb200	369	Pfam	PF13394	4Fe-4S single cluster domain	109	208	1.7E-5	T	21-03-2019
+MAG061_6_21	5934fdedcbaaf8a1e3d4c70dea5cb200	369	Pfam	PF04055	Radical SAM superfamily	106	266	1.3E-12	T	21-03-2019	IPR007197	Radical SAM
+MAG061_6_21	5934fdedcbaaf8a1e3d4c70dea5cb200	369	TIGRFAM	TIGR00048	rRNA_mod_RlmN: 23S rRNA (adenine(2503)-C(2))-methyltransferase	1	365	4.2E-99	T	21-03-2019	IPR027492	Dual-specificity RNA methyltransferase RlmN
+MAG061_3_114	1db10a5e7ef668636248b48da4872227	373	Pfam	PF00814	Glycoprotease family	46	346	1.5E-90	T	21-03-2019	IPR000905	Gcp-like domain
+MAG061_3_114	1db10a5e7ef668636248b48da4872227	373	TIGRFAM	TIGR03723	T6A_TsaD_YgjD: tRNA threonylcarbamoyl adenosine modification protein TsaD	27	352	1.2E-120	T	21-03-2019	IPR022450	tRNA N6-adenosine threonylcarbamoyltransferase, TsaD
+MAG061_3_114	1db10a5e7ef668636248b48da4872227	373	TIGRFAM	TIGR00329	gcp_kae1: metallohydrolase, glycoprotease/Kae1 family	27	345	4.0E-95	T	21-03-2019	IPR017861	Kae1/TsaD family
+MAG061_3_141	379afc7bf7490e5f615a55ae5a4e7e94	338	TIGRFAM	TIGR02729	Obg_CgtA: Obg family GTPase CgtA	3	328	6.2E-127	T	21-03-2019	IPR014100	GTP-binding protein Obg/CgtA
+MAG061_3_141	379afc7bf7490e5f615a55ae5a4e7e94	338	Pfam	PF01018	GTP1/OBG	5	158	3.0E-55	T	21-03-2019	IPR006169	GTP1/OBG domain
+MAG061_3_141	379afc7bf7490e5f615a55ae5a4e7e94	338	Pfam	PF01926	50S ribosome-binding GTPase	161	280	7.2E-25	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_2_29	19fd2dc3ea49b6c500e3d457ef9431c5	291	Pfam	PF00698	Acyl transferase domain	4	273	8.3E-38	T	21-03-2019	IPR014043	Acyl transferase
+MAG061_2_29	19fd2dc3ea49b6c500e3d457ef9431c5	291	TIGRFAM	TIGR00128	fabD: malonyl CoA-acyl carrier protein transacylase	4	283	1.7E-91	T	21-03-2019	IPR004410	Malonyl CoA-acyl carrier protein transacylase, FabD-type
+MAG061_4_38	343accb1e55860b111d8d7328a90581d	677	TIGRFAM	TIGR02487	NrdD: anaerobic ribonucleoside-triphosphate reductase	133	668	1.5E-137	T	21-03-2019	IPR012833	Ribonucleoside-triphosphate reductase, anaerobic
+MAG061_4_38	343accb1e55860b111d8d7328a90581d	677	Pfam	PF03477	ATP cone domain	21	109	6.8E-19	T	21-03-2019	IPR005144	ATP-cone domain
+MAG061_4_38	343accb1e55860b111d8d7328a90581d	677	Pfam	PF13597	Anaerobic ribonucleoside-triphosphate reductase	134	667	3.5E-166	T	21-03-2019	IPR012833	Ribonucleoside-triphosphate reductase, anaerobic
+MAG061_7_22	7f2f23c5e98af80f29bba754fff497dc	242	TIGRFAM	TIGR04406	LPS_export_lptB: LPS export ABC transporter ATP-binding protein	6	241	1.4E-105	T	21-03-2019	IPR030921	LPS export ABC transporter, ATP-binding protein LptB
+MAG061_7_22	7f2f23c5e98af80f29bba754fff497dc	242	Pfam	PF00005	ABC transporter	22	167	1.6E-31	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_4_94	5669acabd04f4028a4da9525954e0f62	143	TIGRFAM	TIGR01632	L11_bact: ribosomal protein uL11	4	142	8.5E-60	T	21-03-2019	IPR006519	Ribosomal protein L11, bacterial-type
+MAG061_4_94	5669acabd04f4028a4da9525954e0f62	143	Pfam	PF03946	Ribosomal protein L11, N-terminal domain	10	68	3.4E-27	T	21-03-2019	IPR020784	Ribosomal protein L11, N-terminal
+MAG061_4_94	5669acabd04f4028a4da9525954e0f62	143	Pfam	PF00298	Ribosomal protein L11, RNA binding domain	73	141	1.3E-23	T	21-03-2019	IPR020783	Ribosomal protein L11, C-terminal
+MAG061_3_139	204d1688b6a323922142bf464680a670	207	Pfam	PF02915	Rubrerythrin	12	139	5.0E-33	T	21-03-2019	IPR003251	Rubrerythrin
+MAG061_5_52	a4881cf86b86cd9db37b0610bbed4428	195	Pfam	PF02660	Glycerol-3-phosphate acyltransferase	10	181	3.1E-46	T	21-03-2019	IPR003811	Glycerol-3-phosphate acyltransferase, PlsY
+MAG061_5_52	a4881cf86b86cd9db37b0610bbed4428	195	TIGRFAM	TIGR00023	TIGR00023: acyl-phosphate glycerol 3-phosphate acyltransferase	2	192	5.7E-51	T	21-03-2019	IPR003811	Glycerol-3-phosphate acyltransferase, PlsY
+MAG061_14_1	f1bf8b695b31b8ec245afce892150093	225	Pfam	PF01193	RNA polymerase Rpb3/Rpb11 dimerisation domain	42	109	6.8E-9	T	21-03-2019	IPR011263	DNA-directed RNA polymerase, RpoA/D/Rpb3-type
+MAG061_14_1	f1bf8b695b31b8ec245afce892150093	225	Pfam	PF03118	Bacterial RNA polymerase, alpha chain C terminal domain	138	195	9.7E-25	T	21-03-2019	IPR011260	RNA polymerase, alpha subunit, C-terminal
+MAG061_14_1	f1bf8b695b31b8ec245afce892150093	225	Pfam	PF01000	RNA polymerase Rpb3/RpoA insert domain	3	41	1.7E-6	T	21-03-2019	IPR011262	DNA-directed RNA polymerase, insert domain
+MAG061_2_94	7666cd1f43db7c0790284c53e54cba94	256	TIGRFAM	TIGR00633	xth: exodeoxyribonuclease III (xth)	1	255	1.4E-59	T	21-03-2019	IPR004808	AP endonuclease 1
+MAG061_2_94	7666cd1f43db7c0790284c53e54cba94	256	Pfam	PF03372	Endonuclease/Exonuclease/phosphatase family	4	248	5.2E-14	T	21-03-2019	IPR005135	Endonuclease/exonuclease/phosphatase
+MAG061_2_94	7666cd1f43db7c0790284c53e54cba94	256	TIGRFAM	TIGR00195	exoDNase_III: exodeoxyribonuclease III	1	254	5.1E-64	T	21-03-2019
+MAG061_5_59	21577bd5b5ec3aefd3b20adbc89db80c	659	Pfam	PF01751	Toprim domain	436	534	2.0E-15	T	21-03-2019	IPR006171	TOPRIM  domain
+MAG061_5_59	21577bd5b5ec3aefd3b20adbc89db80c	659	Pfam	PF00986	DNA gyrase B subunit, carboxyl terminus	578	647	1.1E-23	T	21-03-2019	IPR002288	DNA gyrase B subunit, C-terminal
+MAG061_5_59	21577bd5b5ec3aefd3b20adbc89db80c	659	Pfam	PF00204	DNA gyrase B	233	408	8.3E-38	T	21-03-2019	IPR013506	DNA topoisomerase, type IIA, subunit B, domain 2
+MAG061_5_59	21577bd5b5ec3aefd3b20adbc89db80c	659	Pfam	PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	34	178	2.3E-17	T	21-03-2019	IPR003594	Histidine kinase/HSP90-like ATPase
+MAG061_3_107	ac197042bbd187312103c763a6d1925e	215	Pfam	PF01746	tRNA (Guanine-1)-methyltransferase	12	209	4.3E-45	T	21-03-2019	IPR016009	tRNA methyltransferase TRMD/TRM10-type domain
+MAG061_3_107	ac197042bbd187312103c763a6d1925e	215	TIGRFAM	TIGR00088	trmD: tRNA (guanine(37)-N(1))-methyltransferase	1	214	2.2E-67	T	21-03-2019	IPR002649	tRNA (guanine-N1-)-methyltransferase, bacteria
+MAG061_3_64	4906b349634a4e8d871228877ee77b6c	125	TIGRFAM	TIGR00516	acpS: holo-[acyl-carrier-protein] synthase	1	124	5.6E-21	T	21-03-2019	IPR002582	Holo-[acyl carrier protein] synthase
+MAG061_3_64	4906b349634a4e8d871228877ee77b6c	125	Pfam	PF01648	4'-phosphopantetheinyl transferase superfamily	4	97	1.2E-15	T	21-03-2019	IPR008278	4'-phosphopantetheinyl transferase domain
+MAG061_3_64	4906b349634a4e8d871228877ee77b6c	125	TIGRFAM	TIGR00556	pantethn_trn: phosphopantetheine--protein transferase domain	2	124	1.1E-21	T	21-03-2019	IPR004568	Phosphopantetheine-protein transferase domain
+MAG061_5_47	9afddce7c9625f7fddbe848b0595282d	441	Pfam	PF01458	Uncharacterized protein family (UPF0051)	182	413	4.3E-50	T	21-03-2019	IPR000825	SUF system FeS cluster assembly, SufBD
+MAG061_5_47	9afddce7c9625f7fddbe848b0595282d	441	TIGRFAM	TIGR01980	sufB: FeS assembly protein SufB	3	435	1.1E-141	T	21-03-2019	IPR010231	SUF system FeS cluster assembly, SufB
+MAG061_1_80	6dfdf8caac289e097fc9639070d5bdc4	210	Pfam	PF00035	Double-stranded RNA binding motif	142	208	7.9E-11	T	21-03-2019	IPR014720	Double-stranded RNA-binding domain
+MAG061_1_80	6dfdf8caac289e097fc9639070d5bdc4	210	TIGRFAM	TIGR02191	RNaseIII: ribonuclease III	2	206	9.9E-54	T	21-03-2019	IPR011907	Ribonuclease III
+MAG061_1_80	6dfdf8caac289e097fc9639070d5bdc4	210	Pfam	PF14622	Ribonuclease-III-like	10	126	7.1E-22	T	21-03-2019	IPR000999	Ribonuclease III domain
+MAG061_1_133	e5dbdd4fe44a5ddad16a53720c6f4129	430	Pfam	PF01435	Peptidase family M48	29	218	3.3E-28	T	21-03-2019	IPR001915	Peptidase M48
+MAG061_1_133	e5dbdd4fe44a5ddad16a53720c6f4129	430	Pfam	PF13432	Tetratricopeptide repeat	269	333	6.5E-9	T	21-03-2019
+MAG061_6_11	b1b2ad6e1aa6b89091a356ce075d3560	522	TIGRFAM	TIGR02397	dnaX_nterm: DNA polymerase III, subunit gamma and tau	5	364	1.8E-129	T	21-03-2019	IPR012763	DNA polymerase III, subunit gamma/ tau
+MAG061_6_11	b1b2ad6e1aa6b89091a356ce075d3560	522	Pfam	PF12362	DNA polymerase III gamma and tau subunits C terminal	419	520	8.7E-13	T	21-03-2019	IPR022107	DNA polymerase III, subunit gamma/ tau, C-terminal
+MAG061_6_11	b1b2ad6e1aa6b89091a356ce075d3560	522	Pfam	PF13177	DNA polymerase III, delta subunit	23	179	3.1E-43	T	21-03-2019
+MAG061_6_11	b1b2ad6e1aa6b89091a356ce075d3560	522	Pfam	PF12169	DNA polymerase III subunits gamma and tau domain III	236	379	8.6E-27	T	21-03-2019	IPR022754	DNA polymerase III, gamma subunit, domain III
+MAG061_2_21	c8cfa8d4702b450e3c82a8f369539a64	154	Pfam	PF04386	Stringent starvation protein B	11	125	6.2E-29	T	21-03-2019	IPR007481	Stringent starvation protein B
+MAG061_2_1	87d083df007d309cda9aebd8af4cb4b9	219	Pfam	PF01509	TruB family pseudouridylate synthase (N terminal domain)	25	174	4.8E-44	T	21-03-2019	IPR002501	Pseudouridine synthase II, N-terminal
+MAG061_2_1	87d083df007d309cda9aebd8af4cb4b9	219	TIGRFAM	TIGR00431	TruB: tRNA pseudouridine(55) synthase	5	211	9.2E-58	T	21-03-2019	IPR014780	tRNA pseudouridine synthase II, TruB
+MAG061_6_27	0633306061899713a0a75efa9a2d35a1	796	Pfam	PF00009	Elongation factor Tu GTP binding domain	301	458	4.1E-30	T	21-03-2019	IPR000795	Transcription factor, GTP-binding domain
+MAG061_6_27	0633306061899713a0a75efa9a2d35a1	796	Pfam	PF04760	Translation initiation factor IF-2, N-terminal region	222	271	1.8E-14	T	21-03-2019	IPR006847	Translation initiation factor IF-2, N-terminal
+MAG061_6_27	0633306061899713a0a75efa9a2d35a1	796	TIGRFAM	TIGR00487	IF-2: translation initiation factor IF-2	215	794	6.7E-210	T	21-03-2019	IPR000178	Translation initiation factor aIF-2, bacterial-like
+MAG061_6_27	0633306061899713a0a75efa9a2d35a1	796	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	300	454	1.2E-27	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_6_27	0633306061899713a0a75efa9a2d35a1	796	Pfam	PF11987	Translation-initiation factor 2	582	686	1.6E-31	T	21-03-2019	IPR023115	Translation initiation factor IF- 2, domain 3
+MAG061_3_31	3ea911a8ba053624fd20abdcca7dc50b	432	Pfam	PF13393	Histidyl-tRNA synthetase	11	319	8.8E-34	T	21-03-2019
+MAG061_3_31	3ea911a8ba053624fd20abdcca7dc50b	432	TIGRFAM	TIGR00442	hisS: histidine--tRNA ligase	8	422	2.3E-92	T	21-03-2019	IPR015807	Histidine-tRNA ligase
+MAG061_3_31	3ea911a8ba053624fd20abdcca7dc50b	432	Pfam	PF03129	Anticodon binding domain	343	432	2.1E-17	T	21-03-2019	IPR004154	Anticodon-binding
+MAG061_3_96	e5c2bcd9ba261478e9dd15471a0d3c93	137	Pfam	PF01381	Helix-turn-helix	21	72	1.5E-10	T	21-03-2019	IPR001387	Cro/C1-type helix-turn-helix domain
+MAG061_4_130	8ce8ab820f9ba4d8edada6ae1c13adf3	123	Pfam	PF13411	MerR HTH family regulatory protein	9	77	2.0E-24	T	21-03-2019	IPR000551	MerR-type HTH domain
+MAG061_4_124	6b7398010776c6bc1e3baa10d0704e42	157	Pfam	PF01047	MarR family	48	104	4.7E-10	T	21-03-2019	IPR000835	MarR-type HTH domain
+MAG061_4_118	3aecd4cb471151d08b88a0a5b4dc6421	84	Pfam	PF12844	Helix-turn-helix domain	28	70	2.1E-7	T	21-03-2019	IPR001387	Cro/C1-type helix-turn-helix domain
+MAG061_4_33	12ff79778b1034d82b8029bd51c12dd2	329	TIGRFAM	TIGR01128	holA: DNA polymerase III, delta subunit	18	317	4.8E-33	T	21-03-2019	IPR005790	DNA polymerase III, delta subunit
+MAG061_8_9	0eed13e514729e94a792ed53563a6d4b	417	Pfam	PF00109	Beta-ketoacyl synthase, N-terminal domain	1	251	4.5E-63	T	21-03-2019	IPR014030	Beta-ketoacyl synthase, N-terminal
+MAG061_8_9	0eed13e514729e94a792ed53563a6d4b	417	TIGRFAM	TIGR03150	fabF: beta-ketoacyl-acyl-carrier-protein synthase II	2	413	2.8E-186	T	21-03-2019	IPR017568	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MAG061_8_9	0eed13e514729e94a792ed53563a6d4b	417	Pfam	PF02801	Beta-ketoacyl synthase, C-terminal domain	259	371	3.7E-36	T	21-03-2019	IPR014031	Beta-ketoacyl synthase, C-terminal
+MAG061_2_46	12ba3e849d63245d8fc4f590ce1e625f	537	Pfam	PF13662	Toprim domain	255	316	6.1E-13	T	21-03-2019	IPR006171	TOPRIM  domain
+MAG061_2_46	12ba3e849d63245d8fc4f590ce1e625f	537	Pfam	PF08275	DNA primase catalytic core, N-terminal domain	124	244	4.8E-32	T	21-03-2019	IPR013264	DNA primase, catalytic core, N-terminal
+MAG061_2_46	12ba3e849d63245d8fc4f590ce1e625f	537	TIGRFAM	TIGR01391	dnaG: DNA primase	4	408	5.2E-128	T	21-03-2019	IPR006295	DNA primase, DnaG
+MAG061_2_46	12ba3e849d63245d8fc4f590ce1e625f	537	Pfam	PF01807	CHC2 zinc finger	6	98	3.4E-37	T	21-03-2019	IPR002694	Zinc finger, CHC2-type
+MAG061_11_3	370ea6a780c2733dc1161ed94d550dc3	376	Pfam	PF01555	DNA methylase	35	257	3.0E-56	T	21-03-2019	IPR002941	DNA methylase N-4/N-6
+MAG061_3_145	e4fa53f3a4d4bc09c0009e176f37b243	183	TIGRFAM	TIGR03725	T6A_YeaZ: tRNA threonylcarbamoyl adenosine modification protein YeaZ	2	114	3.4E-26	T	21-03-2019	IPR022496	tRNA threonylcarbamoyl adenosine modification protein TsaB
+MAG061_3_145	e4fa53f3a4d4bc09c0009e176f37b243	183	Pfam	PF00814	Glycoprotease family	23	125	3.3E-17	T	21-03-2019	IPR000905	Gcp-like domain
+MAG061_8_26	45fa88d33a2b704ea9c164e1f53b06ee	169	Pfam	PF02698	DUF218 domain	70	157	6.2E-11	T	21-03-2019	IPR003848	Domain of unknown function DUF218
+MAG061_8_13	a6c2cfaf65f5cd9772708a33ffb4ce5e	632	TIGRFAM	TIGR01393	lepA: elongation factor 4	40	631	6.1E-282	T	21-03-2019	IPR006297	Elongation factor 4
+MAG061_8_13	a6c2cfaf65f5cd9772708a33ffb4ce5e	632	Pfam	PF03144	Elongation factor Tu domain 2	243	312	1.5E-8	T	21-03-2019	IPR004161	Translation elongation factor EFTu-like, domain 2
+MAG061_8_13	a6c2cfaf65f5cd9772708a33ffb4ce5e	632	Pfam	PF00679	Elongation factor G C-terminus	436	521	2.3E-22	T	21-03-2019	IPR000640	Elongation factor EFG, domain V-like
+MAG061_8_13	a6c2cfaf65f5cd9772708a33ffb4ce5e	632	Pfam	PF06421	GTP-binding protein LepA C-terminus	524	630	1.2E-49	T	21-03-2019	IPR013842	GTP-binding protein LepA, C-terminal
+MAG061_8_13	a6c2cfaf65f5cd9772708a33ffb4ce5e	632	Pfam	PF00009	Elongation factor Tu GTP binding domain	40	220	3.4E-50	T	21-03-2019	IPR000795	Transcription factor, GTP-binding domain
+MAG061_8_13	a6c2cfaf65f5cd9772708a33ffb4ce5e	632	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	42	177	2.9E-16	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_5_67	e061ac54e6e2f2a2fde295d3c2a42cbc	252	Pfam	PF02457	DisA bacterial checkpoint controller nucleotide-binding	116	232	2.1E-38	T	21-03-2019	IPR003390	DNA integrity scanning protein, DisA, N-terminal
+MAG061_5_67	e061ac54e6e2f2a2fde295d3c2a42cbc	252	TIGRFAM	TIGR00159	TIGR00159: TIGR00159 family protein	8	247	1.4E-60	T	21-03-2019	IPR034701	Diadenylate cyclase CdaA
+MAG061_2_12	4a901e175768e45b869b7da60990594a	172	Pfam	PF05198	Translation initiation factor IF-3, N-terminal domain	5	74	1.9E-27	T	21-03-2019	IPR019814	Translation initiation factor 3, N-terminal
+MAG061_2_12	4a901e175768e45b869b7da60990594a	172	TIGRFAM	TIGR00168	infC: translation initiation factor IF-3	5	169	1.5E-46	T	21-03-2019	IPR001288	Translation initiation factor 3
+MAG061_2_12	4a901e175768e45b869b7da60990594a	172	Pfam	PF00707	Translation initiation factor IF-3, C-terminal domain	81	168	2.0E-15	T	21-03-2019	IPR019815	Translation initiation factor 3, C-terminal
+MAG061_3_117	129fe338a9a7fe750255a183a6933494	551	Pfam	PF02463	RecF/RecN/SMC N terminal domain	2	506	4.6E-16	T	21-03-2019	IPR003395	RecF/RecN/SMC, N-terminal
+MAG061_3_117	129fe338a9a7fe750255a183a6933494	551	TIGRFAM	TIGR00634	recN: DNA repair protein RecN	1	550	2.6E-128	T	21-03-2019	IPR004604	DNA recombination/repair protein RecN
+MAG061_9_15	648b1e6c889111a192a04524b1f84dbe	249	Pfam	PF01351	Ribonuclease HII	61	235	7.7E-30	T	21-03-2019	IPR024567	Ribonuclease HII/HIII domain
+MAG061_2_116	0367225992eef3b8191e4a53bfd0aeab	184	Pfam	PF01926	50S ribosome-binding GTPase	22	138	5.9E-19	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_2_116	0367225992eef3b8191e4a53bfd0aeab	184	TIGRFAM	TIGR03598	GTPase_YsxC: ribosome biogenesis GTP-binding protein YsxC	3	181	5.0E-58	T	21-03-2019	IPR019987	GTP-binding protein, ribosome biogenesis, YsxC
+MAG061_1_130	0e0cf50e142ae293913c916d83bb7ec0	337	Pfam	PF03706	Lysylphosphatidylglycerol synthase TM region	21	299	1.3E-14	T	21-03-2019	IPR022791	Lysylphosphatidylglycerol synthetase/glycosyltransferase AglD
+MAG061_10_9	485887f47c48402f3a29df11c6e5ec49	186	Pfam	PF01025	GrpE	40	186	2.0E-33	T	21-03-2019	IPR000740	GrpE nucleotide exchange factor
+MAG061_2_91	2909c6aa6d196d91257f3b28079d834b	158	Pfam	PF02075	Crossover junction endodeoxyribonuclease RuvC	3	150	8.4E-44	T	21-03-2019	IPR002176	Crossover junction endodeoxyribonuclease RuvC
+MAG061_2_91	2909c6aa6d196d91257f3b28079d834b	158	TIGRFAM	TIGR00228	ruvC: crossover junction endodeoxyribonuclease RuvC	3	153	1.7E-40	T	21-03-2019	IPR002176	Crossover junction endodeoxyribonuclease RuvC
+MAG061_2_47	a74fac6d7677a114cfe5bb059a852cc8	359	Pfam	PF01926	50S ribosome-binding GTPase	5	122	2.8E-23	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_2_47	a74fac6d7677a114cfe5bb059a852cc8	359	Pfam	PF06071	Protein of unknown function (DUF933)	275	358	4.3E-37	T	21-03-2019	IPR013029	YchF, C-terminal domain
+MAG061_2_47	a74fac6d7677a114cfe5bb059a852cc8	359	TIGRFAM	TIGR00092	TIGR00092: GTP-binding protein YchF	1	358	1.5E-131	T	21-03-2019	IPR004396	Ribosome-binding ATPase YchF/Obg-like ATPase 1
+MAG061_2_6	fe7d87826220148c23017f031f2e3b3e	186	Pfam	PF02527	rRNA small subunit methyltransferase G	5	166	4.3E-38	T	21-03-2019	IPR003682	rRNA small subunit methyltransferase G
+MAG061_2_6	fe7d87826220148c23017f031f2e3b3e	186	TIGRFAM	TIGR00138	rsmG_gidB: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	8	164	3.7E-35	T	21-03-2019	IPR003682	rRNA small subunit methyltransferase G
+MAG061_4_56	8b43b3572906af7e1b996084d73bbc40	141	Pfam	PF04343	Protein of unknown function, DUF488	15	129	3.9E-16	T	21-03-2019	IPR007438	Protein of unknown function DUF488
+MAG061_1_29	f6e31bdfd98a6c389a5ddd71a2f133f1	685	Pfam	PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	634	676	6.0E-13	T	21-03-2019	IPR012947	Threonyl/alanyl tRNA synthetase, SAD
+MAG061_1_29	f6e31bdfd98a6c389a5ddd71a2f133f1	685	Pfam	PF01411	tRNA synthetases class II (A)	5	535	4.5E-190	T	21-03-2019	IPR018164	Alanyl-tRNA synthetase, class IIc, N-terminal
+MAG061_1_29	f6e31bdfd98a6c389a5ddd71a2f133f1	685	TIGRFAM	TIGR00344	alaS: alanine--tRNA ligase	5	682	5.7E-241	T	21-03-2019	IPR002318	Alanine-tRNA ligase, class IIc
+MAG061_1_61	0020069f9315a4945ef276beb06665c0	95	Pfam	PF00166	Chaperonin 10 Kd subunit	2	93	6.3E-31	T	21-03-2019	IPR020818	GroES chaperonin family
+MAG061_2_31	29de560fd9542e3f2e967ecf7fe5f046	547	Pfam	PF13932	GidA associated domain	473	541	2.8E-16	T	21-03-2019	IPR026904	GidA associated domain 3
+MAG061_2_31	29de560fd9542e3f2e967ecf7fe5f046	547	Pfam	PF13932	GidA associated domain	396	469	1.4E-27	T	21-03-2019	IPR026904	GidA associated domain 3
+MAG061_2_31	29de560fd9542e3f2e967ecf7fe5f046	547	TIGRFAM	TIGR00136	gidA: tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	4	459	6.1E-187	T	21-03-2019	IPR004416	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MAG061_2_31	29de560fd9542e3f2e967ecf7fe5f046	547	Pfam	PF01134	Glucose inhibited division protein A	5	390	1.5E-145	T	21-03-2019	IPR002218	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG-related
+MAG061_1_5	2fc25478e0be9245e26284431a761724	249	Pfam	PF02470	MlaD protein	41	139	1.1E-11	T	21-03-2019	IPR003399	Mce/MlaD
+MAG061_4_133	cf771b74ead2cdd0fe4e2649f2c35aea	50	TIGRFAM	TIGR01030	rpmH_bact: ribosomal protein bL34	3	46	1.7E-22	T	21-03-2019	IPR000271	Ribosomal protein L34
+MAG061_4_133	cf771b74ead2cdd0fe4e2649f2c35aea	50	Pfam	PF00468	Ribosomal protein L34	3	46	7.7E-21	T	21-03-2019	IPR000271	Ribosomal protein L34
+MAG061_2_17	e856ee8cff734ab5406b211fdb423f92	92	Pfam	PF13560	Helix-turn-helix domain	11	53	3.2E-7	T	21-03-2019
+MAG061_5_43	d254538a2e650af5d4c79b81aa53cfc1	151	TIGRFAM	TIGR00250	RNAse_H_YqgF: putative transcription antitermination factor YqgF	16	141	3.1E-13	T	21-03-2019	IPR005227	Putative pre-16S rRNA nuclease
+MAG061_5_43	d254538a2e650af5d4c79b81aa53cfc1	151	Pfam	PF03652	Holliday junction resolvase	14	143	2.2E-26	T	21-03-2019	IPR005227	Putative pre-16S rRNA nuclease
+MAG061_4_108	cb87a62c03533b1d708e4faab4f83b87	455	Pfam	PF00224	Pyruvate kinase, barrel domain	4	337	3.8E-91	T	21-03-2019	IPR015793	Pyruvate kinase, barrel
+MAG061_4_108	cb87a62c03533b1d708e4faab4f83b87	455	TIGRFAM	TIGR01064	pyruv_kin: pyruvate kinase	5	425	1.4E-122	T	21-03-2019	IPR001697	Pyruvate kinase
+MAG061_4_108	cb87a62c03533b1d708e4faab4f83b87	455	Pfam	PF02887	Pyruvate kinase, alpha/beta domain	361	432	3.6E-11	T	21-03-2019	IPR015795	Pyruvate kinase, C-terminal
+MAG061_3_128	b43aa922305fa8c44080ef2b81e6b256	260	Pfam	PF10417	C-terminal domain of 1-Cys peroxiredoxin	179	210	9.1E-11	T	21-03-2019	IPR019479	Peroxiredoxin, C-terminal
+MAG061_3_128	b43aa922305fa8c44080ef2b81e6b256	260	Pfam	PF00578	AhpC/TSA family	23	158	3.7E-32	T	21-03-2019	IPR000866	Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant
+MAG061_3_6	01c4a58d036514387d4e070c60395339	1017	TIGRFAM	TIGR01865	cas_Csn1: CRISPR subtype II RNA-guided endonuclease Cas9	2	739	3.8E-136	T	21-03-2019	IPR028629	CRISPR-associated endonuclease Cas9
+MAG061_3_6	01c4a58d036514387d4e070c60395339	1017	Pfam	PF13395	HNH endonuclease	538	589	6.4E-20	T	21-03-2019	IPR003615	HNH nuclease
+MAG061_3_91	0105ca9f78eebbe2f9f2580547f30fe5	282	Pfam	PF01795	MraW methylase family	2	279	9.8E-67	T	21-03-2019	IPR002903	Ribosomal RNA small subunit methyltransferase H
+MAG061_3_91	0105ca9f78eebbe2f9f2580547f30fe5	282	TIGRFAM	TIGR00006	TIGR00006: 16S rRNA (cytosine(1402)-N(4))-methyltransferase	2	279	1.0E-63	T	21-03-2019	IPR002903	Ribosomal RNA small subunit methyltransferase H
+MAG061_3_126	397d965baa6ebfed2e9f1c8455c72338	580	Pfam	PF03255	Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit	266	399	9.8E-36	T	21-03-2019	IPR001095	Acetyl-CoA carboxylase, alpha subunit
+MAG061_3_126	397d965baa6ebfed2e9f1c8455c72338	580	TIGRFAM	TIGR00515	accD: acetyl-CoA carboxylase, carboxyl transferase, beta subunit	15	282	2.4E-99	T	21-03-2019	IPR000438	Acetyl-CoA carboxylase carboxyl transferase, beta subunit
+MAG061_1_20	ef02f8cc2fbb84720d8cea9283d9091d	210	Pfam	PF00163	Ribosomal protein S4/S9 N-terminal domain	11	98	8.0E-20	T	21-03-2019	IPR001912	Ribosomal protein S4/S9, N-terminal
+MAG061_1_20	ef02f8cc2fbb84720d8cea9283d9091d	210	Pfam	PF01479	S4 domain	99	146	4.2E-19	T	21-03-2019	IPR002942	RNA-binding S4 domain
+MAG061_1_20	ef02f8cc2fbb84720d8cea9283d9091d	210	TIGRFAM	TIGR01017	rpsD_bact: ribosomal protein uS4	11	210	6.2E-67	T	21-03-2019	IPR005709	Ribosomal protein S4, bacterial-type
+MAG061_12_6	897cb9eca309980193acf6bc2a1beb64	926	Pfam	PF01612	3'-5' exonuclease	326	522	4.5E-29	T	21-03-2019	IPR002562	3'-5' exonuclease domain
+MAG061_12_6	897cb9eca309980193acf6bc2a1beb64	926	TIGRFAM	TIGR00593	pola: DNA polymerase I	2	925	5.4E-252	T	21-03-2019	IPR018320	DNA polymerase 1
+MAG061_12_6	897cb9eca309980193acf6bc2a1beb64	926	Pfam	PF01367	5'-3' exonuclease, C-terminal SAM fold	166	248	6.2E-31	T	21-03-2019	IPR020045	DNA polymerase I-like, H3TH domain
+MAG061_12_6	897cb9eca309980193acf6bc2a1beb64	926	Pfam	PF00476	DNA polymerase family A	556	925	6.8E-122	T	21-03-2019	IPR001098	DNA-directed DNA polymerase, family A, palm domain
+MAG061_12_6	897cb9eca309980193acf6bc2a1beb64	926	Pfam	PF02739	5'-3' exonuclease, N-terminal resolvase-like domain	2	165	2.8E-49	T	21-03-2019	IPR020046	5'-3' exonuclease, alpha-helical arch, N-terminal
+MAG061_3_84	d6147d52b0ed2bd7285aeaf1cfc0afa8	133	Pfam	PF02472	Biopolymer transport protein ExbD/TolR	8	131	1.0E-27	T	21-03-2019	IPR003400	Biopolymer transport protein ExbD/TolR
+MAG061_5_63	df89e13ea6a1b092128406d6cd8a9984	474	Pfam	PF01541	GIY-YIG catalytic domain	17	91	1.4E-10	T	21-03-2019	IPR000305	GIY-YIG endonuclease
+MAG061_5_63	df89e13ea6a1b092128406d6cd8a9984	474	Pfam	PF08459	UvrC Helix-hairpin-helix N-terminal	269	403	2.0E-28	T	21-03-2019	IPR001162	UvrC family homology region
+MAG061_5_63	df89e13ea6a1b092128406d6cd8a9984	474	Pfam	PF02151	UvrB/uvrC motif	202	231	1.4E-6	T	21-03-2019	IPR001943	UVR domain
+MAG061_5_63	df89e13ea6a1b092128406d6cd8a9984	474	Pfam	PF14520	Helix-hairpin-helix domain	419	466	3.6E-7	T	21-03-2019
+MAG061_4_4	9ada37f49801a06cf998e2871d16b28c	217	Pfam	PF13505	Outer membrane protein beta-barrel domain	47	217	4.7E-12	T	21-03-2019	IPR027385	Outer membrane protein beta-barrel
+MAG061_6_4	60dcb574321135217b1be37969e574df	301	TIGRFAM	TIGR02937	sigma70-ECF: RNA polymerase sigma factor, sigma-70 family	58	292	2.1E-27	T	21-03-2019	IPR014284	RNA polymerase sigma-70 like domain
+MAG061_6_4	60dcb574321135217b1be37969e574df	301	Pfam	PF04542	Sigma-70 region 2	62	130	1.2E-15	T	21-03-2019	IPR007627	RNA polymerase sigma-70 region 2
+MAG061_6_4	60dcb574321135217b1be37969e574df	301	Pfam	PF00140	Sigma-70 factor, region 1.2	23	50	4.9E-6	T	21-03-2019	IPR009042	RNA polymerase sigma-70 region 1.2
+MAG061_6_4	60dcb574321135217b1be37969e574df	301	Pfam	PF04545	Sigma-70, region 4	241	290	1.1E-13	T	21-03-2019	IPR007630	RNA polymerase sigma-70 region 4
+MAG061_4_87	f8913439ee9f42dd747ab6b6c1ea7f20	354	TIGRFAM	TIGR00182	plsX: fatty acid/phospholipid synthesis protein PlsX	8	344	7.5E-96	T	21-03-2019	IPR012281	Phospholipid biosynthesis protein, PlsX-like
+MAG061_4_87	f8913439ee9f42dd747ab6b6c1ea7f20	354	Pfam	PF02504	Fatty acid synthesis protein	8	332	6.0E-96	T	21-03-2019	IPR003664	Fatty acid synthesis PlsX protein
+MAG061_2_39	ea61dfc5fb54f11d29581fcf2dda610c	122	Pfam	PF00453	Ribosomal protein L20	3	109	1.5E-43	T	21-03-2019	IPR005813	Ribosomal protein L20
+MAG061_2_39	ea61dfc5fb54f11d29581fcf2dda610c	122	TIGRFAM	TIGR01032	rplT_bact: ribosomal protein bL20	1	114	3.8E-43	T	21-03-2019	IPR005813	Ribosomal protein L20
+MAG061_2_85	2f8215118e896ae8d590e16975469607	371	Pfam	PF06725	3D domain	287	359	8.3E-19	T	21-03-2019	IPR010611	3D domain
+MAG061_2_85	2f8215118e896ae8d590e16975469607	371	Pfam	PF03562	MltA specific insert domain	58	267	6.2E-40	T	21-03-2019	IPR005300	Lytic transglycosylase MltA, domain B
+MAG061_3_70	a31fedcb6f77b9b43f7b3143e910a4ee	434	TIGRFAM	TIGR00115	tig: trigger factor	13	414	4.2E-121	T	21-03-2019	IPR005215	Trigger factor
+MAG061_3_70	a31fedcb6f77b9b43f7b3143e910a4ee	434	Pfam	PF05697	Bacterial trigger factor protein (TF)	3	142	2.9E-29	T	21-03-2019	IPR008881	Trigger factor, ribosome-binding, bacterial
+MAG061_3_70	a31fedcb6f77b9b43f7b3143e910a4ee	434	Pfam	PF05698	Bacterial trigger factor protein (TF) C-terminus	261	415	2.5E-28	T	21-03-2019	IPR008880	Trigger factor, C-terminal
+MAG061_3_70	a31fedcb6f77b9b43f7b3143e910a4ee	434	Pfam	PF00254	FKBP-type peptidyl-prolyl cis-trans isomerase	158	238	2.3E-11	T	21-03-2019	IPR001179	FKBP-type peptidyl-prolyl cis-trans isomerase domain
+MAG061_4_31	7b4bff4553b9f9054e7c6d2cf6256be3	226	Pfam	PF04002	RadC-like JAB domain	108	221	1.8E-28	T	21-03-2019	IPR025657	RadC-like JAB domain
+MAG061_4_31	7b4bff4553b9f9054e7c6d2cf6256be3	226	TIGRFAM	TIGR00608	radc: DNA repair protein RadC	15	221	2.8E-41	T	21-03-2019	IPR001405	Uncharacterised protein family UPF0758
+MAG061_1_10	0b09d4098548f0b828b84ef33ed291cf	412	Pfam	PF00919	Uncharacterized protein family UPF0004	13	84	1.2E-9	T	21-03-2019	IPR013848	Methylthiotransferase, N-terminal
+MAG061_1_10	0b09d4098548f0b828b84ef33ed291cf	412	TIGRFAM	TIGR00089	TIGR00089: radical SAM methylthiotransferase, MiaB/RimO family	14	384	7.1E-83	T	21-03-2019	IPR005839	Methylthiotransferase
+MAG061_1_10	0b09d4098548f0b828b84ef33ed291cf	412	Pfam	PF04055	Radical SAM superfamily	136	304	6.4E-16	T	21-03-2019	IPR007197	Radical SAM
+MAG061_4_148	04f53905e5b5a1d3190df7cfb81c8b5c	189	Pfam	PF01300	Telomere recombination	17	184	5.8E-31	T	21-03-2019	IPR006070	YrdC-like domain
+MAG061_8_6	274cdd91f50356ac0c0bc03759d835d3	559	Pfam	PF00501	AMP-binding enzyme	43	441	7.8E-76	T	21-03-2019	IPR000873	AMP-dependent synthetase/ligase
+MAG061_8_6	274cdd91f50356ac0c0bc03759d835d3	559	Pfam	PF13193	AMP-binding enzyme C-terminal domain	450	528	2.5E-22	T	21-03-2019	IPR025110	AMP-binding enzyme, C-terminal domain
+MAG061_7_7	b24b2b5bcd2e1df59be1eeef307ccbb9	236	Pfam	PF02661	Fic/DOC family	79	173	8.6E-15	T	21-03-2019	IPR003812	Fido domain
+MAG061_4_16	067dab71d9112a391bcea7bc2c38c732	736	TIGRFAM	TIGR00595	priA: primosomal protein N'	218	732	6.4E-178	T	21-03-2019	IPR005259	Primosomal protein N'
+MAG061_4_16	067dab71d9112a391bcea7bc2c38c732	736	Pfam	PF00271	Helicase conserved C-terminal domain	514	598	5.2E-5	T	21-03-2019	IPR001650	Helicase, C-terminal
+MAG061_4_16	067dab71d9112a391bcea7bc2c38c732	736	Pfam	PF00270	DEAD/DEAH box helicase	218	360	2.5E-10	T	21-03-2019	IPR011545	DEAD/DEAH box helicase domain
+MAG061_3_7	5c8f9eda005b5de714e1c516cede9e96	301	Pfam	PF01867	CRISPR associated protein Cas1	11	229	9.0E-23	T	21-03-2019	IPR002729	CRISPR-associated protein Cas1
+MAG061_3_7	5c8f9eda005b5de714e1c516cede9e96	301	TIGRFAM	TIGR00287	cas1: CRISPR-associated endonuclease Cas1	8	229	1.7E-22	T	21-03-2019	IPR002729	CRISPR-associated protein Cas1
+MAG061_3_7	5c8f9eda005b5de714e1c516cede9e96	301	TIGRFAM	TIGR03639	cas1_NMENI: CRISPR-associated endonuclease Cas1, subtype II/NMENI	3	273	4.5E-88	T	21-03-2019	IPR019855	CRISPR-associated protein Cas1, NMENI subtype
+MAG061_4_135	fa3fc38e7417168aa4106ff5eaafd6aa	801	TIGRFAM	TIGR00422	valS: valine--tRNA ligase	7	764	1.1E-271	T	21-03-2019	IPR002303	Valine-tRNA ligase
+MAG061_4_135	fa3fc38e7417168aa4106ff5eaafd6aa	801	Pfam	PF00133	tRNA synthetases class I (I, L, M and V)	18	564	8.2E-182	T	21-03-2019	IPR002300	Aminoacyl-tRNA synthetase, class Ia
+MAG061_4_135	fa3fc38e7417168aa4106ff5eaafd6aa	801	Pfam	PF08264	Anticodon-binding domain of tRNA	610	759	3.1E-35	T	21-03-2019	IPR013155	Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding
+MAG061_1_140	01f50dd21495fae1170f7b1e8291216e	335	Pfam	PF01381	Helix-turn-helix	12	65	1.1E-11	T	21-03-2019	IPR001387	Cro/C1-type helix-turn-helix domain
+MAG061_7_1	9fc93c50b2fcb8941790e919408cb7a5	117	Pfam	PF03952	Enolase, N-terminal domain	4	117	1.9E-51	T	21-03-2019	IPR020811	Enolase, N-terminal
+MAG061_4_97	df391cf37e16a310dbb964c38b2b897a	59	Pfam	PF00584	SecE/Sec61-gamma subunits of protein translocation complex	6	58	3.0E-15	T	21-03-2019	IPR001901	Protein translocase complex, SecE/Sec61-gamma subunit
+MAG061_4_97	df391cf37e16a310dbb964c38b2b897a	59	TIGRFAM	TIGR00964	secE_bact: preprotein translocase, SecE subunit	5	59	3.5E-16	T	21-03-2019	IPR005807	SecE subunit of protein translocation complex, bacterial-like
+MAG061_13_4	6e9b9e77e5ee63b7180f8b6ecc591545	59	TIGRFAM	TIGR01308	rpmD_bact: ribosomal protein uL30	4	58	1.2E-24	T	21-03-2019	IPR005996	Ribosomal protein L30, bacterial-type
+MAG061_13_4	6e9b9e77e5ee63b7180f8b6ecc591545	59	Pfam	PF00327	Ribosomal protein L30p/L7e	5	54	2.2E-17	T	21-03-2019	IPR016082	Ribosomal protein L30, ferredoxin-like fold domain
+MAG061_4_47	035c17072ac7377c28e5b416120744e1	169	Pfam	PF10908	Protein of unknown function (DUF2778)	46	152	4.3E-10	T	21-03-2019	IPR021225	Protein of unknown function DUF2778
+MAG061_7_17	b4553357c27669a9099680a0901c4755	791	Pfam	PF00912	Transglycosylase	60	210	5.5E-39	T	21-03-2019	IPR001264	Glycosyl transferase, family 51
+MAG061_7_17	b4553357c27669a9099680a0901c4755	791	Pfam	PF00905	Penicillin binding protein transpeptidase domain	316	537	1.1E-14	T	21-03-2019	IPR001460	Penicillin-binding protein, transpeptidase
+MAG061_7_17	b4553357c27669a9099680a0901c4755	791	TIGRFAM	TIGR02073	PBP_1c: penicillin-binding protein 1C	41	789	4.1E-194	T	21-03-2019	IPR011815	Penicillin-binding protein 1C
+MAG061_7_17	b4553357c27669a9099680a0901c4755	791	Pfam	PF06832	Penicillin-Binding Protein C-terminus Family	703	787	1.1E-13	T	21-03-2019	IPR009647	Penicillin-binding, C-terminal
+MAG061_3_22	c6618b3a2dbac9c1620a1f3237671881	306	Pfam	PF01207	Dihydrouridine synthase (Dus)	9	293	1.0E-73	T	21-03-2019	IPR001269	tRNA-dihydrouridine synthase
+MAG061_2_2	b75916281d6e84214a9fbeb06e5bdbff	837	TIGRFAM	TIGR01070	mutS1: DNA mismatch repair protein MutS	1	799	1.2E-225	T	21-03-2019	IPR005748	DNA mismatch repair protein MutS
+MAG061_2_2	b75916281d6e84214a9fbeb06e5bdbff	837	Pfam	PF05190	MutS family domain IV	417	510	1.4E-19	T	21-03-2019	IPR007861	DNA mismatch repair protein MutS, clamp
+MAG061_2_2	b75916281d6e84214a9fbeb06e5bdbff	837	Pfam	PF00488	MutS domain V	605	793	1.3E-78	T	21-03-2019	IPR000432	DNA mismatch repair protein MutS, C-terminal
+MAG061_2_2	b75916281d6e84214a9fbeb06e5bdbff	837	Pfam	PF01624	MutS domain I	1	114	8.9E-37	T	21-03-2019	IPR007695	DNA mismatch repair protein MutS-like, N-terminal
+MAG061_2_2	b75916281d6e84214a9fbeb06e5bdbff	837	Pfam	PF05192	MutS domain III	260	551	2.6E-20	T	21-03-2019	IPR007696	DNA mismatch repair protein MutS, core
+MAG061_2_2	b75916281d6e84214a9fbeb06e5bdbff	837	Pfam	PF05188	MutS domain II	123	194	2.3E-7	T	21-03-2019	IPR007860	DNA mismatch repair protein MutS, connector domain
+MAG061_3_103	7f161ff9cc020912a4b897c5818785a1	374	Pfam	PF01476	LysM domain	323	369	4.8E-10	T	21-03-2019	IPR018392	LysM domain
+MAG061_2_123	d910bb37a8884a34efcb0016057cd037	279	Pfam	PF13704	Glycosyl transferase family 2	16	116	4.2E-10	T	21-03-2019
+MAG061_6_1	b2fe1de562ef4ccb6d1e65eb71273f01	469	Pfam	PF02534	Type IV secretory system Conjugative DNA transfer	161	416	9.7E-37	T	21-03-2019	IPR003688	Type IV secretion system protein TraG/VirD4
+MAG061_1_50	ee6c5e92bd06a68057ff91164225b069	309	Pfam	PF01435	Peptidase family M48	92	309	2.8E-36	T	21-03-2019	IPR001915	Peptidase M48
+MAG061_2_76	133fcece194ec387e5107023cd5d8216	799	Pfam	PF00204	DNA gyrase B	230	397	2.6E-54	T	21-03-2019	IPR013506	DNA topoisomerase, type IIA, subunit B, domain 2
+MAG061_2_76	133fcece194ec387e5107023cd5d8216	799	Pfam	PF00986	DNA gyrase B subunit, carboxyl terminus	728	788	3.9E-29	T	21-03-2019	IPR002288	DNA gyrase B subunit, C-terminal
+MAG061_2_76	133fcece194ec387e5107023cd5d8216	799	TIGRFAM	TIGR01059	gyrB: DNA gyrase, B subunit	7	799	4.8E-271	T	21-03-2019	IPR011557	DNA gyrase, subunit B
+MAG061_2_76	133fcece194ec387e5107023cd5d8216	799	Pfam	PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	37	181	1.2E-16	T	21-03-2019	IPR003594	Histidine kinase/HSP90-like ATPase
+MAG061_2_76	133fcece194ec387e5107023cd5d8216	799	Pfam	PF01751	Toprim domain	426	534	3.4E-19	T	21-03-2019	IPR006171	TOPRIM  domain
+MAG061_3_20	b77afe49137e01c0a3572dad20a9c9d9	157	Pfam	PF03073	TspO/MBR family	10	153	7.2E-37	T	21-03-2019	IPR004307	TspO/MBR-related protein
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF01138	3' exoribonuclease family, domain 1	32	160	1.0E-21	T	21-03-2019	IPR001247	Exoribonuclease, phosphorolytic domain 1
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF01138	3' exoribonuclease family, domain 1	346	478	2.0E-18	T	21-03-2019	IPR001247	Exoribonuclease, phosphorolytic domain 1
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF00575	S1 RNA binding domain	640	707	6.1E-12	T	21-03-2019	IPR003029	S1 domain
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF03725	3' exoribonuclease family, domain 2	482	551	2.6E-6	T	21-03-2019	IPR015847	Exoribonuclease, phosphorolytic domain 2
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF03725	3' exoribonuclease family, domain 2	163	226	5.7E-9	T	21-03-2019	IPR015847	Exoribonuclease, phosphorolytic domain 2
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	TIGRFAM	TIGR03591	polynuc_phos: polyribonucleotide nucleotidyltransferase	27	713	5.5E-288	T	21-03-2019	IPR012162	Polyribonucleotide nucleotidyltransferase
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF00013	KH domain	579	635	1.6E-9	T	21-03-2019	IPR004088	K Homology domain, type 1
+MAG061_2_19	5d17440ebb8682bb31b21a789284d280	726	Pfam	PF03726	Polyribonucleotide nucleotidyltransferase, RNA binding domain	266	342	5.1E-9	T	21-03-2019	IPR015848	Polyribonucleotide nucleotidyltransferase, RNA-binding domain
+MAG061_4_58	0f76331ee599c4aa0315143ec351da92	274	TIGRFAM	TIGR00544	lgt: prolipoprotein diacylglyceryl transferase	5	267	4.3E-63	T	21-03-2019	IPR001640	Prolipoprotein diacylglyceryl transferase
+MAG061_4_58	0f76331ee599c4aa0315143ec351da92	274	Pfam	PF01790	Prolipoprotein diacylglyceryl transferase	10	259	2.2E-71	T	21-03-2019	IPR001640	Prolipoprotein diacylglyceryl transferase
+MAG061_3_75	9648c4599b2c5054d111565b3a5f5ea9	573	TIGRFAM	TIGR00456	argS: arginine--tRNA ligase	9	573	1.1E-96	T	21-03-2019	IPR001278	Arginine-tRNA ligase
+MAG061_3_75	9648c4599b2c5054d111565b3a5f5ea9	573	Pfam	PF03485	Arginyl tRNA synthetase N terminal domain	4	80	6.0E-20	T	21-03-2019	IPR005148	Arginyl tRNA synthetase N-terminal domain
+MAG061_3_75	9648c4599b2c5054d111565b3a5f5ea9	573	Pfam	PF00750	tRNA synthetases class I (R)	100	441	3.6E-56	T	21-03-2019	IPR035684	Arginyl-tRNA synthetase, catalytic core domain
+MAG061_3_75	9648c4599b2c5054d111565b3a5f5ea9	573	Pfam	PF05746	DALR anticodon binding domain	456	573	3.7E-22	T	21-03-2019	IPR008909	DALR anticodon binding
+MAG061_8_38	e3c0dbd395aea17d22c1d3b843684fdf	95	Pfam	PF09285	Elongation factor P, C-terminal	38	93	5.9E-25	T	21-03-2019	IPR015365	Elongation factor P, C-terminal
+MAG061_3_125	cd0ff7d62b71a959542754d2425f9076	475	TIGRFAM	TIGR00435	cysS: cysteine--tRNA ligase	3	473	2.3E-124	T	21-03-2019	IPR015803	Cysteine-tRNA ligase
+MAG061_3_125	cd0ff7d62b71a959542754d2425f9076	475	Pfam	PF01406	tRNA synthetases class I (C) catalytic domain	16	329	3.8E-90	T	21-03-2019	IPR032678	tRNA synthetases class I, catalytic domain
+MAG061_2_56	26d3a303b08b9cfec81c5b83808fe94e	117	Pfam	PF12702	Lipocalin-like	23	116	2.8E-28	T	21-03-2019	IPR024311	Lipocalin-like domain
+MAG061_1_134	cef3b0ad4e94762550a6078910ee2d71	684	Pfam	PF00270	DEAD/DEAH box helicase	291	428	3.6E-16	T	21-03-2019	IPR011545	DEAD/DEAH box helicase domain
+MAG061_1_134	cef3b0ad4e94762550a6078910ee2d71	684	Pfam	PF00271	Helicase conserved C-terminal domain	507	583	1.9E-14	T	21-03-2019	IPR001650	Helicase, C-terminal
+MAG061_8_33	21dd7e63f36f1cf0bbe0ee3f036c7a8c	74	Pfam	PF12441	CopG antitoxin of type II toxin-antitoxin system	26	64	6.1E-9	T	21-03-2019	IPR022148	CopG antitoxin
+MAG061_3_97	0d6dfdda9cf1eedcb7bf35ef7287b30e	491	Pfam	PF06415	BPG-independent PGAM N-terminus (iPGM_N)	86	268	6.0E-50	T	21-03-2019	IPR011258	BPG-independent PGAM, N-terminal
+MAG061_3_97	0d6dfdda9cf1eedcb7bf35ef7287b30e	491	Pfam	PF01676	Metalloenzyme superfamily	3	478	6.0E-67	T	21-03-2019	IPR006124	Metalloenzyme
+MAG061_3_97	0d6dfdda9cf1eedcb7bf35ef7287b30e	491	TIGRFAM	TIGR01307	pgm_bpd_ind: phosphoglycerate mutase (2,3-diphosphoglycerate-independent)	3	490	8.1E-156	T	21-03-2019	IPR005995	Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent
+MAG061_2_55	d189048369c56e33ae92123c7182a7ef	547	Pfam	PF12848	ABC transporter	240	319	4.2E-6	T	21-03-2019	IPR032781	ABC-transporter extension domain
+MAG061_2_55	d189048369c56e33ae92123c7182a7ef	547	Pfam	PF00005	ABC transporter	28	195	1.0E-21	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_2_55	d189048369c56e33ae92123c7182a7ef	547	Pfam	PF00005	ABC transporter	355	482	8.6E-26	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_3_108	59908308cfefbf8a14545e815a98466c	130	TIGRFAM	TIGR01024	rplS_bact: ribosomal protein bL19	2	117	4.3E-41	T	21-03-2019	IPR001857	Ribosomal protein L19
+MAG061_3_108	59908308cfefbf8a14545e815a98466c	130	Pfam	PF01245	Ribosomal protein L19	3	117	6.2E-42	T	21-03-2019	IPR001857	Ribosomal protein L19
+MAG061_2_27	dcf8c4166d4014543c52975dfd7e02c9	663	Pfam	PF09334	tRNA synthetases class I (M)	7	395	1.3E-131	T	21-03-2019	IPR015413	Methionyl/Leucyl tRNA synthetase
+MAG061_2_27	dcf8c4166d4014543c52975dfd7e02c9	663	Pfam	PF01588	Putative tRNA binding domain	560	660	2.6E-14	T	21-03-2019	IPR002547	tRNA-binding domain
+MAG061_2_27	dcf8c4166d4014543c52975dfd7e02c9	663	TIGRFAM	TIGR00398	metG: methionine--tRNA ligase	8	537	4.6E-133	T	21-03-2019	IPR014758	Methionyl-tRNA synthetase
+MAG061_3_8	cc1c0f4ed8c90c485e58c12199905500	109	Pfam	PF09827	CRISPR associated protein Cas2	9	88	1.2E-19	T	21-03-2019	IPR019199	Virulence-associated protein D / CRISPR associated protein Cas2
+MAG061_3_8	cc1c0f4ed8c90c485e58c12199905500	109	TIGRFAM	TIGR01573	cas2: CRISPR-associated endonuclease Cas2	9	109	8.0E-26	T	21-03-2019	IPR021127	CRISPR-associated endonuclease Cas2
+MAG061_4_6	36e2dfc2535afc512041a227965d2c82	134	Pfam	PF03724	META domain	38	123	1.1E-17	T	21-03-2019	IPR005184	Domain of unknown function DUF306, Meta/HslJ
+MAG061_3_32	ff0caa9a6bd33c788e79f0e157967946	354	Pfam	PF00472	RF-1 domain	207	316	1.9E-41	T	21-03-2019	IPR000352	Peptide chain release factor class I/class II
+MAG061_3_32	ff0caa9a6bd33c788e79f0e157967946	354	Pfam	PF03462	PCRF domain	11	199	4.9E-61	T	21-03-2019	IPR005139	Peptide chain release factor
+MAG061_3_32	ff0caa9a6bd33c788e79f0e157967946	354	TIGRFAM	TIGR00019	prfA: peptide chain release factor 1	5	351	2.4E-142	T	21-03-2019	IPR004373	Peptide chain release factor 1
+MAG061_2_57	0c191f0ba0b02b1473e14b4c4432736b	274	Pfam	PF02498	BRO family, N-terminal domain	13	108	1.4E-9	T	21-03-2019	IPR003497	BRO N-terminal domain
+MAG061_3_36	779479218d9f6b94cdfccb54c973b037	798	Pfam	PF00133	tRNA synthetases class I (I, L, M and V)	416	619	2.8E-20	T	21-03-2019	IPR002300	Aminoacyl-tRNA synthetase, class Ia
+MAG061_3_36	779479218d9f6b94cdfccb54c973b037	798	Pfam	PF09334	tRNA synthetases class I (M)	49	185	4.7E-16	T	21-03-2019	IPR015413	Methionyl/Leucyl tRNA synthetase
+MAG061_3_36	779479218d9f6b94cdfccb54c973b037	798	Pfam	PF13603	Leucyl-tRNA synthetase, Domain 2	223	400	4.1E-56	T	21-03-2019	IPR025709	Leucyl-tRNA synthetase, editing domain
+MAG061_3_36	779479218d9f6b94cdfccb54c973b037	798	Pfam	PF08264	Anticodon-binding domain of tRNA	654	759	1.3E-14	T	21-03-2019	IPR013155	Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding
+MAG061_3_36	779479218d9f6b94cdfccb54c973b037	798	TIGRFAM	TIGR00396	leuS_bact: leucine--tRNA ligase	11	797	6.8E-248	T	21-03-2019	IPR002302	Leucine-tRNA ligase
+MAG061_4_144	89e3eb0d3094b5f7fe13fc0095b89454	88	TIGRFAM	TIGR00062	L27: ribosomal protein bL27	1	82	1.6E-32	T	21-03-2019	IPR001684	Ribosomal protein L27
+MAG061_4_144	89e3eb0d3094b5f7fe13fc0095b89454	88	Pfam	PF01016	Ribosomal L27 protein	2	81	7.1E-35	T	21-03-2019	IPR001684	Ribosomal protein L27
+MAG061_3_105	c0b4aafb124eee83b70763ad6893561f	141	Pfam	PF00886	Ribosomal protein S16	9	71	3.7E-20	T	21-03-2019	IPR000307	Ribosomal protein S16
+MAG061_3_105	c0b4aafb124eee83b70763ad6893561f	141	TIGRFAM	TIGR00002	S16: ribosomal protein bS16	5	83	3.2E-25	T	21-03-2019	IPR000307	Ribosomal protein S16
+MAG061_4_116	e1c2953bd28a2bdb7578cf443274f2ce	166	Pfam	PF01327	Polypeptide deformylase	7	153	3.9E-42	T	21-03-2019	IPR023635	Peptide deformylase
+MAG061_4_116	e1c2953bd28a2bdb7578cf443274f2ce	166	TIGRFAM	TIGR00079	pept_deformyl: peptide deformylase	7	161	1.0E-40	T	21-03-2019	IPR023635	Peptide deformylase
+MAG061_3_113	f81372036b93eac8c8b4f5902e41b5c3	231	Pfam	PF07313	Protein of unknown function (DUF1460)	24	218	3.6E-26	T	21-03-2019	IPR010846	Protein of unknown function DUF1460
+MAG061_8_36	7349b83b24bb60b76a9619f5f868717c	314	TIGRFAM	TIGR00167	cbbA: ketose-bisphosphate aldolase	8	311	8.0E-84	T	21-03-2019	IPR000771	Fructose-bisphosphate aldolase, class-II
+MAG061_8_36	7349b83b24bb60b76a9619f5f868717c	314	Pfam	PF01116	Fructose-bisphosphate aldolase class-II	9	313	1.0E-86	T	21-03-2019	IPR000771	Fructose-bisphosphate aldolase, class-II
+MAG061_4_67	2f3e8a3e5a514d1e6e57f70e16ee8a99	311	Pfam	PF00056	lactate/malate dehydrogenase, NAD binding domain	1	142	1.9E-34	T	21-03-2019	IPR001236	Lactate/malate dehydrogenase, N-terminal
+MAG061_4_67	2f3e8a3e5a514d1e6e57f70e16ee8a99	311	Pfam	PF02866	lactate/malate dehydrogenase, alpha/beta C-terminal domain	145	307	8.5E-20	T	21-03-2019	IPR022383	Lactate/malate dehydrogenase, C-terminal
+MAG061_1_112	0babeb5e73da4ae1d37ed7ade5646692	386	Pfam	PF00535	Glycosyl transferase family 2	9	136	1.1E-38	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_1_171	2a1477f6f9ad282565cc2d43f85afbba	685	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	56	158	7.3E-12	T	21-03-2019	IPR003959	ATPase, AAA-type, core
+MAG061_1_171	2a1477f6f9ad282565cc2d43f85afbba	685	Pfam	PF10431	C-terminal, D2-small domain, of ClpB protein	595	675	1.1E-26	T	21-03-2019	IPR019489	Clp ATPase, C-terminal
+MAG061_1_171	2a1477f6f9ad282565cc2d43f85afbba	685	Pfam	PF07724	AAA domain (Cdc48 subfamily)	444	589	5.5E-47	T	21-03-2019	IPR003959	ATPase, AAA-type, core
+MAG061_2_109	f0a0e0da09f1dc3ec7adfd36d0545355	404	Pfam	PF02687	FtsX-like permease family	290	397	1.7E-12	T	21-03-2019	IPR003838	ABC transporter permease protein domain
+MAG061_2_109	f0a0e0da09f1dc3ec7adfd36d0545355	404	TIGRFAM	TIGR02212	lolCE: lipoprotein releasing system, transmembrane protein, LolC/E family	2	404	1.0E-118	T	21-03-2019	IPR011925	Lipoprotein-releasing system transmembrane protein LolC/E
+MAG061_2_109	f0a0e0da09f1dc3ec7adfd36d0545355	404	Pfam	PF12704	MacB-like periplasmic core domain	13	233	3.0E-12	T	21-03-2019	IPR025857	MacB-like periplasmic core domain
+MAG061_3_24	2e56d0a1fb7b15146651fe41f0ea8d7c	955	TIGRFAM	TIGR00630	uvra: excinuclease ABC subunit A	2	924	0.0	T	21-03-2019	IPR004602	UvrABC system subunit A
+MAG061_1_68	fdc4f101bd15478a03f79ab2bab7bfe1	83	Pfam	PF04026	SpoVG	1	77	5.3E-12	T	21-03-2019	IPR007170	Stage V sporulation protein G
+MAG061_5_30	9acfc4f7f0ef50a011fc06dcb233d6ec	232	Pfam	PF00902	Sec-independent protein translocase protein (TatC)	5	217	3.4E-57	T	21-03-2019	IPR002033	Sec-independent periplasmic protein translocase TatC
+MAG061_5_30	9acfc4f7f0ef50a011fc06dcb233d6ec	232	TIGRFAM	TIGR00945	tatC: twin arginine-targeting protein translocase TatC	3	222	1.4E-55	T	21-03-2019	IPR002033	Sec-independent periplasmic protein translocase TatC
+MAG061_3_110	3585a705c4eaf023244e297be8e15c3e	288	Pfam	PF08843	Nucleotidyl transferase AbiEii toxin, Type IV TA system	5	271	1.9E-22	T	21-03-2019	IPR014942	Nucleotidyl transferase AbiEii toxin, Type IV TA system
+MAG061_1_11	e97f80eb58a7285e2f12e791c9d9730d	391	Pfam	PF00768	D-alanyl-D-alanine carboxypeptidase	16	256	5.5E-52	T	21-03-2019	IPR001967	Peptidase S11, D-alanyl-D-alanine carboxypeptidase A, N-terminal
+MAG061_1_11	e97f80eb58a7285e2f12e791c9d9730d	391	Pfam	PF07943	Penicillin-binding protein 5, C-terminal domain	285	373	2.4E-12	T	21-03-2019	IPR012907	Peptidase S11, D-Ala-D-Ala carboxypeptidase A, C-terminal
+MAG061_1_13	4fa440b58f75178c5077bb980b407be8	253	Pfam	PF01026	TatD related DNase	3	247	1.9E-67	T	21-03-2019	IPR001130	TatD family
+MAG061_1_13	4fa440b58f75178c5077bb980b407be8	253	TIGRFAM	TIGR00010	TIGR00010: hydrolase, TatD family	2	247	8.9E-75	T	21-03-2019	IPR015991	Uncharacterised hydrolase TatD-type
+MAG061_2_52	0de51f46701b7f4f4e78ac8b884ec809	98	Pfam	PF05101	Type IV secretory pathway, VirB3-like protein	4	86	6.2E-7	T	21-03-2019	IPR007792	Type IV secretion system, VirB3 / TrbD / AvhB
+MAG061_4_91	72ff6b68cf26508adf14ffdc3da07742	121	Pfam	PF16320	Ribosomal protein L7/L12 dimerisation domain	4	49	1.3E-17	T	21-03-2019	IPR008932	Ribosomal protein L7/L12, oligomerisation
+MAG061_4_91	72ff6b68cf26508adf14ffdc3da07742	121	Pfam	PF00542	Ribosomal protein L7/L12 C-terminal domain	55	121	3.1E-28	T	21-03-2019	IPR013823	Ribosomal protein L7/L12, C-terminal
+MAG061_4_91	72ff6b68cf26508adf14ffdc3da07742	121	TIGRFAM	TIGR00855	L12: ribosomal protein bL12	1	121	8.2E-43	T	21-03-2019	IPR000206	Ribosomal protein L7/L12
+MAG061_3_80	4984a387ec517c14ddc324acdd632a4a	331	Pfam	PF05491	Holliday junction DNA helicase ruvB C-terminus	255	328	2.6E-34	T	21-03-2019	IPR008823	DNA helicase, Holliday junction RuvB type, C-terminal
+MAG061_3_80	4984a387ec517c14ddc324acdd632a4a	331	Pfam	PF05496	Holliday junction DNA helicase ruvB N-terminus	17	233	5.1E-105	T	21-03-2019	IPR008824	Holliday junction DNA helicase ruvB, N-terminal
+MAG061_3_80	4984a387ec517c14ddc324acdd632a4a	331	TIGRFAM	TIGR00635	ruvB: Holliday junction DNA helicase RuvB	26	328	1.1E-132	T	21-03-2019	IPR004605	DNA helicase, Holliday junction RuvB type
+MAG061_1_56	be7518abea33686669ac5e56deeb0c89	635	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	214	345	1.0E-42	T	21-03-2019	IPR003959	ATPase, AAA-type, core
+MAG061_1_56	be7518abea33686669ac5e56deeb0c89	635	Pfam	PF01434	Peptidase family M41	407	613	2.0E-62	T	21-03-2019	IPR000642	Peptidase M41
+MAG061_1_56	be7518abea33686669ac5e56deeb0c89	635	TIGRFAM	TIGR01241	FtsH_fam: ATP-dependent metallopeptidase HflB	126	614	1.2E-184	T	21-03-2019	IPR005936	Peptidase, FtsH
+MAG061_1_53	25b69021442832193874aad49803fc55	253	TIGRFAM	TIGR00536	hemK_fam: methyltransferase, HemK family	37	250	8.4E-42	T	21-03-2019	IPR004556	Modification methylase HemK
+MAG061_1_53	25b69021442832193874aad49803fc55	253	Pfam	PF05175	Methyltransferase small domain	74	170	5.6E-8	T	21-03-2019	IPR007848	Methyltransferase small domain
+MAG061_1_53	25b69021442832193874aad49803fc55	253	TIGRFAM	TIGR03534	RF_mod_PrmC: protein-(glutamine-N5) methyltransferase, release factor-specific	6	249	8.4E-60	T	21-03-2019	IPR019874	Protein-(glutamine-N5) methyltransferase, release factor-specific
+MAG061_7_13	ced13260a5dc7dfcc0c9d8fc68751598	283	Pfam	PF00318	Ribosomal protein S2	11	226	3.3E-85	T	21-03-2019	IPR001865	Ribosomal protein S2
+MAG061_7_13	ced13260a5dc7dfcc0c9d8fc68751598	283	TIGRFAM	TIGR01011	rpsB_bact: ribosomal protein uS2	6	227	1.5E-90	T	21-03-2019	IPR005706	Ribosomal protein S2, bacteria/mitochondria/plastid
+MAG061_5_12	563d3773740c5c150e6a64ab0e521d62	248	TIGRFAM	TIGR01065	hlyIII: channel protein, hemolysin III family	44	242	4.6E-53	T	21-03-2019	IPR005744	Hly-III
+MAG061_5_12	563d3773740c5c150e6a64ab0e521d62	248	Pfam	PF03006	Haemolysin-III related	42	236	2.7E-35	T	21-03-2019	IPR004254	AdipoR/Haemolysin-III-related
+MAG061_3_51	4e6e63a17287be26bd7c33cfdfc19473	336	TIGRFAM	TIGR01181	dTDP_gluc_dehyt: dTDP-glucose 4,6-dehydratase	5	335	1.7E-140	T	21-03-2019	IPR005888	dTDP-glucose 4,6-dehydratase
+MAG061_3_51	4e6e63a17287be26bd7c33cfdfc19473	336	Pfam	PF16363	GDP-mannose 4,6 dehydratase	6	328	2.4E-93	T	21-03-2019	IPR016040	NAD(P)-binding domain
+MAG061_3_76	2a78c1a9f2300a36fa42a4d9ada1cbf9	426	Pfam	PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	321	425	1.5E-16	T	21-03-2019	IPR003594	Histidine kinase/HSP90-like ATPase
+MAG061_5_4	ecf525a2b806c0441255bb1e611dc622	642	Pfam	PF02130	Uncharacterized protein family UPF0054	19	133	4.6E-35	T	21-03-2019	IPR002036	Endoribonuclease YbeY
+MAG061_5_4	ecf525a2b806c0441255bb1e611dc622	642	Pfam	PF00795	Carbon-nitrogen hydrolase	445	607	5.3E-18	T	21-03-2019	IPR003010	Carbon-nitrogen hydrolase
+MAG061_5_4	ecf525a2b806c0441255bb1e611dc622	642	TIGRFAM	TIGR00546	lnt: apolipoprotein N-acyltransferase	207	591	4.3E-62	T	21-03-2019	IPR004563	Apolipoprotein N-acyltransferase
+MAG061_5_4	ecf525a2b806c0441255bb1e611dc622	642	TIGRFAM	TIGR00043	TIGR00043: rRNA maturation RNase YbeY	34	134	4.6E-32	T	21-03-2019	IPR002036	Endoribonuclease YbeY
+MAG061_1_6	64e7966fd7e5f9fe320c368ef815335a	242	Pfam	PF00005	ABC transporter	21	163	3.0E-31	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_1_127	c568cd0c8698307eb6a214cce34c582c	186	TIGRFAM	TIGR00496	frr: ribosome recycling factor	12	186	3.0E-59	T	21-03-2019	IPR002661	Ribosome recycling factor
+MAG061_1_127	c568cd0c8698307eb6a214cce34c582c	186	Pfam	PF01765	Ribosome recycling factor	21	184	7.1E-56	T	21-03-2019	IPR023584	Ribosome recycling factor domain
+MAG061_3_119	f4b54207936f897209adad0e49e8a485	867	Pfam	PF13361	UvrD-like helicase C-terminal domain	462	833	6.2E-20	T	21-03-2019	IPR014017	UvrD-like DNA helicase, C-terminal
+MAG061_3_119	f4b54207936f897209adad0e49e8a485	867	Pfam	PF00580	UvrD/REP helicase N-terminal domain	7	445	1.0E-51	T	21-03-2019	IPR034739	UvrD/AddA helicase, N-terminal
+MAG061_12_4	d97dcb04d913bf23a53d905d3b764a8d	173	Pfam	PF01195	Peptidyl-tRNA hydrolase	8	169	1.2E-51	T	21-03-2019	IPR001328	Peptidyl-tRNA hydrolase
+MAG061_12_4	d97dcb04d913bf23a53d905d3b764a8d	173	TIGRFAM	TIGR00447	pth: aminoacyl-tRNA hydrolase	8	168	1.2E-49	T	21-03-2019	IPR001328	Peptidyl-tRNA hydrolase
+MAG061_2_84	0737d643d1b40468fa6e420e48776f55	162	Pfam	PF02556	Preprotein translocase subunit SecB	15	155	2.4E-35	T	21-03-2019	IPR003708	Bacterial protein export chaperone SecB
+MAG061_8_29	1c78f57a7c0c5a06858076c4a7fac46c	318	Pfam	PF04991	LicD family	78	285	3.0E-24	T	21-03-2019	IPR007074	LicD family
+MAG061_2_114	e3fa7108032f667a93e4ea0bdd0cfff8	527	Pfam	PF04348	LppC putative lipoprotein	54	369	1.1E-13	T	21-03-2019	IPR007443	Penicillin-binding protein activator LpoA
+MAG061_8_22	1bd50c1ff0c998b61cc2a7638b12fdbe	244	Pfam	PF13505	Outer membrane protein beta-barrel domain	45	244	1.7E-7	T	21-03-2019	IPR027385	Outer membrane protein beta-barrel
+MAG061_2_86	b43987e538d2f384f9141e0b43ce0cf0	109	Pfam	PF05258	Protein of unknown function (DUF721)	32	107	1.1E-15	T	21-03-2019	IPR007922	Protein of unknown function DUF721/UPF0232
+MAG061_2_110	ae9534091f71c447933058323dc76ef6	236	Pfam	PF00005	ABC transporter	42	185	2.5E-27	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_4_42	dfc1cb29ceefd2d9e05ad964f1126c75	453	Pfam	PF03129	Anticodon binding domain	357	449	4.3E-20	T	21-03-2019	IPR004154	Anticodon-binding
+MAG061_4_42	dfc1cb29ceefd2d9e05ad964f1126c75	453	Pfam	PF00587	tRNA synthetase class II core domain (G, H, P, S and T)	140	330	1.2E-14	T	21-03-2019	IPR002314	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+MAG061_4_112	e84fcbee6febaab9c168e60ab35a39f6	259	Pfam	PF01416	tRNA pseudouridine synthase	144	243	9.4E-28	T	21-03-2019	IPR020097	Pseudouridine synthase I, TruA, alpha/beta domain
+MAG061_4_112	e84fcbee6febaab9c168e60ab35a39f6	259	TIGRFAM	TIGR00071	hisT_truA: tRNA pseudouridine(38-40) synthase	5	237	5.7E-50	T	21-03-2019	IPR001406	Pseudouridine synthase I, TruA
+MAG061_2_139	aa22a632960b812d7ed88dfb4c04bdfd	517	TIGRFAM	TIGR00916	2A0604s01: protein-export membrane protein, SecD/SecF family	265	494	2.9E-74	T	21-03-2019	IPR022645	Protein-export membrane protein SecD/SecF, bacterial
+MAG061_2_139	aa22a632960b812d7ed88dfb4c04bdfd	517	Pfam	PF02355	Protein export membrane protein	336	505	2.8E-14	T	21-03-2019	IPR022813	Protein-export membrane protein SecD/SecF, archaeal and bacterial
+MAG061_2_139	aa22a632960b812d7ed88dfb4c04bdfd	517	TIGRFAM	TIGR01129	secD: protein-export membrane protein SecD	39	502	6.9E-137	T	21-03-2019	IPR005791	Protein translocase subunit SecD
+MAG061_2_139	aa22a632960b812d7ed88dfb4c04bdfd	517	Pfam	PF07549	SecD/SecF GG Motif	34	56	5.0E-5	T	21-03-2019	IPR022646	Protein-export membrane protein SecD/SecF/SecDF, conserved site
+MAG061_3_16	683940e1bb56361bd4c6b13f6bb8580f	312	Pfam	PF01636	Phosphotransferase enzyme family	39	218	1.3E-5	T	21-03-2019	IPR002575	Aminoglycoside phosphotransferase
+MAG061_4_80	7e82f6b64b065190f8861758e5c20329	352	Pfam	PF13406	Transglycosylase SLT domain	36	349	2.0E-87	T	21-03-2019	IPR031304	Transglycosylase SLT domain 2
+MAG061_4_80	7e82f6b64b065190f8861758e5c20329	352	TIGRFAM	TIGR02283	MltB_2: lytic murein transglycosylase	34	351	1.3E-79	T	21-03-2019	IPR011970	Lytic murein transglycosylase
+MAG061_8_5	53c2c064a89c9590d40348f86258952a	335	Pfam	PF02618	YceG-like family	42	323	6.8E-74	T	21-03-2019	IPR003770	Endolytic murein transglycosylase
+MAG061_8_5	53c2c064a89c9590d40348f86258952a	335	TIGRFAM	TIGR00247	TIGR00247: conserved hypothetical protein, YceG family	36	327	6.6E-55	T	21-03-2019	IPR003770	Endolytic murein transglycosylase
+MAG061_2_137	98539ad54880999d75ce7c4561877e17	601	Pfam	PF08676	MutL C terminal dimerisation domain	416	558	1.1E-32	T	21-03-2019	IPR014790	MutL, C-terminal, dimerisation
+MAG061_2_137	98539ad54880999d75ce7c4561877e17	601	Pfam	PF01119	DNA mismatch repair protein, C-terminal domain	200	320	6.6E-33	T	21-03-2019	IPR013507	DNA mismatch repair protein,  S5 domain 2-like
+MAG061_2_137	98539ad54880999d75ce7c4561877e17	601	Pfam	PF13589	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	24	124	6.3E-11	T	21-03-2019
+MAG061_2_137	98539ad54880999d75ce7c4561877e17	601	TIGRFAM	TIGR00585	mutl: DNA mismatch repair protein MutL	1	301	7.0E-82	T	21-03-2019	IPR002099	DNA mismatch repair protein family, N-terminal
+MAG061_6_7	d22944e3e0b4da0f46e0472ac4e90c87	448	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	2	156	1.7E-20	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_6_7	d22944e3e0b4da0f46e0472ac4e90c87	448	TIGRFAM	TIGR00231	small_GTP: small GTP-binding protein domain	179	350	5.2E-22	T	21-03-2019	IPR005225	Small GTP-binding protein domain
+MAG061_6_7	d22944e3e0b4da0f46e0472ac4e90c87	448	Pfam	PF14714	KH-domain-like of EngA bacterial GTPase enzymes, C-terminal	361	439	2.8E-15	T	21-03-2019	IPR032859	GTPase Der, C-terminal KH-domain-like
+MAG061_6_7	d22944e3e0b4da0f46e0472ac4e90c87	448	Pfam	PF01926	50S ribosome-binding GTPase	3	117	2.1E-22	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_6_7	d22944e3e0b4da0f46e0472ac4e90c87	448	Pfam	PF01926	50S ribosome-binding GTPase	182	300	2.8E-20	T	21-03-2019	IPR006073	GTP binding domain
+MAG061_6_7	d22944e3e0b4da0f46e0472ac4e90c87	448	TIGRFAM	TIGR03594	GTPase_EngA: ribosome-associated GTPase EngA	3	440	3.0E-128	T	21-03-2019	IPR016484	GTP-binding protein EngA
+MAG061_1_48	b073e4261ced0dfdbc62fd6793377e45	155	Pfam	PF04993	TfoX N-terminal domain	55	105	1.6E-6	T	21-03-2019	IPR007076	TfoX, N-terminal
+MAG061_3_4	f1423d1958d6d38a8976e759a2590bf3	278	Pfam	PF00491	Arginase family	60	265	3.0E-34	T	21-03-2019	IPR006035	Ureohydrolase
+MAG061_3_136	627ff804ab161aaac21bab33baced653	592	Pfam	PF00664	ABC transporter transmembrane region	35	304	5.9E-37	T	21-03-2019	IPR011527	ABC transporter type 1, transmembrane domain
+MAG061_3_136	627ff804ab161aaac21bab33baced653	592	Pfam	PF00005	ABC transporter	366	515	2.5E-34	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	Pfam	PF01103	Surface antigen	444	762	2.3E-43	T	21-03-2019	IPR000184	Bacterial surface antigen (D15)
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	Pfam	PF07244	Surface antigen variable number repeat	345	417	2.3E-9	T	21-03-2019	IPR010827	POTRA domain, BamA/TamA-like
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	Pfam	PF07244	Surface antigen variable number repeat	172	259	9.4E-14	T	21-03-2019	IPR010827	POTRA domain, BamA/TamA-like
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	Pfam	PF07244	Surface antigen variable number repeat	24	89	1.8E-4	T	21-03-2019	IPR010827	POTRA domain, BamA/TamA-like
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	Pfam	PF07244	Surface antigen variable number repeat	262	339	1.1E-8	T	21-03-2019	IPR010827	POTRA domain, BamA/TamA-like
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	Pfam	PF07244	Surface antigen variable number repeat	92	168	2.6E-12	T	21-03-2019	IPR010827	POTRA domain, BamA/TamA-like
+MAG061_1_123	470031fd20a3c219ea588292c9ac4d96	762	TIGRFAM	TIGR03303	OM_YaeT: outer membrane protein assembly complex, YaeT protein	24	762	5.6E-183	T	21-03-2019	IPR023707	Outer membrane protein assembly factor BamA
+MAG061_4_81	b0e83d8e29bdc573d824b61d6ac9420c	511	Pfam	PF17251	Protochlamydia outer membrane protein	117	511	1.4E-15	T	21-03-2019	IPR035163	Protochlamydia outer membrane protein
+MAG061_6_23	74a48805c3ab183fd4fe31db6fec0798	671	Pfam	PF04453	Organic solvent tolerance protein	240	607	8.0E-36	T	21-03-2019	IPR007543	Organic solvent tolerance protein, C-terminal
+MAG061_2_23	592324c47b9e4dcbd00259fd312a54f2	349	TIGRFAM	TIGR00904	mreB: cell shape determining protein, MreB/Mrl family	9	342	9.5E-145	T	21-03-2019	IPR004753	Cell shape determining protein MreB
+MAG061_2_23	592324c47b9e4dcbd00259fd312a54f2	349	Pfam	PF06723	MreB/Mbl protein	11	342	1.6E-139	T	21-03-2019	IPR004753	Cell shape determining protein MreB
+MAG061_4_139	d89fd011a9e072dc8c6510a1f3eb0fa8	348	Pfam	PF03033	Glycosyltransferase family 28 N-terminal domain	3	139	1.3E-22	T	21-03-2019	IPR004276	Glycosyltransferase family 28, N-terminal domain
+MAG061_4_139	d89fd011a9e072dc8c6510a1f3eb0fa8	348	Pfam	PF04101	Glycosyltransferase family 28 C-terminal domain	183	332	3.6E-34	T	21-03-2019	IPR007235	Glycosyl transferase, family 28, C-terminal
+MAG061_1_87	2c7e3df64aeeb0495966ebe4384050cc	589	Pfam	PF00664	ABC transporter transmembrane region	66	297	3.7E-14	T	21-03-2019	IPR011527	ABC transporter type 1, transmembrane domain
+MAG061_1_87	2c7e3df64aeeb0495966ebe4384050cc	589	Pfam	PF00005	ABC transporter	363	512	2.9E-36	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_4_140	f159ec4acb1aa1998f23cbe534bb65ff	379	Pfam	PF01098	Cell cycle protein	21	376	5.5E-62	T	21-03-2019	IPR001182	Probable peptidoglycan glycosyltransferase FtsW/RodA
+MAG061_10_7	f84dee6d61e99cc9c3aa94d31126e7ba	470	Pfam	PF13145	PPIC-type PPIASE domain	207	338	1.7E-13	T	21-03-2019	IPR000297	Peptidyl-prolyl cis-trans isomerase, PpiC-type
+MAG061_10_7	f84dee6d61e99cc9c3aa94d31126e7ba	470	Pfam	PF13624	SurA N-terminal domain	1	163	3.0E-31	T	21-03-2019
+MAG061_2_79	75a397ae6efe5c253deef3de5feff05e	220	TIGRFAM	TIGR00628	ung: uracil-DNA glycosylase	7	214	6.0E-79	T	21-03-2019	IPR002043	Uracil-DNA glycosylase family 1
+MAG061_2_79	75a397ae6efe5c253deef3de5feff05e	220	Pfam	PF03167	Uracil DNA glycosylase superfamily	56	209	2.6E-20	T	21-03-2019	IPR005122	Uracil-DNA glycosylase-like
+MAG061_7_12	b3f012aa455983a796ff793b5e69ef4e	289	Pfam	PF00889	Elongation factor TS	71	271	2.1E-57	T	21-03-2019	IPR014039	Translation elongation factor EFTs/EF1B, dimerisation
+MAG061_7_12	b3f012aa455983a796ff793b5e69ef4e	289	TIGRFAM	TIGR00116	tsf: translation elongation factor Ts	1	288	2.7E-83	T	21-03-2019	IPR001816	Translation elongation factor EFTs/EF1B
+MAG061_5_51	8dd7597f21351c6e656c89e8f16630ca	86	Pfam	PF01649	Ribosomal protein S20	2	82	2.2E-18	T	21-03-2019	IPR002583	Ribosomal protein S20
+MAG061_4_117	44e224a4ed7a9fb1a7a3e81dfcaf4a71	293	Pfam	PF02646	RmuC family	29	291	1.2E-54	T	21-03-2019	IPR003798	DNA recombination RmuC
+MAG061_3_146	554910b5a1fc42c1472e6dbf4ed133d3	128	Pfam	PF00583	Acetyltransferase (GNAT) family	31	106	4.4E-14	T	21-03-2019	IPR000182	GNAT domain
+MAG061_3_146	554910b5a1fc42c1472e6dbf4ed133d3	128	TIGRFAM	TIGR01575	rimI: ribosomal-protein-alanine acetyltransferase	2	124	1.2E-25	T	21-03-2019	IPR006464	N-acetyltransferase RimI/Ard1
+MAG061_1_4	612bfb24e2af5a6e9cd2ee9756bd1100	188	Pfam	PF03886	ABC-type transport auxiliary lipoprotein component	35	179	2.1E-24	T	21-03-2019	IPR005586	ABC-type transport auxiliary lipoprotein component
+MAG061_1_163	5da379fc9a4e5a3d25f9c5b4f7b7100a	96	Pfam	PF00216	Bacterial DNA-binding protein	5	92	3.3E-25	T	21-03-2019	IPR000119	Histone-like DNA-binding protein
+MAG061_1_57	5522e88b3f616ac5fedd6c441c58763b	315	TIGRFAM	TIGR02432	lysidine_TilS_N: tRNA(Ile)-lysidine synthetase	9	183	6.8E-55	T	21-03-2019	IPR012795	tRNA(Ile)-lysidine synthase, N-terminal
+MAG061_1_57	5522e88b3f616ac5fedd6c441c58763b	315	Pfam	PF01171	PP-loop family	9	182	4.4E-56	T	21-03-2019	IPR011063	tRNA(Ile)-lysidine/2-thiocytidine synthase, N-terminal
+MAG061_8_10	ab30ef7087749d53ec811943ece18775	77	TIGRFAM	TIGR00517	acyl_carrier: acyl carrier protein	2	76	1.4E-33	T	21-03-2019	IPR003231	Acyl carrier protein (ACP)
+MAG061_8_10	ab30ef7087749d53ec811943ece18775	77	Pfam	PF00550	Phosphopantetheine attachment site	5	72	2.4E-15	T	21-03-2019	IPR009081	Phosphopantetheine binding ACP domain
+MAG061_1_84	c8429bbd3afdaaa3cb5e176e499fa327	369	Pfam	PF00534	Glycosyl transferases group 1	183	339	3.2E-13	T	21-03-2019	IPR001296	Glycosyl transferase, family 1
+MAG061_2_148	559bd6cc8f74f08ca4f042d8dc5f53d5	693	Pfam	PF00580	UvrD/REP helicase N-terminal domain	5	259	3.0E-65	T	21-03-2019	IPR034739	UvrD/AddA helicase, N-terminal
+MAG061_2_148	559bd6cc8f74f08ca4f042d8dc5f53d5	693	Pfam	PF13361	UvrD-like helicase C-terminal domain	265	587	2.0E-59	T	21-03-2019	IPR014017	UvrD-like DNA helicase, C-terminal
+MAG061_3_131	023611b4fea38c901aa124aa4b68cb72	377	Pfam	PF01520	N-acetylmuramoyl-L-alanine amidase	157	371	2.2E-44	T	21-03-2019	IPR002508	N-acetylmuramoyl-L-alanine amidase, catalytic domain
+MAG061_2_8	8283c3aee8b670f425f056bafe858ecc	257	Pfam	PF13614	AAA domain	2	178	3.7E-61	T	21-03-2019	IPR025669	AAA domain
+MAG061_4_70	fe5b93b782ae7d30fbe18c3f3e459d21	254	Pfam	PF02674	Colicin V production protein	7	151	4.5E-22	T	21-03-2019	IPR003825	Colicin V production, CvpA
+MAG061_2_3	5830148a347aef979c864c38f1a5c804	99	Pfam	PF02609	Exonuclease VII small subunit	41	91	4.3E-17	T	21-03-2019	IPR003761	Exonuclease VII, small subunit
+MAG061_2_3	5830148a347aef979c864c38f1a5c804	99	TIGRFAM	TIGR01280	xseB: exodeoxyribonuclease VII, small subunit	40	93	1.0E-19	T	21-03-2019	IPR003761	Exonuclease VII, small subunit
+MAG061_8_2	e76cbc64057021ae1d35f7919fef1504	157	Pfam	PF00177	Ribosomal protein S7p/S5e	1	150	4.2E-57	T	21-03-2019	IPR023798	Ribosomal protein S7 domain
+MAG061_8_2	e76cbc64057021ae1d35f7919fef1504	157	TIGRFAM	TIGR01029	rpsG_bact: ribosomal protein uS7	3	157	9.5E-62	T	21-03-2019	IPR005717	Ribosomal protein S7, bacterial/organellar-type
+MAG061_4_88	3d8b343269b5d9d6d93fdae227c0b362	49	TIGRFAM	TIGR01031	rpmF_bact: ribosomal protein bL32	2	47	1.5E-17	T	21-03-2019	IPR002677	Ribosomal protein L32p
+MAG061_4_88	3d8b343269b5d9d6d93fdae227c0b362	49	Pfam	PF01783	Ribosomal L32p protein family	2	47	2.4E-17	T	21-03-2019	IPR002677	Ribosomal protein L32p
+MAG061_3_11	647426d8c89867225b96b768fbbe8896	248	Pfam	PF00005	ABC transporter	27	171	2.1E-27	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_3_28	40f6beb38d9d11de73d7122c526f54ae	142	Pfam	PF00075	RNase H	3	138	4.8E-46	T	21-03-2019	IPR002156	Ribonuclease H domain
+MAG061_1_91	d8b682e03b990463e78a03c3e092c152	612	Pfam	PF01420	Type I restriction modification DNA specificity domain	431	575	1.3E-7	T	21-03-2019	IPR000055	Restriction endonuclease, type I, HsdS
+MAG061_1_91	d8b682e03b990463e78a03c3e092c152	612	Pfam	PF02384	N-6 DNA Methylase	122	409	1.2E-39	T	21-03-2019	IPR003356	DNA methylase, adenine-specific
+MAG061_2_125	f5d57bbe6cb0353c8b292e9349c89d65	414	Pfam	PF04577	Protein of unknown function (DUF563)	112	316	6.5E-26	T	21-03-2019	IPR007657	Glycosyltransferase 61
+MAG061_9_6	24f9f853337d8a03e13f685a695ce01f	84	Pfam	PF01176	Translation initiation factor 1A / IF-1	9	69	2.4E-23	T	21-03-2019	IPR006196	RNA-binding domain, S1, IF1 type
+MAG061_9_6	24f9f853337d8a03e13f685a695ce01f	84	TIGRFAM	TIGR00008	infA: translation initiation factor IF-1	3	69	5.0E-26	T	21-03-2019	IPR004368	Translation initiation factor IF-1
+MAG061_5_21	b11bc9eb52e6fc9f3ec67ede3b8c028f	383	Pfam	PF00266	Aminotransferase class-V	5	373	2.4E-72	T	21-03-2019	IPR000192	Aminotransferase class V domain
+MAG061_4_96	36b57128cdbd22908f24029e6b3dcfa3	177	TIGRFAM	TIGR00922	nusG: transcription termination/antitermination factor NusG	7	177	1.8E-52	T	21-03-2019	IPR001062	Transcription antitermination protein, NusG
+MAG061_4_96	36b57128cdbd22908f24029e6b3dcfa3	177	Pfam	PF02357	Transcription termination factor nusG	5	108	8.4E-21	T	21-03-2019	IPR006645	NusG, N-terminal
+MAG061_9_1	e924048cdc863b842348bff6dafa8dc9	331	Pfam	PF00691	OmpA family	191	266	4.6E-5	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_4_50	1956360269fb4708e310d3d4ec6799b1	525	Pfam	PF02810	SEC-C motif	497	513	1.5E-7	T	21-03-2019	IPR004027	SEC-C motif
+MAG061_2_67	7bc5947fa545998546743dd848b360b9	268	Pfam	PF04028	Domain of unknown function (DUF374)	78	143	3.0E-18	T	21-03-2019	IPR007172	Domain of unknown function DUF374
+MAG061_5_54	0cd0a01198fc7f73752edd2d9f951225	337	Pfam	PF02481	DNA recombination-mediator protein A	57	263	2.5E-61	T	21-03-2019	IPR003488	DNA recombination-mediator protein A
+MAG061_4_37	45fc73a2523f821efe2a2bf11f3e9b7e	528	Pfam	PF00501	AMP-binding enzyme	12	422	1.7E-75	T	21-03-2019	IPR000873	AMP-dependent synthetase/ligase
+MAG061_3_147	a25755e9cda07fa5d41d16c8dcb9792d	245	Pfam	PF04002	RadC-like JAB domain	107	222	1.8E-27	T	21-03-2019	IPR025657	RadC-like JAB domain
+MAG061_3_147	a25755e9cda07fa5d41d16c8dcb9792d	245	TIGRFAM	TIGR00608	radc: DNA repair protein RadC	14	224	4.8E-40	T	21-03-2019	IPR001405	Uncharacterised protein family UPF0758
+MAG061_3_30	d43e1327895325000aba5041d0ea37d5	234	Pfam	PF01863	Protein of unknown function DUF45	34	223	3.6E-36	T	21-03-2019	IPR002725	Protein of unknown function DUF45
+MAG061_1_9	7515c46042f70479018f06a299eb2bba	126	TIGRFAM	TIGR00690	rpoZ: DNA-directed RNA polymerase, omega subunit	1	58	2.3E-10	T	21-03-2019	IPR003716	DNA-directed RNA polymerase, omega subunit
+MAG061_1_9	7515c46042f70479018f06a299eb2bba	126	Pfam	PF01192	RNA polymerase Rpb6	11	58	1.3E-8	T	21-03-2019	IPR006110	RNA polymerase, subunit omega/K/RPB6
+MAG061_2_9	de07fbc2c23c884a0121c7fd9b9cb49c	292	Pfam	PF02195	ParB-like nuclease domain	37	127	1.7E-25	T	21-03-2019	IPR003115	ParB/Sulfiredoxin
+MAG061_2_9	de07fbc2c23c884a0121c7fd9b9cb49c	292	TIGRFAM	TIGR00180	parB_part: ParB/RepB/Spo0J family partition protein	35	210	8.1E-52	T	21-03-2019	IPR004437	ParB/RepB/Spo0J partition protein family
+MAG061_2_129	2bb292cf5e63ca2087498a2179c0651b	425	Pfam	PF00587	tRNA synthetase class II core domain (G, H, P, S and T)	224	398	2.0E-28	T	21-03-2019	IPR002314	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+MAG061_2_129	2bb292cf5e63ca2087498a2179c0651b	425	TIGRFAM	TIGR00414	serS: serine--tRNA ligase	1	415	3.2E-120	T	21-03-2019	IPR002317	Serine-tRNA ligase, type1
+MAG061_2_129	2bb292cf5e63ca2087498a2179c0651b	425	Pfam	PF02403	Seryl-tRNA synthetase N-terminal domain	1	103	1.2E-20	T	21-03-2019	IPR015866	Serine-tRNA synthetase, type1, N-terminal
+MAG061_3_88	deadde390ba0f7b5ef62c5c7267af806	871	Pfam	PF02810	SEC-C motif	851	869	1.8E-9	T	21-03-2019	IPR004027	SEC-C motif
+MAG061_3_88	deadde390ba0f7b5ef62c5c7267af806	871	Pfam	PF07517	SecA DEAD-like domain	6	388	1.4E-126	T	21-03-2019	IPR011115	SecA DEAD-like, N-terminal
+MAG061_3_88	deadde390ba0f7b5ef62c5c7267af806	871	Pfam	PF07516	SecA Wing and Scaffold domain	607	819	6.0E-56	T	21-03-2019	IPR011116	SecA Wing/Scaffold
+MAG061_3_88	deadde390ba0f7b5ef62c5c7267af806	871	Pfam	PF01043	SecA preprotein cross-linking domain	231	344	1.5E-34	T	21-03-2019	IPR011130	SecA, preprotein cross-linking domain
+MAG061_3_88	deadde390ba0f7b5ef62c5c7267af806	871	TIGRFAM	TIGR00963	secA: preprotein translocase, SecA subunit	27	806	0.0	T	21-03-2019	IPR000185	Protein translocase subunit SecA
+MAG061_4_79	2b635e383279166d78a75f440e699968	321	Pfam	PF13444	Acetyltransferase (GNAT) domain	25	125	2.7E-27	T	21-03-2019
+MAG061_11_2	8318109d0a45a60da933d82208457716	207	Pfam	PF03477	ATP cone domain	91	178	8.1E-14	T	21-03-2019	IPR005144	ATP-cone domain
+MAG061_11_2	8318109d0a45a60da933d82208457716	207	TIGRFAM	TIGR00244	TIGR00244: transcriptional regulator NrdR	42	188	2.9E-40	T	21-03-2019	IPR003796	Ribonucleotide reductase regulator NrdR-like
+MAG061_5_20	3e379450d9ca598f99944ef4fd8985ac	106	TIGRFAM	TIGR01068	thioredoxin: thioredoxin	7	102	3.7E-31	T	21-03-2019	IPR005746	Thioredoxin
+MAG061_5_20	3e379450d9ca598f99944ef4fd8985ac	106	Pfam	PF00085	Thioredoxin	4	101	1.6E-24	T	21-03-2019	IPR013766	Thioredoxin domain
+MAG061_1_108	378bbff431ab8fceca8ef480e1c3c451	592	Pfam	PF04765	Protein of unknown function (DUF616)	103	220	7.0E-9	T	21-03-2019	IPR006852	Protein of unknown function DUF616
+MAG061_4_143	bbe39864828571d88219dc243f044aed	687	Pfam	PF00905	Penicillin binding protein transpeptidase domain	325	612	5.0E-26	T	21-03-2019	IPR001460	Penicillin-binding protein, transpeptidase
+MAG061_4_143	bbe39864828571d88219dc243f044aed	687	Pfam	PF00912	Transglycosylase	59	230	1.7E-57	T	21-03-2019	IPR001264	Glycosyl transferase, family 51
+MAG061_4_143	bbe39864828571d88219dc243f044aed	687	TIGRFAM	TIGR02074	PBP_1a_fam: penicillin-binding protein, 1A family	68	616	6.6E-176	T	21-03-2019
+MAG061_2_68	b58e12bc6be1277c590947e78efce317	304	TIGRFAM	TIGR00682	lpxK: tetraacyldisaccharide 4'-kinase	19	281	1.4E-44	T	21-03-2019	IPR003758	Tetraacyldisaccharide 4'-kinase
+MAG061_2_68	b58e12bc6be1277c590947e78efce317	304	Pfam	PF02606	Tetraacyldisaccharide-1-P 4'-kinase	14	300	2.4E-63	T	21-03-2019	IPR003758	Tetraacyldisaccharide 4'-kinase
+MAG061_2_5	28a98ca6f6f3ec2131c75de5c586a5c9	538	Pfam	PF13181	Tetratricopeptide repeat	495	520	0.0099	T	21-03-2019	IPR019734	Tetratricopeptide repeat
+MAG061_3_129	0322aac97b28b2cba952eefd5ec2ac79	114	Pfam	PF01035	6-O-methylguanine DNA methyltransferase, DNA binding domain	4	81	7.6E-22	T	21-03-2019	IPR014048	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding
+MAG061_2_30	dec45c21875310a46a1589af451c61f3	242	TIGRFAM	TIGR01830	3oxo_ACP_reduc: 3-oxoacyl-[acyl-carrier-protein] reductase	9	239	5.6E-93	T	21-03-2019	IPR011284	3-oxoacyl-(acyl-carrier-protein) reductase
+MAG061_2_30	dec45c21875310a46a1589af451c61f3	242	Pfam	PF13561	Enoyl-(Acyl carrier protein) reductase	13	239	1.7E-64	T	21-03-2019
+MAG061_6_33	fb1d986ee05b3118645ea9e39afcd116	150	Pfam	PF07977	FabA-like domain	11	134	2.9E-25	T	21-03-2019	IPR013114	Beta-hydroxydecanoyl thiol ester dehydrase, FabA/FabZ
+MAG061_1_164	ab9de6f6994b5993b02ff691e73795bd	312	Pfam	PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal	223	312	3.1E-30	T	21-03-2019	IPR013747	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III, C-terminal
+MAG061_1_164	ab9de6f6994b5993b02ff691e73795bd	312	TIGRFAM	TIGR00747	fabH: 3-oxoacyl-[acyl-carrier-protein] synthase III	2	311	8.0E-108	T	21-03-2019	IPR004655	3-oxoacyl-[acyl-carrier-protein] synthase 3
+MAG061_1_164	ab9de6f6994b5993b02ff691e73795bd	312	Pfam	PF08545	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III	107	186	1.3E-24	T	21-03-2019	IPR013751	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+MAG061_8_16	362b10b283130e8cbcf5b1ed3dccd661	190	Pfam	PF09335	SNARE associated Golgi protein	52	148	7.2E-10	T	21-03-2019	IPR032816	SNARE associated Golgi protein
+MAG061_2_18	43ccca7b89075de7b64c705b8fbdb5cd	116	Pfam	PF02575	YbaB/EbfC DNA-binding family	24	112	8.0E-17	T	21-03-2019	IPR004401	Nucleoid-associated protein YbaB/EbfC family
+MAG061_2_36	768257dda7bb2f711890d86cdad8805c	219	Pfam	PF00633	Helix-hairpin-helix motif	113	133	8.3E-6	T	21-03-2019	IPR000445	Helix-hairpin-helix motif
+MAG061_2_36	768257dda7bb2f711890d86cdad8805c	219	Pfam	PF00730	HhH-GPD superfamily base excision DNA repair protein	32	175	4.2E-17	T	21-03-2019	IPR003265	HhH-GPD domain
+MAG061_4_150	926530ccf59d5290899d91489f3996b1	169	Pfam	PF01988	VIT family	18	75	1.0E-8	T	21-03-2019	IPR008217	Ccc1 family
+MAG061_10_8	26a94a32290ec9a24fd6bce0c4b1be28	234	Pfam	PF00121	Triosephosphate isomerase	2	230	1.8E-72	T	21-03-2019	IPR000652	Triosephosphate isomerase
+MAG061_10_8	26a94a32290ec9a24fd6bce0c4b1be28	234	TIGRFAM	TIGR00419	tim: triose-phosphate isomerase	3	224	1.1E-47	T	21-03-2019	IPR000652	Triosephosphate isomerase
+MAG061_3_35	c92140c852ba58aef603e48339423fb3	239	Pfam	PF01479	S4 domain	3	48	2.4E-10	T	21-03-2019	IPR002942	RNA-binding S4 domain
+MAG061_3_35	c92140c852ba58aef603e48339423fb3	239	Pfam	PF01728	FtsJ-like methyltransferase	61	212	1.3E-16	T	21-03-2019	IPR002877	Ribosomal RNA methyltransferase FtsJ domain
+MAG061_1_93	89c8126c058fde6a2fe277eb5f559f5b	269	Pfam	PF13561	Enoyl-(Acyl carrier protein) reductase	12	250	1.2E-82	T	21-03-2019
+MAG061_3_73	80eefd2c101f82f4a5319cd83a7ba550	157	Pfam	PF00572	Ribosomal protein L13	15	141	1.7E-47	T	21-03-2019	IPR005822	Ribosomal protein L13
+MAG061_3_73	80eefd2c101f82f4a5319cd83a7ba550	157	TIGRFAM	TIGR01066	rplM_bact: ribosomal protein uL13	10	145	1.3E-49	T	21-03-2019	IPR005823	Ribosomal protein L13, bacterial-type
+MAG061_7_25	dc7349ebc30fdd65362c6c20ff22a909	186	Pfam	PF02559	CarD-like/TRCF domain	8	116	2.7E-15	T	21-03-2019	IPR003711	CarD-like/TRCF domain
+MAG061_6_2	f7138ad213eca3c03f5562927d4e38ab	242	Pfam	PF13360	PQQ-like domain	52	210	1.7E-12	T	21-03-2019	IPR002372	Pyrrolo-quinoline quinone repeat
+MAG061_4_104	e35a79d8dbd38fae5e3b7ad1bcf24fb3	567	Pfam	PF02254	TrkA-N domain	405	519	1.5E-19	T	21-03-2019	IPR003148	Regulator of K+ conductance, N-terminal
+MAG061_4_104	e35a79d8dbd38fae5e3b7ad1bcf24fb3	567	Pfam	PF00999	Sodium/hydrogen exchanger family	5	372	2.3E-47	T	21-03-2019	IPR006153	Cation/H+ exchanger
+MAG061_1_125	9f0bc25c01daceda9b232c2e1c3bc3ce	215	Pfam	PF01148	Cytidylyltransferase family	13	214	5.2E-45	T	21-03-2019
+MAG061_4_121	bfc6d44ce253af84fb42a5af1ac6da85	1012	Pfam	PF00873	AcrB/AcrD/AcrF family	1	994	2.2E-179	T	21-03-2019	IPR001036	Acriflavin resistance protein
+MAG061_2_13	081c0bd267932f8a7a6267cf6ebaa3c6	405	Pfam	PF12704	MacB-like periplasmic core domain	21	243	1.3E-34	T	21-03-2019	IPR025857	MacB-like periplasmic core domain
+MAG061_2_13	081c0bd267932f8a7a6267cf6ebaa3c6	405	Pfam	PF02687	FtsX-like permease family	310	398	1.2E-13	T	21-03-2019	IPR003838	ABC transporter permease protein domain
+MAG061_2_105	37eac919dc14446b7824552876c6af8f	197	Pfam	PF03799	Cell division protein FtsQ	80	189	1.3E-7	T	21-03-2019	IPR005548	Cell division protein FtsQ/DivIB
+MAG061_2_133	71dfc16bed789090b19b19e127be60e3	289	Pfam	PF00589	Phage integrase family	102	266	3.6E-38	T	21-03-2019	IPR002104	Integrase, catalytic domain
+MAG061_2_133	71dfc16bed789090b19b19e127be60e3	289	Pfam	PF02899	Phage integrase, N-terminal SAM-like domain	4	80	2.0E-12	T	21-03-2019	IPR004107	Integrase, SAM-like, N-terminal
+MAG061_1_170	a811ac6da1d9f758c40d1f14469e9b5b	123	TIGRFAM	TIGR00009	L28: ribosomal protein bL28	1	58	1.6E-21	T	21-03-2019	IPR001383	Ribosomal protein L28
+MAG061_1_170	a811ac6da1d9f758c40d1f14469e9b5b	123	Pfam	PF00830	Ribosomal L28 family	3	61	3.3E-22	T	21-03-2019	IPR026569	Ribosomal protein L28/L24
+MAG061_3_45	59dbff79df5d1ed83023ba599403a1b3	383	TIGRFAM	TIGR00215	lpxB: lipid-A-disaccharide synthase	4	341	6.4E-61	T	21-03-2019	IPR003835	Glycosyl transferase, family 19
+MAG061_3_45	59dbff79df5d1ed83023ba599403a1b3	383	Pfam	PF02684	Lipid-A-disaccharide synthetase	7	332	5.0E-80	T	21-03-2019	IPR003835	Glycosyl transferase, family 19
+MAG061_3_1	732fc8ddd9ae8e06fa956b03d13d500f	358	TIGRFAM	TIGR00767	rho: transcription termination factor Rho	1	358	8.6E-184	T	21-03-2019	IPR004665	Transcription termination factor Rho
+MAG061_3_1	732fc8ddd9ae8e06fa956b03d13d500f	358	Pfam	PF07497	Rho termination factor, RNA-binding domain	1	63	6.4E-19	T	21-03-2019	IPR011113	Rho termination factor, RNA-binding domain
+MAG061_3_1	732fc8ddd9ae8e06fa956b03d13d500f	358	Pfam	PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	99	303	7.3E-24	T	21-03-2019	IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+MAG061_4_125	fd981bdd9e78788611c3ea631fce7875	76	Pfam	PF00535	Glycosyl transferase family 2	9	75	7.7E-9	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_2_16	6fc4ed8fb0c4e4275381859dd2488b6b	459	Pfam	PF02321	Outer membrane efflux protein	50	227	1.1E-22	T	21-03-2019	IPR003423	Outer membrane efflux protein
+MAG061_2_16	6fc4ed8fb0c4e4275381859dd2488b6b	459	Pfam	PF02321	Outer membrane efflux protein	258	444	8.8E-34	T	21-03-2019	IPR003423	Outer membrane efflux protein
+MAG061_3_109	f9f483fef21650392bacccb969d6dcd4	174	Pfam	PF00149	Calcineurin-like phosphoesterase	5	132	3.3E-4	T	21-03-2019	IPR004843	Calcineurin-like phosphoesterase domain, ApaH type
+MAG061_4_15	2642f2d0bf6b7386556cbd82abb7c95d	240	Pfam	PF01636	Phosphotransferase enzyme family	172	216	1.7E-5	T	21-03-2019	IPR002575	Aminoglycoside phosphotransferase
+MAG061_13_7	11845f38f93c4689b6b272cd1bbd885e	439	Pfam	PF00344	SecY translocase	71	412	2.1E-92	T	21-03-2019	IPR002208	SecY/SEC61-alpha family
+MAG061_13_7	11845f38f93c4689b6b272cd1bbd885e	439	TIGRFAM	TIGR00967	3a0501s007: preprotein translocase, SecY subunit	16	424	3.5E-107	T	21-03-2019	IPR002208	SecY/SEC61-alpha family
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF00521	DNA gyrase/topoisomerase IV, subunit A	37	497	2.1E-142	T	21-03-2019	IPR002205	DNA topoisomerase, type IIA, subunit A/C-terminal
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	TIGRFAM	TIGR01063	gyrA: DNA gyrase, A subunit	16	889	0.0	T	21-03-2019
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF03989	DNA gyrase C-terminal domain, beta-propeller	847	891	9.7E-13	T	21-03-2019	IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF03989	DNA gyrase C-terminal domain, beta-propeller	796	829	1.0E-6	T	21-03-2019	IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF03989	DNA gyrase C-terminal domain, beta-propeller	646	690	5.7E-8	T	21-03-2019	IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF03989	DNA gyrase C-terminal domain, beta-propeller	694	741	5.3E-11	T	21-03-2019	IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF03989	DNA gyrase C-terminal domain, beta-propeller	583	631	4.5E-6	T	21-03-2019	IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+MAG061_4_131	03b1e8e98c324fea559ce6e927f6e986	908	Pfam	PF03989	DNA gyrase C-terminal domain, beta-propeller	531	578	1.5E-13	T	21-03-2019	IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+MAG061_3_44	438056656975d972b675c247a00dcbce	266	Pfam	PF13720	Udp N-acetylglucosamine O-acyltransferase; Domain 2	176	259	2.5E-19	T	21-03-2019	IPR029098	UDP N-acetylglucosamine O-acyltransferase, C-terminal
+MAG061_3_44	438056656975d972b675c247a00dcbce	266	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	104	133	1.2E-7	T	21-03-2019	IPR001451	Hexapeptide repeat
+MAG061_3_44	438056656975d972b675c247a00dcbce	266	Pfam	PF00132	Bacterial transferase hexapeptide (six repeats)	3	34	6.0E-9	T	21-03-2019	IPR001451	Hexapeptide repeat
+MAG061_3_44	438056656975d972b675c247a00dcbce	266	TIGRFAM	TIGR01852	lipid_A_lpxA: acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase	3	259	1.6E-88	T	21-03-2019	IPR010137	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	Pfam	PF04563	RNA polymerase beta subunit	23	520	7.7E-31	T	21-03-2019	IPR007644	RNA polymerase, beta subunit, protrusion
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	Pfam	PF04561	RNA polymerase Rpb2, domain 2	364	476	2.2E-11	T	21-03-2019	IPR007642	RNA polymerase Rpb2, domain 2
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	TIGRFAM	TIGR02013	rpoB: DNA-directed RNA polymerase, beta subunit	6	1372	0.0	T	21-03-2019	IPR010243	DNA-directed RNA polymerase beta subunit, bacterial-type
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	Pfam	PF04565	RNA polymerase Rpb2, domain 3	535	603	4.4E-30	T	21-03-2019	IPR007645	RNA polymerase Rpb2, domain 3
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	Pfam	PF10385	RNA polymerase beta subunit external 1 domain	613	677	4.6E-18	T	21-03-2019	IPR019462	DNA-directed RNA polymerase, beta subunit, external 1 domain
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	Pfam	PF00562	RNA polymerase Rpb2, domain 6	739	1298	4.5E-150	T	21-03-2019	IPR007120	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+MAG061_4_90	0ca90553d6d74c693612f52ee820cbb6	1378	Pfam	PF04560	RNA polymerase Rpb2, domain 7	1301	1373	4.1E-24	T	21-03-2019	IPR007641	RNA polymerase Rpb2, domain 7
+MAG061_3_86	b1a205548ad6e54f81ff415f3fc97cff	1911	TIGRFAM	TIGR02543	List_Bact_rpt: repeat, TIGR02543 family	1040	1081	1.1E-8	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_3_86	b1a205548ad6e54f81ff415f3fc97cff	1911	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	1083	1154	9.5E-8	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_3_86	b1a205548ad6e54f81ff415f3fc97cff	1911	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	705	785	1.6E-8	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_3_86	b1a205548ad6e54f81ff415f3fc97cff	1911	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	305	382	3.2E-4	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_3_86	b1a205548ad6e54f81ff415f3fc97cff	1911	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	1012	1077	4.6E-9	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_3_86	b1a205548ad6e54f81ff415f3fc97cff	1911	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	94	177	5.9E-5	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_1_157	5bfc197686a00f0f6c01a516d0e16481	59	Pfam	PF00471	Ribosomal protein L33	14	56	1.1E-9	T	21-03-2019	IPR001705	Ribosomal protein L33
+MAG061_1_157	5bfc197686a00f0f6c01a516d0e16481	59	TIGRFAM	TIGR01023	rpmG_bact: ribosomal protein bL33	1	57	1.6E-12	T	21-03-2019	IPR001705	Ribosomal protein L33
+MAG061_1_146	0084b18290178dc1432ad8a90786e8e0	173	Pfam	PF17212	Tail tubular protein	6	149	4.2E-9	T	21-03-2019	IPR033767	Tail tubular protein Gp11
+MAG061_8_30	aec3c5ea52a24f583d782c9eff68265c	128	Pfam	PF01467	Cytidylyltransferase-like	5	123	8.7E-20	T	21-03-2019	IPR004821	Cytidyltransferase-like domain
+MAG061_8_30	aec3c5ea52a24f583d782c9eff68265c	128	TIGRFAM	TIGR00125	cyt_tran_rel: cytidyltransferase-like domain	3	67	4.0E-19	T	21-03-2019	IPR004821	Cytidyltransferase-like domain
+MAG061_4_115	9aa8c86f94b318ad3220d218da568c47	268	Pfam	PF02911	Formyl transferase, C-terminal domain	191	234	7.7E-5	T	21-03-2019	IPR005793	Formyl transferase, C-terminal
+MAG061_4_115	9aa8c86f94b318ad3220d218da568c47	268	Pfam	PF00551	Formyl transferase	3	167	4.0E-23	T	21-03-2019	IPR002376	Formyl transferase, N-terminal
+MAG061_2_69	ea318c2b68eb411bc9e3583e2648dd87	315	Pfam	PF03331	UDP-3-O-acyl N-acetylglycosamine deacetylase	3	301	4.4E-68	T	21-03-2019	IPR004463	UDP-3-O-acyl N-acetylglucosamine deacetylase
+MAG061_4_40	0a96a21cbcbae92c1a596d439289ee09	233	TIGRFAM	TIGR02495	NrdG2: anaerobic ribonucleoside-triphosphate reductase activating protein	6	193	2.4E-53	T	21-03-2019	IPR012840	Anaerobic ribonucleoside-triphosphate reductase activating protein
+MAG061_4_40	0a96a21cbcbae92c1a596d439289ee09	233	Pfam	PF04055	Radical SAM superfamily	25	163	4.4E-17	T	21-03-2019	IPR007197	Radical SAM
+MAG061_4_40	0a96a21cbcbae92c1a596d439289ee09	233	Pfam	PF13353	4Fe-4S single cluster domain	18	112	1.8E-11	T	21-03-2019
+MAG061_1_98	f86e8a4c812e7c34d9a9d9c0f6aef59a	265	Pfam	PF01026	TatD related DNase	35	259	3.2E-34	T	21-03-2019	IPR001130	TatD family
+MAG061_11_1	c9b2e6008e58c4074e3a49acacdcb387	574	Pfam	PF01464	Transglycosylase SLT domain	402	502	1.9E-20	T	21-03-2019	IPR008258	Transglycosylase SLT domain 1
+MAG061_11_1	c9b2e6008e58c4074e3a49acacdcb387	574	Pfam	PF13181	Tetratricopeptide repeat	215	242	0.057	T	21-03-2019	IPR019734	Tetratricopeptide repeat
+MAG061_4_23	faff06fc56ceb2d605a6ab646550eaba	109	Pfam	PF00254	FKBP-type peptidyl-prolyl cis-trans isomerase	25	102	3.6E-14	T	21-03-2019	IPR001179	FKBP-type peptidyl-prolyl cis-trans isomerase domain
+MAG061_4_74	3e20eee3c62ed9341f895b2829d6819d	99	Pfam	PF14542	GCN5-related N-acetyl-transferase	16	93	1.9E-20	T	21-03-2019	IPR031165	Yjdj-type Gcn5-related N-acetyltransferase
+MAG061_2_99	08a9c2948d8fb4879c893a19df46ba74	585	Pfam	PF01336	OB-fold nucleic acid binding domain	25	105	1.3E-15	T	21-03-2019	IPR004365	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type
+MAG061_2_99	08a9c2948d8fb4879c893a19df46ba74	585	Pfam	PF02938	GAD domain	315	405	1.9E-7	T	21-03-2019	IPR029351	GAD domain
+MAG061_2_99	08a9c2948d8fb4879c893a19df46ba74	585	Pfam	PF00152	tRNA synthetases class II (D, K and N)	124	555	8.5E-84	T	21-03-2019	IPR004364	Aminoacyl-tRNA synthetase, class II (D/K/N)
+MAG061_2_99	08a9c2948d8fb4879c893a19df46ba74	585	TIGRFAM	TIGR00459	aspS_bact: aspartate--tRNA ligase	9	584	4.5E-172	T	21-03-2019	IPR004524	Aspartate-tRNA ligase, type 1
+MAG061_1_59	f47db1ae299091fe0e1f56ec5147db4a	71	Pfam	PF02594	Uncharacterised ACR, YggU family COG1872	2	70	2.6E-23	T	21-03-2019	IPR003746	Protein of unknown function DUF167
+MAG061_2_11	2bd653522af2f466a66c085d5242b449	262	Pfam	PF03167	Uracil DNA glycosylase superfamily	117	253	7.7E-28	T	21-03-2019	IPR005122	Uracil-DNA glycosylase-like
+MAG061_4_12	8e2be5ab2d698f80024a998722e9455d	333	TIGRFAM	TIGR01534	GAPDH-I: glyceraldehyde-3-phosphate dehydrogenase, type I	5	321	2.8E-133	T	21-03-2019	IPR006424	Glyceraldehyde-3-phosphate dehydrogenase, type I
+MAG061_4_12	8e2be5ab2d698f80024a998722e9455d	333	Pfam	PF02800	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain	159	311	1.0E-64	T	21-03-2019	IPR020829	Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain
+MAG061_4_12	8e2be5ab2d698f80024a998722e9455d	333	Pfam	PF00044	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain	4	105	9.0E-38	T	21-03-2019	IPR020828	Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+MAG061_4_61	3c4c6a2dee7a0dc1b035521680170aaf	60	Pfam	PF14697	4Fe-4S dicluster domain	4	55	7.4E-9	T	21-03-2019
+MAG061_2_40	f8d21fb63fd0ebfb5f5e7a6afc48e6c0	67	Pfam	PF01632	Ribosomal protein L35	2	58	1.1E-10	T	21-03-2019	IPR021137	Ribosomal protein L35
+MAG061_5_55	dd4b467ddfd614e467f8efd8fce202b9	420	Pfam	PF11638	DnaA N-terminal domain	6	61	1.7E-7	T	21-03-2019	IPR024633	DnaA N-terminal domain
+MAG061_5_55	dd4b467ddfd614e467f8efd8fce202b9	420	Pfam	PF00308	Bacterial dnaA  protein	105	304	2.2E-31	T	21-03-2019	IPR013317	Chromosomal replication initiator protein DnaA
+MAG061_5_55	dd4b467ddfd614e467f8efd8fce202b9	420	Pfam	PF08299	Bacterial dnaA protein helix-turn-helix	335	398	1.0E-14	T	21-03-2019	IPR013159	Chromosomal replication initiator, DnaA C-terminal
+MAG061_1_117	c8d45f180e299cce4ad1407bd91ef27d	117	Pfam	PF02021	Uncharacterised protein family UPF0102	14	105	1.9E-20	T	21-03-2019	IPR003509	Uncharacterised protein family UPF0102
+MAG061_1_22	3c9d73f2d3575a1bee842c9388e76b63	179	Pfam	PF04011	LemA family	5	179	8.3E-67	T	21-03-2019	IPR007156	LemA
+MAG061_2_156	11deca23542bf972a0d7ff76a28392d3	70	Pfam	PF01197	Ribosomal protein L31	1	66	6.8E-16	T	21-03-2019	IPR002150	Ribosomal protein L31
+MAG061_2_156	11deca23542bf972a0d7ff76a28392d3	70	TIGRFAM	TIGR00105	L31: ribosomal protein bL31	1	67	1.3E-19	T	21-03-2019	IPR002150	Ribosomal protein L31
+MAG061_2_65	a2af41e05c3bec9ce29ede98ebaa535b	69	Pfam	PF12728	Helix-turn-helix domain	12	60	8.0E-8	T	21-03-2019
+MAG061_1_58	ae9d70666e1ce4c892fe1be52b1977be	184	Pfam	PF03641	Possible lysine decarboxylase	50	180	6.3E-29	T	21-03-2019	IPR031100	LOG family
+MAG061_1_58	ae9d70666e1ce4c892fe1be52b1977be	184	TIGRFAM	TIGR00730	TIGR00730: TIGR00730 family protein	6	184	6.2E-43	T	21-03-2019	IPR005269	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG
+MAG061_4_68	2eae628c7a9da6027a81ddaa8f81bc76	194	Pfam	PF02777	Iron/manganese superoxide dismutases, C-terminal domain	94	190	1.1E-32	T	21-03-2019	IPR019832	Manganese/iron superoxide dismutase, C-terminal
+MAG061_4_68	2eae628c7a9da6027a81ddaa8f81bc76	194	Pfam	PF00081	Iron/manganese superoxide dismutases, alpha-hairpin domain	8	85	2.4E-22	T	21-03-2019	IPR019831	Manganese/iron superoxide dismutase, N-terminal
+MAG061_3_82	79f9a5484901cbcacd4b140256e2dfc7	123	Pfam	PF03061	Thioesterase superfamily	17	94	9.4E-16	T	21-03-2019	IPR006683	Thioesterase domain
+MAG061_2_10	331bf2c55c4cb88fc8d2521490d1aa98	132	Pfam	PF00691	OmpA family	30	119	6.6E-20	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_2_43	f7400bac35ade0c623a2e260e8e7aa61	591	TIGRFAM	TIGR03423	pbp2_mrdA: penicillin-binding protein 2	12	587	6.2E-157	T	21-03-2019	IPR017790	Penicillin-binding protein 2
+MAG061_2_43	f7400bac35ade0c623a2e260e8e7aa61	591	Pfam	PF03717	Penicillin-binding Protein dimerisation domain	59	218	6.2E-20	T	21-03-2019	IPR005311	Penicillin-binding protein, dimerisation domain
+MAG061_2_43	f7400bac35ade0c623a2e260e8e7aa61	591	Pfam	PF00905	Penicillin binding protein transpeptidase domain	254	583	1.2E-55	T	21-03-2019	IPR001460	Penicillin-binding protein, transpeptidase
+MAG061_1_75	27a99e22e38232ec46f033f73a040c97	501	Pfam	PF07508	Recombinase	177	264	4.2E-9	T	21-03-2019	IPR011109	DNA-binding recombinase domain
+MAG061_1_75	27a99e22e38232ec46f033f73a040c97	501	Pfam	PF13408	Recombinase zinc beta ribbon domain	280	336	5.8E-7	T	21-03-2019	IPR025827	Recombinase zinc beta ribbon domain
+MAG061_1_75	27a99e22e38232ec46f033f73a040c97	501	Pfam	PF00239	Resolvase, N terminal domain	3	151	1.3E-15	T	21-03-2019	IPR006119	Resolvase, N-terminal catalytic domain
+MAG061_2_95	ee73c174c00fa5368696f2f35e6f4826	222	Pfam	PF01022	Bacterial regulatory protein, arsR family	32	78	7.7E-8	T	21-03-2019	IPR001845	HTH ArsR-type DNA-binding domain
+MAG061_2_95	ee73c174c00fa5368696f2f35e6f4826	222	Pfam	PF01022	Bacterial regulatory protein, arsR family	144	188	2.0E-6	T	21-03-2019	IPR001845	HTH ArsR-type DNA-binding domain
+MAG061_4_48	60f0b6ae2a51c0e9ef3ae52c38a36d0e	461	Pfam	PF00078	Reverse transcriptase (RNA-dependent DNA polymerase)	158	308	9.3E-13	T	21-03-2019	IPR000477	Reverse transcriptase domain
+MAG061_2_80	bdc94e96ced7f1294913693ba6c6e506	290	Pfam	PF13651	Adenine-specific methyltransferase EcoRI	3	50	1.3E-12	T	21-03-2019	IPR025247	Adenine-specific methylase EcoRI
+MAG061_2_80	bdc94e96ced7f1294913693ba6c6e506	290	Pfam	PF13651	Adenine-specific methyltransferase EcoRI	70	273	2.3E-66	T	21-03-2019	IPR025247	Adenine-specific methylase EcoRI
+MAG061_4_136	57dafa9062e81cca8247dd88d02b9b85	172	Pfam	PF09917	Uncharacterized protein conserved in bacteria (DUF2147)	24	147	2.2E-22	T	21-03-2019	IPR019223	Domain of unknown function DUF2147
+MAG061_1_42	3b3170029becff72b9c44701b6176581	489	Pfam	PF03023	MviN-like protein	28	460	3.4E-88	T	21-03-2019	IPR004268	Peptidoglycan biosynthesis protein MurJ
+MAG061_1_42	3b3170029becff72b9c44701b6176581	489	TIGRFAM	TIGR01695	murJ_mviN: murein biosynthesis integral membrane protein MurJ	9	474	4.5E-87	T	21-03-2019	IPR004268	Peptidoglycan biosynthesis protein MurJ
+MAG061_2_119	1670cf913e2406d5cf5b64c55f5a67b1	360	TIGRFAM	TIGR02012	tigrfam_recA: protein RecA	15	333	4.3E-162	T	21-03-2019	IPR013765	DNA recombination and repair protein RecA
+MAG061_2_119	1670cf913e2406d5cf5b64c55f5a67b1	360	Pfam	PF00154	recA bacterial DNA recombination protein	18	278	5.8E-139	T	21-03-2019	IPR013765	DNA recombination and repair protein RecA
+MAG061_4_105	32e27626e31b5ee1cd77bff7666276b6	275	Pfam	PF00398	Ribosomal RNA adenine dimethylase	23	270	2.6E-45	T	21-03-2019	IPR001737	Ribosomal RNA adenine methyltransferase KsgA/Erm
+MAG061_4_105	32e27626e31b5ee1cd77bff7666276b6	275	TIGRFAM	TIGR00755	ksgA: ribosomal RNA small subunit methyltransferase A	21	272	7.6E-64	T	21-03-2019	IPR011530	Ribosomal RNA adenine dimethylase
+MAG061_4_147	7a3c4c3070a7bd1fc647778fc53caead	185	Pfam	PF09411	Lipid A 3-O-deacylase (PagL)	107	184	1.0E-11	T	21-03-2019	IPR018550	Lipid A 3-O-deacylase-related
+MAG061_1_49	e3e93e6e214b4f35eb3dd35ae9d8d558	193	Pfam	PF00265	Thymidine kinase	2	181	2.9E-32	T	21-03-2019	IPR001267	Thymidine kinase
+MAG061_2_157	cb7eb21c3a425423646cd16956ecc8d5	243	Pfam	PF00459	Inositol monophosphatase family	33	228	8.8E-20	T	21-03-2019	IPR000760	Inositol monophosphatase-like
+MAG061_4_107	933ff8b6acf65a7a4521f8346f2c52eb	359	Pfam	PF00768	D-alanyl-D-alanine carboxypeptidase	12	230	2.0E-56	T	21-03-2019	IPR001967	Peptidase S11, D-alanyl-D-alanine carboxypeptidase A, N-terminal
+MAG061_4_107	933ff8b6acf65a7a4521f8346f2c52eb	359	Pfam	PF05036	Sporulation related domain	290	357	1.7E-10	T	21-03-2019	IPR007730	Sporulation-like domain
+MAG061_1_54	91601e0eab689f1c94ecd52c15a33cf1	419	Pfam	PF01551	Peptidase family M23	280	376	1.8E-32	T	21-03-2019	IPR016047	Peptidase M23
+MAG061_2_48	a2ff9443311d8dccec40a00534e94c65	226	Pfam	PF01458	Uncharacterized protein family (UPF0051)	84	210	1.3E-8	T	21-03-2019	IPR000825	SUF system FeS cluster assembly, SufBD
+MAG061_4_71	f1bc2cedc4c2a12c8f27960e8f53fb2c	467	Pfam	PF16325	Peptidase family U32 C-terminal domain	373	437	8.8E-7	T	21-03-2019	IPR032525	Peptidase family U32, C-terminal
+MAG061_4_71	f1bc2cedc4c2a12c8f27960e8f53fb2c	467	Pfam	PF01136	Peptidase family U32	134	357	2.3E-82	T	21-03-2019	IPR001539	Peptidase U32
+MAG061_4_78	77f20426f82665f7b981ef56bd3cb256	276	Pfam	PF01553	Acyltransferase	60	181	9.3E-16	T	21-03-2019	IPR002123	Phospholipid/glycerol acyltransferase
+MAG061_3_99	422058a143db3dc4a50aa9950d556eb3	177	Pfam	PF03602	Conserved hypothetical protein 95	1	172	2.5E-32	T	21-03-2019
+MAG061_1_132	e73373f6cf8210abff52397d09de3eed	238	TIGRFAM	TIGR01966	RNasePH: ribonuclease PH	3	237	1.3E-92	T	21-03-2019	IPR002381	Ribonuclease PH, bacterial-type
+MAG061_1_132	e73373f6cf8210abff52397d09de3eed	238	Pfam	PF03725	3' exoribonuclease family, domain 2	160	224	1.4E-7	T	21-03-2019	IPR015847	Exoribonuclease, phosphorolytic domain 2
+MAG061_1_132	e73373f6cf8210abff52397d09de3eed	238	Pfam	PF01138	3' exoribonuclease family, domain 1	11	141	2.0E-22	T	21-03-2019	IPR001247	Exoribonuclease, phosphorolytic domain 1
+MAG061_4_32	2012287c2409e8fee27000d8bafbcb81	253	Pfam	PF00557	Metallopeptidase family M24	13	242	6.8E-53	T	21-03-2019	IPR000994	Peptidase M24
+MAG061_4_32	2012287c2409e8fee27000d8bafbcb81	253	TIGRFAM	TIGR00500	met_pdase_I: methionine aminopeptidase, type I	5	250	3.1E-86	T	21-03-2019	IPR002467	Peptidase M24A, methionine aminopeptidase, subfamily 1
+MAG061_2_132	aecb9fc214e329a05f648884d34a5248	167	Pfam	PF00226	DnaJ domain	112	162	2.8E-12	T	21-03-2019	IPR001623	DnaJ domain
+MAG061_8_14	0ebc1d7e83f56d7c032f7f5dfce705ad	155	Pfam	PF13673	Acetyltransferase (GNAT) domain	54	147	8.2E-12	T	21-03-2019	IPR000182	GNAT domain
+MAG061_3_72	a98d6fba0d01e0258a110024784f2b12	162	Pfam	PF00380	Ribosomal protein S9/S16	42	162	7.6E-42	T	21-03-2019	IPR000754	Ribosomal protein S9
+MAG061_3_59	d9337f4d2e889c54b7c9cae7b57b1e81	161	Pfam	PF01478	Type IV leader peptidase family	19	132	1.8E-12	T	21-03-2019	IPR000045	Prepilin type IV endopeptidase, peptidase domain
+MAG061_2_118	878dd30170cec6aeed0cfbba5043fcea	387	Pfam	PF07690	Major Facilitator Superfamily	15	231	2.5E-12	T	21-03-2019	IPR011701	Major facilitator superfamily
+MAG061_2_118	878dd30170cec6aeed0cfbba5043fcea	387	Pfam	PF07690	Major Facilitator Superfamily	234	379	4.4E-13	T	21-03-2019	IPR011701	Major facilitator superfamily
+MAG061_6_24	611d3d32c011a7cac788adf12520e383	273	Pfam	PF03739	Predicted permease YjgP/YjgQ family	2	268	1.8E-30	T	21-03-2019	IPR005495	Permease LptG/LptF-related
+MAG061_1_113	ee99125bc36fa11843b4d7c62a513ca2	389	Pfam	PF00535	Glycosyl transferase family 2	5	137	1.3E-37	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_4_60	303e3e3b4a8bfc866a2efe69c424ee24	238	Pfam	PF01027	Inhibitor of apoptosis-promoting Bax1	21	235	2.6E-33	T	21-03-2019	IPR006214	Bax inhibitor 1-related
+MAG061_4_120	9fa650dba5927afca14e4949ef6c43fd	201	TIGRFAM	TIGR01488	HAD-SF-IB: HAD phosphoserine phosphatase-like hydrolase, family IB	8	183	3.1E-16	T	21-03-2019
+MAG061_4_120	9fa650dba5927afca14e4949ef6c43fd	201	Pfam	PF12710	haloacid dehalogenase-like hydrolase	8	182	3.7E-18	T	21-03-2019
+MAG061_10_6	5ba62e825d8e5aeaeb1ca1ae552d120d	218	TIGRFAM	TIGR00613	reco: DNA repair protein RecO	7	189	4.3E-24	T	21-03-2019	IPR003717	Recombination protein O, RecO
+MAG061_10_6	5ba62e825d8e5aeaeb1ca1ae552d120d	218	Pfam	PF11967	Recombination protein O N terminal	1	67	1.1E-6	T	21-03-2019	IPR022572	DNA replication/recombination mediator RecO, N-terminal
+MAG061_10_6	5ba62e825d8e5aeaeb1ca1ae552d120d	218	Pfam	PF02565	Recombination protein O C terminal	82	189	1.4E-16	T	21-03-2019	IPR003717	Recombination protein O, RecO
+MAG061_12_7	fe1b1ba92526ecbb1c7c2095d7e1e760	119	Pfam	PF01381	Helix-turn-helix	23	73	1.2E-13	T	21-03-2019	IPR001387	Cro/C1-type helix-turn-helix domain
+MAG061_9_12	550fee33362d35798bcab6f68791c73a	193	Pfam	PF00574	Clp protease	13	191	1.0E-74	T	21-03-2019	IPR023562	Clp protease proteolytic subunit /Translocation-enhancing protein TepA
+MAG061_2_103	526bb95a557cb7028c14d5991c581da8	121	TIGRFAM	TIGR00150	T6A_YjeE: tRNA threonylcarbamoyl adenosine modification protein YjeE	1	119	3.0E-25	T	21-03-2019	IPR003442	tRNA threonylcarbamoyl adenosine modification protein TsaE
+MAG061_2_103	526bb95a557cb7028c14d5991c581da8	121	Pfam	PF02367	Threonylcarbamoyl adenosine biosynthesis protein TsaE	3	117	4.2E-28	T	21-03-2019	IPR003442	tRNA threonylcarbamoyl adenosine modification protein TsaE
+MAG061_3_69	a9ba50c05753c48505d3d77973ad211b	164	Pfam	PF07699	Putative ephrin-receptor like	99	139	1.8E-6	T	21-03-2019	IPR011641	Tyrosine-protein kinase ephrin type A/B receptor-like
+MAG061_3_25	6e3710a774e1b44077ed0dfd210e2df2	171	Pfam	PF02978	Signal peptide binding domain	39	138	9.1E-25	T	21-03-2019	IPR004125	Signal recognition particle, SRP54 subunit, M-domain
+MAG061_5_49	1578b3fb4400780b509a8a0d10072cdd	316	Pfam	PF10671	Toxin co-regulated pilus biosynthesis protein Q	236	313	4.0E-22	T	21-03-2019	IPR018927	Toxin co-regulated pilus biosynthesis protein Q, C-terminal
+MAG061_2_120	1f5663113ef47a6d23219a5ebfcd0b95	304	Pfam	PF05704	Capsular polysaccharide synthesis protein	27	286	1.2E-62	T	21-03-2019	IPR008441	Capsular polysaccharide synthesis protein
+MAG061_7_10	77b73befb357301d92f515f4d48940f8	404	Pfam	PF00579	tRNA synthetases class I (W and Y)	31	322	5.6E-69	T	21-03-2019	IPR002305	Aminoacyl-tRNA synthetase, class Ic
+MAG061_7_10	77b73befb357301d92f515f4d48940f8	404	TIGRFAM	TIGR00234	tyrS: tyrosine--tRNA ligase	2	403	1.5E-109	T	21-03-2019	IPR002307	Tyrosine-tRNA ligase
+MAG061_7_10	77b73befb357301d92f515f4d48940f8	404	Pfam	PF01479	S4 domain	344	380	2.6E-9	T	21-03-2019	IPR002942	RNA-binding S4 domain
+MAG061_2_25	c472072e0fb81c9daf5b1a29587e1012	149	Pfam	PF00364	Biotin-requiring enzyme	76	148	3.4E-19	T	21-03-2019	IPR000089	Biotin/lipoyl attachment
+MAG061_1_76	f2ef1870818b08650334631276024037	166	Pfam	PF01035	6-O-methylguanine DNA methyltransferase, DNA binding domain	80	164	5.7E-32	T	21-03-2019	IPR014048	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding
+MAG061_1_76	f2ef1870818b08650334631276024037	166	TIGRFAM	TIGR00589	ogt: methylated-DNA--[protein]-cysteine S-methyltransferase	79	162	2.9E-32	T	21-03-2019	IPR014048	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding
+MAG061_3_143	3cb30c4de395fc5fe55be527a8ff1ae7	550	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	307	443	1.9E-19	T	21-03-2019	IPR003959	ATPase, AAA-type, core
+MAG061_3_143	3cb30c4de395fc5fe55be527a8ff1ae7	550	Pfam	PF02190	ATP-dependent protease La (LON) substrate-binding domain	19	154	4.8E-7	T	21-03-2019	IPR003111	Lon, substrate-binding domain
+MAG061_5_2	e8ba6327dbf5151dfa611391ed41da7b	119	Pfam	PF05443	ROS/MUCR transcriptional regulator protein	42	117	3.7E-26	T	21-03-2019	IPR008807	ROSMUCR transcriptional regulator
+MAG061_4_137	b10e1c8a54b86f5d9a2eeb12ae7b2e13	239	Pfam	PF00156	Phosphoribosyl transferase domain	143	231	1.0E-10	T	21-03-2019	IPR000836	Phosphoribosyltransferase domain
+MAG061_3_65	d62763818c1b487a0881eb1be069042e	198	Pfam	PF00406	Adenylate kinase	18	166	2.9E-23	T	21-03-2019
+MAG061_13_5	f116a83bca3e559d20f4c10a27ebbc55	152	Pfam	PF00828	Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A	28	150	2.8E-37	T	21-03-2019	IPR021131	Ribosomal protein L18e/L15P
+MAG061_13_5	f116a83bca3e559d20f4c10a27ebbc55	152	TIGRFAM	TIGR01071	rplO_bact: ribosomal protein uL15	2	150	4.1E-48	T	21-03-2019	IPR005749	Ribosomal protein L15, bacterial-type
+MAG061_3_62	ad5767fabec6a589765da35daafa228f	294	Pfam	PF01544	CorA-like Mg2+ transporter protein	8	285	7.2E-51	T	21-03-2019	IPR002523	Mg2+ transporter protein, CorA-like/Zinc transport protein ZntB
+MAG061_7_9	17d1c3fdf22a12e848be80364d9b3759	358	Pfam	PF01551	Peptidase family M23	262	350	2.8E-16	T	21-03-2019	IPR016047	Peptidase M23
+MAG061_5_41	63f097ca4f9da86ff785e178ed9cbffb	487	TIGRFAM	TIGR00132	gatA: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	11	474	4.1E-153	T	21-03-2019	IPR004412	Glutamyl-tRNA(Gln) amidotransferase A subunit
+MAG061_5_41	63f097ca4f9da86ff785e178ed9cbffb	487	Pfam	PF01425	Amidase	22	465	1.7E-135	T	21-03-2019	IPR023631	Amidase signature domain
+MAG061_4_69	1e378cc655882a1b12f6226e213863db	188	Pfam	PF00462	Glutaredoxin	24	92	4.4E-6	T	21-03-2019	IPR002109	Glutaredoxin
+MAG061_8_24	4382f1e5099ea4860131ef06628d5ce8	261	Pfam	PF00005	ABC transporter	23	170	1.2E-32	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_2_51	bed9f276fcdd041697a87e04e74b001b	805	Pfam	PF03135	CagE, TrbE, VirB family, component of type IV transporter system	242	383	2.6E-8	T	21-03-2019	IPR018145	CagE, TrbE, VirB component of type IV transporter system, central domain
+MAG061_2_93	acea23c75ea7f7663333012773b037bc	526	Pfam	PF00501	AMP-binding enzyme	7	420	9.8E-78	T	21-03-2019	IPR000873	AMP-dependent synthetase/ligase
+MAG061_5_23	5cf51869142cd110edc4fbfbe984e527	115	Pfam	PF02657	Fe-S metabolism associated domain	4	113	2.1E-16	T	21-03-2019	IPR003808	Fe-S metabolism associated domain, SufE-like
+MAG061_5_10	cdf05dfe80138554dbc95a8229b30db3	210	Pfam	PF02390	Putative methyltransferase	41	182	8.8E-33	T	21-03-2019
+MAG061_2_41	8ad26081a4deb5a8810a09a68624bb40	278	Pfam	PF04085	rod shape-determining protein MreC	127	245	1.7E-17	T	21-03-2019	IPR007221	Rod shape-determining protein MreC
+MAG061_1_109	02ce43f8b7eb8b23cbbf3e8e09cf3e27	727	Pfam	PF13692	Glycosyl transferases group 1	586	720	2.6E-6	T	21-03-2019
+MAG061_1_109	02ce43f8b7eb8b23cbbf3e8e09cf3e27	727	Pfam	PF00535	Glycosyl transferase family 2	90	214	1.2E-22	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_4_111	56664d50fddcb747b781f5442912fa61	654	Pfam	PF13567	Domain of unknown function (DUF4131)	38	180	9.9E-11	T	21-03-2019	IPR025405	Domain of unknown function DUF4131
+MAG061_4_111	56664d50fddcb747b781f5442912fa61	654	Pfam	PF03772	Competence protein	211	486	7.9E-54	T	21-03-2019	IPR004477	ComEC/Rec2-related protein
+MAG061_4_111	56664d50fddcb747b781f5442912fa61	654	TIGRFAM	TIGR00360	ComEC_N-term: ComEC/Rec2-related protein	232	419	1.2E-20	T	21-03-2019	IPR004477	ComEC/Rec2-related protein
+MAG061_5_25	06d4484fbf6ffdc6298b807d23f4a0dd	541	Pfam	PF00905	Penicillin binding protein transpeptidase domain	230	514	1.9E-45	T	21-03-2019	IPR001460	Penicillin-binding protein, transpeptidase
+MAG061_5_25	06d4484fbf6ffdc6298b807d23f4a0dd	541	Pfam	PF03717	Penicillin-binding Protein dimerisation domain	66	177	9.5E-11	T	21-03-2019	IPR005311	Penicillin-binding protein, dimerisation domain
+MAG061_1_62	4ebf45701ee45266efba8283b4c61448	539	Pfam	PF00118	TCP-1/cpn60 chaperonin family	19	520	4.7E-91	T	21-03-2019	IPR002423	Chaperonin Cpn60/TCP-1 family
+MAG061_1_62	4ebf45701ee45266efba8283b4c61448	539	TIGRFAM	TIGR02348	GroEL: chaperonin GroL	2	524	1.2E-228	T	21-03-2019	IPR001844	Chaperonin Cpn60
+MAG061_1_73	40cfa727e49ec70d874ac8c9974accdf	442	Pfam	PF13175	AAA ATPase domain	2	382	1.3E-19	T	21-03-2019
+MAG061_10_5	08a3222baa46c7518431dd1ab2528e9c	273	Pfam	PF13462	Thioredoxin	104	272	2.3E-21	T	21-03-2019	IPR012336	Thioredoxin-like fold
+MAG061_8_37	7de9faee6953ab5cfd12e88c08666ea3	106	Pfam	PF01381	Helix-turn-helix	36	78	5.3E-7	T	21-03-2019	IPR001387	Cro/C1-type helix-turn-helix domain
+MAG061_4_20	49973b0ad2989df791c9e2ce7cbcfbfc	319	Pfam	PF00437	Type II/IV secretion system protein	13	279	6.1E-33	T	21-03-2019	IPR001482	Type II/IV secretion system protein
+MAG061_1_111	f53f67e8df18d36b7a1d58a3f691f95f	284	Pfam	PF00535	Glycosyl transferase family 2	7	165	9.9E-25	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_3_17	98265a7d354961a927a51ef61491d6d3	210	Pfam	PF03729	Short repeat of unknown function (DUF308)	99	159	0.015	T	21-03-2019	IPR005325	Protein of unknown function DUF308, membrane
+MAG061_3_17	98265a7d354961a927a51ef61491d6d3	210	Pfam	PF03729	Short repeat of unknown function (DUF308)	45	111	9.2E-8	T	21-03-2019	IPR005325	Protein of unknown function DUF308, membrane
+MAG061_5_16	2f14e85afb0fcbb508acb46a0ef6468d	262	Pfam	PF05036	Sporulation related domain	181	261	2.5E-13	T	21-03-2019	IPR007730	Sporulation-like domain
+MAG061_3_83	0457d174daedaa2d985fcf9d3b49157f	163	Pfam	PF01618	MotA/TolQ/ExbB proton channel family	56	153	1.5E-27	T	21-03-2019	IPR002898	MotA/TolQ/ExbB proton channel
+MAG061_7_19	c1fe05cd5187933f6101667862ebbdb8	513	Pfam	PF00691	OmpA family	380	474	1.2E-19	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_9_3	0927bb8c35882255895e4ad709ff609a	264	Pfam	PF00924	Mechanosensitive ion channel	57	252	2.5E-44	T	21-03-2019	IPR006685	Mechanosensitive ion channel MscS
+MAG061_1_32	06822039d8d67ca18e7b449c91ff4ccb	114	Pfam	PF00313	'Cold-shock' DNA-binding domain	3	67	2.1E-15	T	21-03-2019	IPR002059	Cold-shock protein, DNA-binding
+MAG061_2_136	bbad300c459dc8aab9a72aec441d4bfc	156	Pfam	PF01272	Transcription elongation factor, GreA/GreB, C-term	82	153	1.7E-20	T	21-03-2019	IPR001437	Transcription elongation factor, GreA/GreB, C-terminal
+MAG061_2_136	bbad300c459dc8aab9a72aec441d4bfc	156	TIGRFAM	TIGR01462	greA: transcription elongation factor GreA	6	152	8.6E-44	T	21-03-2019	IPR006359	Transcription elongation factor GreA
+MAG061_2_136	bbad300c459dc8aab9a72aec441d4bfc	156	Pfam	PF03449	Transcription elongation factor, N-terminal	5	74	7.0E-26	T	21-03-2019	IPR022691	Transcription elongation factor, GreA/GreB, N-terminal
+MAG061_3_127	44a3251465e0c9620794329fea8fbef5	92	Pfam	PF00216	Bacterial DNA-binding protein	1	91	2.8E-22	T	21-03-2019	IPR000119	Histone-like DNA-binding protein
+MAG061_1_88	c2a9a865f4793950a925a93294a7cbab	588	Pfam	PF00912	Transglycosylase	83	245	2.1E-54	T	21-03-2019	IPR001264	Glycosyl transferase, family 51
+MAG061_1_88	c2a9a865f4793950a925a93294a7cbab	588	Pfam	PF00905	Penicillin binding protein transpeptidase domain	325	587	1.4E-32	T	21-03-2019	IPR001460	Penicillin-binding protein, transpeptidase
+MAG061_2_22	cf9a8d3083793f1a077249b811f46971	353	Pfam	PF02463	RecF/RecN/SMC N terminal domain	1	342	4.2E-17	T	21-03-2019	IPR003395	RecF/RecN/SMC, N-terminal
+MAG061_4_100	1277cca2e17454fc76b4e2faa7e03d66	807	Pfam	PF03743	Bacterial conjugation TrbI-like protein	395	597	3.6E-19	T	21-03-2019	IPR005498	Type IV secretion system, VirB10 / TraB / TrbI
+MAG061_7_8	e2ed3612fb48ea5d3b5f23e9b44d140a	304	Pfam	PF01636	Phosphotransferase enzyme family	59	213	1.7E-8	T	21-03-2019	IPR002575	Aminoglycoside phosphotransferase
+MAG061_3_53	12724ad4c05020513d52fdc34ffed04b	182	Pfam	PF00908	dTDP-4-dehydrorhamnose 3,5-epimerase	5	177	1.6E-74	T	21-03-2019	IPR000888	dTDP-4-dehydrorhamnose 3,5-epimerase-related
+MAG061_3_53	12724ad4c05020513d52fdc34ffed04b	182	TIGRFAM	TIGR01221	rmlC: dTDP-4-dehydrorhamnose 3,5-epimerase	2	178	2.2E-76	T	21-03-2019	IPR000888	dTDP-4-dehydrorhamnose 3,5-epimerase-related
+MAG061_3_60	5f703a581f8291e1e37bcbcdb5c71577	196	Pfam	PF07750	GcrA cell cycle regulator	5	195	3.6E-27	T	21-03-2019	IPR011681	GcrA cell cycle regulator
+MAG061_2_71	87b7f36dce2da296456ab94140e0cc5e	404	Pfam	PF06864	Pilin accessory protein (PilO)	2	334	2.2E-18	T	21-03-2019	IPR009663	Pilin accessory predicted
+MAG061_2_28	5804b218a00a1f2d97dc4823cbef05c3	177	Pfam	PF02677	Uncharacterized BCR, COG1636	3	175	2.4E-46	T	21-03-2019	IPR003828	Epoxyqueuosine reductase QueH
+MAG061_2_115	a8bf0113ccbceca9ecd7ccb4ae89b529	267	Pfam	PF00590	Tetrapyrrole (Corrin/Porphyrin) Methylases	5	191	6.4E-26	T	21-03-2019	IPR000878	Tetrapyrrole methylase
+MAG061_2_115	a8bf0113ccbceca9ecd7ccb4ae89b529	267	TIGRFAM	TIGR00096	TIGR00096: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase	5	261	1.2E-64	T	21-03-2019	IPR008189	rRNA small subunit methyltransferase I
+MAG061_1_65	ba184e53caa4218ce8f3e2dd22fceb6d	361	Pfam	PF02275	Linear amide C-N hydrolases, choloylglycine hydrolase family	25	338	1.8E-65	T	21-03-2019	IPR029132	Choloylglycine hydrolase/NAAA C-terminal
+MAG061_5_46	baec07265a00d1801452328b7bad12c5	225	Pfam	PF00005	ABC transporter	17	173	7.7E-20	T	21-03-2019	IPR003439	ABC transporter-like
+MAG061_3_39	bcd757814e5ef96476235b9aff94c4fe	148	TIGRFAM	TIGR00689	rpiB_lacA_lacB: sugar-phosphate isomerase, RpiB/LacA/LacB family	8	148	2.4E-32	T	21-03-2019	IPR003500	Sugar-phosphate isomerase, RpiB/LacA/LacB family
+MAG061_3_39	bcd757814e5ef96476235b9aff94c4fe	148	Pfam	PF02502	Ribose/Galactose Isomerase	8	147	3.2E-36	T	21-03-2019	IPR003500	Sugar-phosphate isomerase, RpiB/LacA/LacB family
+MAG061_8_3	90504034196e92577bc07acd8eab06e5	123	TIGRFAM	TIGR00981	rpsL_bact: ribosomal protein uS12	1	122	9.1E-65	T	21-03-2019	IPR005679	Ribosomal protein S12, bacterial-type
+MAG061_8_3	90504034196e92577bc07acd8eab06e5	123	Pfam	PF00164	Ribosomal protein S12/S23	12	120	3.9E-38	T	21-03-2019	IPR006032	Ribosomal protein S12/S23
+MAG061_2_24	a29459043845e37828497f36fe4634d6	102	Pfam	PF00825	Ribonuclease P	7	92	2.2E-15	T	21-03-2019	IPR000100	Ribonuclease P
+MAG061_2_104	fb671eec9c9d9ed179420f8d59e24ab6	594	Pfam	PF00834	Ribulose-phosphate 3 epimerase family	395	575	2.1E-43	T	21-03-2019	IPR000056	Ribulose-phosphate 3-epimerase-like
+MAG061_2_104	fb671eec9c9d9ed179420f8d59e24ab6	594	Pfam	PF14450	Cell division protein FtsA	189	349	5.0E-9	T	21-03-2019
+MAG061_3_13	9d8a156315c6b11dfc849735c9428b21	374	Pfam	PF12698	ABC-2 family transporter protein	26	364	1.1E-39	T	21-03-2019
+MAG061_4_134	d26bc905e83aec0008a5f2dbfa647def	244	Pfam	PF01643	Acyl-ACP thioesterase	11	239	2.1E-37	T	21-03-2019	IPR002864	Acyl-ACP thioesterase
+MAG061_2_44	e7a76df9bc577738ecd1bf29e65f2dc2	381	Pfam	PF01098	Cell cycle protein	23	372	1.9E-99	T	21-03-2019	IPR001182	Probable peptidoglycan glycosyltransferase FtsW/RodA
+MAG061_2_44	e7a76df9bc577738ecd1bf29e65f2dc2	381	TIGRFAM	TIGR02210	rodA_shape: rod shape-determining protein RodA	24	372	3.8E-119	T	21-03-2019	IPR011923	Probable peptidoglycan glycosyltransferase RodA/MrdB
+MAG061_3_40	f40f4dd57215786e6c194a76b627913b	117	Pfam	PF04519	Polymer-forming cytoskeletal	14	106	4.1E-18	T	21-03-2019	IPR007607	Bactofilin A/B
+MAG061_2_81	2cd8192ce355d50713f33e8bbf48ede2	345	Pfam	PF13091	PLD-like domain	215	339	2.8E-24	T	21-03-2019	IPR025202	Phospholipase D-like domain
+MAG061_4_13	eaf0ee562c37680247a87adafdf993f2	295	Pfam	PF01715	IPP transferase	38	274	5.9E-49	T	21-03-2019	IPR018022	IPP transferase
+MAG061_4_13	eaf0ee562c37680247a87adafdf993f2	295	TIGRFAM	TIGR00174	miaA: tRNA dimethylallyltransferase	7	276	3.8E-56	T	21-03-2019	IPR018022	IPP transferase
+MAG061_2_15	d5bf2886fa33bf947bb1a3c8cc1dafd7	384	TIGRFAM	TIGR01730	RND_mfp: efflux transporter, RND family, MFP subunit	44	305	2.2E-53	T	21-03-2019	IPR006143	RND efflux pump, membrane fusion protein
+MAG061_2_15	d5bf2886fa33bf947bb1a3c8cc1dafd7	384	Pfam	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	50	284	9.8E-26	T	21-03-2019	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+MAG061_3_149	dd15e0affadd2e56b367aa752a2578d1	1024	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	564	632	0.0023	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_3_149	dd15e0affadd2e56b367aa752a2578d1	1024	Pfam	PF09479	Listeria-Bacteroides repeat domain (List_Bact_rpt)	362	428	0.0012	T	21-03-2019	IPR013378	Listeria/Bacterioides repeat
+MAG061_4_75	c162829dafaddfad2686c1cb0e85f2c9	460	Pfam	PF01564	Spermine/spermidine synthase domain	301	415	5.1E-6	T	21-03-2019
+MAG061_8_15	badc1a3b73160ad4c1a9ccc97e8f96da	119	Pfam	PF02033	Ribosome-binding factor A	10	112	7.3E-14	T	21-03-2019	IPR000238	Ribosome-binding factor A
+MAG061_3_10	56bf6af35818d5f75b94cd70a65d71fe	265	Pfam	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion	59	257	8.1E-17	T	21-03-2019	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+MAG061_3_47	6f1743f69ea50255d4cc728b7630db18	203	Pfam	PF06736	Protein of unknown function (DUF1211)	5	89	9.9E-27	T	21-03-2019	IPR010617	Endosomal/lysomomal potassium channel TMEM175
+MAG061_6_9	b771d7ddc4ed12816f11e4ffaa7ec142	189	Pfam	PF00691	OmpA family	88	173	1.4E-11	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_2_32	6c0415da7a9565a816ed7431b9a3d3ba	198	Pfam	PF04239	Protein of unknown function (DUF421)	93	194	6.8E-26	T	21-03-2019	IPR007353	Protein of unknown function DUF421
+MAG061_1_30	64a8bd01999126017b35f3cd761e5d5c	627	Pfam	PF00753	Metallo-beta-lactamase superfamily	79	245	7.5E-13	T	21-03-2019	IPR001279	Metallo-beta-lactamase
+MAG061_2_117	f90a8befde39ed6e040881d60fb1708e	831	Pfam	PF12705	PD-(D/E)XK nuclease superfamily	591	807	1.4E-12	T	21-03-2019	IPR038726	PD-(D/E)XK endonuclease-like domain, AddAB-type
+MAG061_3_29	7859dc1c9c5376d15d37888a0952f355	598	Pfam	PF02779	Transketolase, pyrimidine binding domain	298	466	3.0E-40	T	21-03-2019	IPR005475	Transketolase-like, pyrimidine-binding domain
+MAG061_3_29	7859dc1c9c5376d15d37888a0952f355	598	Pfam	PF00456	Transketolase, thiamine diphosphate binding domain	10	242	1.8E-60	T	21-03-2019	IPR005474	Transketolase, N-terminal
+MAG061_5_32	17023472f736a12b717bc861c8fa9e34	303	Pfam	PF13561	Enoyl-(Acyl carrier protein) reductase	68	301	1.3E-59	T	21-03-2019
+MAG061_5_3	55a349a901c26353b564c3091826c73a	580	Pfam	PF13414	TPR repeat	399	440	6.9E-9	T	21-03-2019
+MAG061_7_21	2a20c9550b9d025f89872a66a36859e6	142	Pfam	PF06835	Lipopolysaccharide-assembly, LptC-related	35	141	8.8E-6	T	21-03-2019	IPR010664	Lipopolysaccharide assembly, LptC-related
+MAG061_3_148	ad3d7d08bbb0c7660f64fcbd1d1a98f7	424	Pfam	PF05970	PIF1-like helicase	13	152	6.8E-23	T	21-03-2019	IPR010285	DNA helicase Pif1-like
+MAG061_3_148	ad3d7d08bbb0c7660f64fcbd1d1a98f7	424	Pfam	PF13538	UvrD-like helicase C-terminal domain	356	395	4.9E-7	T	21-03-2019	IPR027785	UvrD-like helicase C-terminal domain
+MAG061_3_111	a9990eae3889471b2f5ee44cc13281ba	110	Pfam	PF09923	Uncharacterized protein conserved in bacteria (DUF2155)	20	105	2.2E-22	T	21-03-2019	IPR019225	Protein of unknown function DUF2155
+MAG061_1_116	4b4a1feb515658c52ec35521c0c272ec	49	Pfam	PF13978	Protein of unknown function (DUF4223)	3	44	4.7E-13	T	21-03-2019	IPR025318	Protein of unknown function DUF4223
+MAG061_3_14	fb6b42afb31925131d2ba0dacf0559df	363	Pfam	PF12698	ABC-2 family transporter protein	22	356	1.7E-41	T	21-03-2019
+MAG061_9_2	34a4bba69d1c8f9130ad2e9ae8540907	152	Pfam	PF04076	Bacterial OB fold (BOF) protein	55	151	1.4E-28	T	21-03-2019	IPR005220	Bacterial OB-fold
+MAG061_5_11	94508bf15037a1694fc7e6d1d6c3c292	525	Pfam	PF00749	tRNA synthetases class I (E and Q), catalytic domain	40	364	8.4E-64	T	21-03-2019	IPR020058	Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain
+MAG061_5_11	94508bf15037a1694fc7e6d1d6c3c292	525	TIGRFAM	TIGR00464	gltX_bact: glutamate--tRNA ligase	40	521	1.3E-89	T	21-03-2019	IPR004527	Glutamate-tRNA ligase, bacterial/mitochondrial
+MAG061_4_110	8bd564a650de0b074da5b93f28a12e3a	104	Pfam	PF12647	RNHCP domain	9	92	1.2E-26	T	21-03-2019	IPR024439	RNHCP domain
+MAG061_1_17	6739d91ce7baf14ca5b9848d2abfbc72	305	Pfam	PF00589	Phage integrase family	133	287	9.8E-35	T	21-03-2019	IPR002104	Integrase, catalytic domain
+MAG061_1_17	6739d91ce7baf14ca5b9848d2abfbc72	305	Pfam	PF02899	Phage integrase, N-terminal SAM-like domain	6	90	5.1E-16	T	21-03-2019	IPR004107	Integrase, SAM-like, N-terminal
+MAG061_1_39	b50c0fde3f10e1d46c39d1c9e6d8937d	341	Pfam	PF02547	Queuosine biosynthesis protein	4	335	2.0E-118	T	21-03-2019	IPR003699	S-adenosylmethionine:tRNA ribosyltransferase-isomerase,  QueA
+MAG061_1_39	b50c0fde3f10e1d46c39d1c9e6d8937d	341	TIGRFAM	TIGR00113	queA: S-adenosylmethionine:tRNA ribosyltransferase-isomerase	3	334	1.5E-108	T	21-03-2019	IPR003699	S-adenosylmethionine:tRNA ribosyltransferase-isomerase,  QueA
+MAG061_3_102	bb47de0e6190d26520cc27c167a73849	362	Pfam	PF00365	Phosphofructokinase	6	295	1.0E-70	T	21-03-2019	IPR000023	Phosphofructokinase domain
+MAG061_4_2	992abbec4cf84f6ec03b1f8e1d0d19ce	282	Pfam	PF06230	Protein of unknown function (DUF1009)	68	279	9.6E-55	T	21-03-2019	IPR010415	Protein of unknown function DUF1009
+MAG061_1_19	8fd3c7547b7a9f130869db705a22fd3a	332	Pfam	PF00579	tRNA synthetases class I (W and Y)	5	285	3.2E-54	T	21-03-2019	IPR002305	Aminoacyl-tRNA synthetase, class Ic
+MAG061_1_19	8fd3c7547b7a9f130869db705a22fd3a	332	TIGRFAM	TIGR00233	trpS: tryptophan--tRNA ligase	3	328	4.3E-85	T	21-03-2019	IPR002306	Tryptophan-tRNA ligase
+MAG061_2_122	b7a41ecfaa03a32b0b5ea39afce58ce0	330	Pfam	PF00535	Glycosyl transferase family 2	3	187	4.0E-36	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_6_28	f1a454c21c3984a4a9ea5a4bd6e8688d	215	Pfam	PF00691	OmpA family	110	205	1.3E-24	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_6_28	f1a454c21c3984a4a9ea5a4bd6e8688d	215	Pfam	PF13488	Glycine zipper	35	80	5.4E-8	T	21-03-2019	IPR039567	Glycine zipper domain
+MAG061_5_50	81fba13932174968adf462d3c05ff060	542	Pfam	PF00263	Bacterial type II and III secretion system protein	357	523	1.3E-12	T	21-03-2019	IPR004846	Type II/III secretion system
+MAG061_8_27	b9d0b0bf50e57ffdbc3fdb1595045e58	235	Pfam	PF01553	Acyltransferase	69	191	2.2E-20	T	21-03-2019	IPR002123	Phospholipid/glycerol acyltransferase
+MAG061_3_77	8df977d6996fae9a6016aa4b0df95d68	218	Pfam	PF00072	Response regulator receiver domain	5	114	2.4E-24	T	21-03-2019	IPR001789	Signal transduction response regulator, receiver domain
+MAG061_2_97	08af9127f069ae7d42fba8e9d9477c83	441	Pfam	PF04575	Protein of unknown function (DUF560)	149	441	2.9E-38	T	21-03-2019	IPR007655	Protein of unknown function DUF560
+MAG061_5_22	faab90259e2f3cc75cfc2ddb9749bf5f	103	Pfam	PF01883	Iron-sulfur cluster assembly protein	4	75	7.3E-20	T	21-03-2019	IPR002744	MIP18 family-like
+MAG061_1_110	4f3cb21aa8b8947b9921a11cdeacec95	306	Pfam	PF05045	Rhamnan synthesis protein F	35	221	8.2E-17	T	21-03-2019	IPR007739	Rhamnan synthesis F
+MAG061_2_135	face86944dd986ea71a40018755ba951	360	Pfam	PF03739	Predicted permease YjgP/YjgQ family	17	353	6.9E-42	T	21-03-2019	IPR005495	Permease LptG/LptF-related
+MAG061_4_17	228d780d5dfd0a416f74497562550ca2	110	Pfam	PF09851	Short C-terminal domain	81	107	2.4E-7	T	21-03-2019	IPR018649	SHOCT domain
+MAG061_5_17	bb9029dcf16d9484f581c59f81e18450	84	Pfam	PF02416	mttA/Hcf106 family	4	54	6.5E-13	T	21-03-2019	IPR003369	Sec-independent protein translocase protein TatA/B/E
+MAG061_4_109	d49e63dc05cd98f27cc5db2b394a041b	82	Pfam	PF10073	Uncharacterized protein conserved in bacteria (DUF2312)	11	81	3.6E-26	T	21-03-2019	IPR018753	Azospirillum phage Cd, Gp10
+MAG061_4_142	e4b09dd80f05e3da64eed27861270dec	102	Pfam	PF09864	Membrane-bound lysozyme-inhibitor of c-type lysozyme	28	87	6.6E-7	T	21-03-2019	IPR018660	C-type lysozyme inhibitor
+MAG061_1_12	621057cb542dccd0460d1b66c18ce147	299	Pfam	PF13177	DNA polymerase III, delta subunit	42	175	3.2E-24	T	21-03-2019
+MAG061_4_149	07b05d97795c02f8b8c06171a65bf005	178	Pfam	PF02245	Methylpurine-DNA glycosylase (MPG)	6	172	5.9E-47	T	21-03-2019	IPR003180	Methylpurine-DNA glycosylase
+MAG061_4_3	2961c43515741bfb038beb843851ba45	256	Pfam	PF13505	Outer membrane protein beta-barrel domain	84	256	3.5E-7	T	21-03-2019	IPR027385	Outer membrane protein beta-barrel
+MAG061_7_15	4d8a1ade9b3ade719270641101384aad	225	Pfam	PF00239	Resolvase, N terminal domain	21	163	3.4E-31	T	21-03-2019	IPR006119	Resolvase, N-terminal catalytic domain
+MAG061_3_132	7607e0f4aa9ad9a588b1aec33857ac9d	294	Pfam	PF00535	Glycosyl transferase family 2	8	135	2.8E-35	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_3_41	3c380c1d5c83f091578057e2cfa68102	434	Pfam	PF01551	Peptidase family M23	334	428	5.9E-30	T	21-03-2019	IPR016047	Peptidase M23
+MAG061_1_124	3ef156c573d3d4ab7b699360845975e7	352	Pfam	PF02163	Peptidase family M50	10	335	1.1E-67	T	21-03-2019	IPR008915	Peptidase M50
+MAG061_5_28	0c77c9508fa5b02140fb4b5b1c80c172	200	Pfam	PF03548	Outer membrane lipoprotein carrier protein LolA	31	184	4.5E-27	T	21-03-2019	IPR004564	Outer membrane lipoprotein carrier protein LolA-like
+MAG061_5_65	78dffc0e26051ba532bda26d35139738	321	Pfam	PF00849	RNA pseudouridylate synthase	100	250	9.1E-30	T	21-03-2019	IPR006145	Pseudouridine synthase, RsuA/RluB/C/D/E/F
+MAG061_5_65	78dffc0e26051ba532bda26d35139738	321	TIGRFAM	TIGR00005	rluA_subfam: pseudouridine synthase, RluA family	11	315	9.0E-63	T	21-03-2019	IPR006225	Pseudouridine synthase, RluC/RluD
+MAG061_4_51	2ed5384f34d005e6d812a6b708ecf32a	163	Pfam	PF02195	ParB-like nuclease domain	9	92	2.9E-11	T	21-03-2019	IPR003115	ParB/Sulfiredoxin
+MAG061_1_55	faf1115d10acfb691285e3bc7e56eaa8	213	Pfam	PF00753	Metallo-beta-lactamase superfamily	15	196	9.1E-21	T	21-03-2019	IPR001279	Metallo-beta-lactamase
+MAG061_4_82	4b2459defb2b006f40b8caeacc04d7f8	325	Pfam	PF04055	Radical SAM superfamily	29	149	1.5E-14	T	21-03-2019	IPR007197	Radical SAM
+MAG061_4_84	58cbb4c6459e14dcc33a37612f053183	99	Pfam	PF02381	MraZ protein, putative antitoxin-like	28	85	2.3E-10	T	21-03-2019	IPR020603	MraZ domain
+MAG061_3_26	d6f79c913b10dc5087f03eb89303f81a	219	Pfam	PF01728	FtsJ-like methyltransferase	35	217	1.1E-57	T	21-03-2019	IPR002877	Ribosomal RNA methyltransferase FtsJ domain
+MAG061_2_130	c757a2a62b4ff6cf978f9d9235543e81	302	Pfam	PF07992	Pyridine nucleotide-disulphide oxidoreductase	7	287	4.5E-38	T	21-03-2019	IPR023753	FAD/NAD(P)-binding domain
+MAG061_1_79	703c8b0a96838c4ade4b7ee4c8ce4a95	110	Pfam	PF03840	Preprotein translocase SecG subunit	4	72	1.2E-17	T	21-03-2019	IPR004692	Preprotein translocase SecG subunit
+MAG061_1_79	703c8b0a96838c4ade4b7ee4c8ce4a95	110	TIGRFAM	TIGR00810	secG: preprotein translocase, SecG subunit	3	73	3.4E-17	T	21-03-2019	IPR004692	Preprotein translocase SecG subunit
+MAG061_1_18	c055cad941d2bea68af953897f19e890	244	Pfam	PF04402	Protein of unknown function (DUF541)	33	241	6.8E-20	T	21-03-2019	IPR007497	Protein of unknown function DUF541
+MAG061_1_35	c25e997c415a3372d0bb676fd6b5475e	358	Pfam	PF00535	Glycosyl transferase family 2	9	98	3.1E-27	T	21-03-2019	IPR001173	Glycosyltransferase 2-like
+MAG061_6_8	b3ef6d752632db59f40fb01ec0937261	224	Pfam	PF03938	Outer membrane protein (OmpH-like)	57	209	6.4E-17	T	21-03-2019	IPR005632	Chaperone protein Skp
+MAG061_2_90	28f76da873e88ec7f8a682aa6079dc07	238	Pfam	PF01709	Transcriptional regulator	5	235	2.6E-86	T	21-03-2019	IPR002876	Transcriptional regulator TACO1-like
+MAG061_2_90	28f76da873e88ec7f8a682aa6079dc07	238	TIGRFAM	TIGR01033	TIGR01033: DNA-binding regulatory protein, YebC/PmpR family	1	236	2.5E-84	T	21-03-2019	IPR002876	Transcriptional regulator TACO1-like
+MAG061_3_124	9926f52c64acd42f0670bffe91188655	172	Pfam	PF06242	Protein of unknown function (DUF1013)	34	172	1.4E-42	T	21-03-2019	IPR010421	Protein of unknown function DUF1013
+MAG061_4_123	a73853c1c0259bc729969d4a065a7619	443	Pfam	PF02321	Outer membrane efflux protein	262	435	4.4E-22	T	21-03-2019	IPR003423	Outer membrane efflux protein
+MAG061_4_123	a73853c1c0259bc729969d4a065a7619	443	Pfam	PF02321	Outer membrane efflux protein	29	236	5.5E-21	T	21-03-2019	IPR003423	Outer membrane efflux protein
+MAG061_2_124	1a80c3333a3b1747c6f873379bed3432	282	Pfam	PF05045	Rhamnan synthesis protein F	36	245	4.3E-14	T	21-03-2019	IPR007739	Rhamnan synthesis F
+MAG061_3_42	df0bb56b5b0a34c821c48625e4bec58c	226	Pfam	PF13649	Methyltransferase domain	43	112	2.6E-15	T	21-03-2019
+MAG061_3_122	6ecb42174c376e977e0ac229cb7ffcbb	172	Pfam	PF00625	Guanylate kinase	3	34	9.3E-6	T	21-03-2019	IPR008145	Guanylate kinase/L-type calcium channel beta subunit
+MAG061_2_74	4116bd5d52e76d5768233a65632a70bf	356	Pfam	PF00482	Type II secretion system (T2SS), protein F	225	343	2.1E-13	T	21-03-2019	IPR018076	Type II secretion system F domain
+MAG061_2_74	4116bd5d52e76d5768233a65632a70bf	356	Pfam	PF00482	Type II secretion system (T2SS), protein F	24	148	1.2E-10	T	21-03-2019	IPR018076	Type II secretion system F domain
+MAG061_10_3	40465d1f644945d9cfd74273af300f2e	370	Pfam	PF00691	OmpA family	253	361	5.7E-18	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_5_66	8ebfffa1a84ab802abb0979a65ced4d1	697	Pfam	PF05170	AsmA family	12	153	2.0E-13	T	21-03-2019	IPR007844	AsmA
+MAG061_5_66	8ebfffa1a84ab802abb0979a65ced4d1	697	Pfam	PF05170	AsmA family	306	550	1.2E-8	T	21-03-2019	IPR007844	AsmA
+MAG061_4_92	698a6bfbac79fdea329539fbb46fddf3	159	Pfam	PF00466	Ribosomal protein L10	1	97	2.4E-21	T	21-03-2019	IPR001790	Ribosomal protein L10P
+MAG061_1_64	c808fadeaa63a94dcdf4dc12fd679999	340	Pfam	PF01551	Peptidase family M23	199	309	6.9E-21	T	21-03-2019	IPR016047	Peptidase M23
+MAG061_8_23	2ed9492ed375685b8824724f1cb3d7f4	134	Pfam	PF00691	OmpA family	31	125	3.2E-17	T	21-03-2019	IPR006665	OmpA-like domain
+MAG061_1_99	bccd182810306b2b6f48a9ef04f09731	70	Pfam	PF04070	Domain of unknown function (DUF378)	6	60	1.0E-18	T	21-03-2019	IPR007211	Protein of unknown function DUF378
+MAG061_1_167	b002731da71e6add88488196c52f095e	561	Pfam	PF13091	PLD-like domain	364	503	5.6E-20	T	21-03-2019	IPR025202	Phospholipase D-like domain
+MAG061_1_167	b002731da71e6add88488196c52f095e	561	Pfam	PF13091	PLD-like domain	121	267	3.6E-14	T	21-03-2019	IPR025202	Phospholipase D-like domain
+MAG061_1_7	47b2a1f1b3f4bbb152f4fcb3afe8e1e9	287	Pfam	PF02405	Permease MlaE	73	280	6.6E-63	T	21-03-2019	IPR030802	ABC transporter permease MalE
+MAG061_4_98	19005b738f3a7a29b862b2a9982167ae	223	Pfam	PF04335	VirB8 protein	14	212	3.1E-5	T	21-03-2019	IPR007430	Bacterial virulence protein VirB8
+MAG061_1_97	37c74f5957f16b02377d227ce5b2ce1b	225	Pfam	PF00899	ThiF family	6	219	5.4E-40	T	21-03-2019	IPR000594	THIF-type NAD/FAD binding fold
+MAG061_4_26	d20297e5a10153990c839815def7b467	92	Pfam	PF05164	Cell division protein ZapA	4	66	8.8E-12	T	21-03-2019	IPR007838	Cell division protein ZapA-like
+MAG061_12_8	1d4e719959cabbd04fdd4ce5f5322535	101	Pfam	PF03948	Ribosomal protein L9, C-terminal domain	1	54	3.2E-9	T	21-03-2019	IPR020069	Ribosomal protein L9, C-terminal
